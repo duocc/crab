@@ -143,6 +143,9 @@ http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 
 #江苏频道
+
+#EXTINF:-1 tvg-name="江苏城市" tvg-id="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="江苏频道", 江苏城市
+https://litchiapp-hls.jstv.com/lizhiapp/jscs.m3u8
 #EXTINF:-1 tvg-name="南京信息" tvg-id="南京信息" tvg-logo="https://live.fanmingming.com/tv/南京信息.png" group-title="江苏频道", 南京信息
 http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
 #EXTINF:-1 tvg-name="南京十八" tvg-id="南京十八" tvg-logo="https://live.fanmingming.com/tv/南京十八.png" group-title="江苏频道", 南京十八
@@ -156,7 +159,7 @@ http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 #EXTINF:-1 tvg-name="南京生活" tvg-id="南京生活" tvg-logo="https://live.fanmingming.com/tv/南京生活.png" group-title="江苏频道", 南京生活
 http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 #EXTINF:-1 tvg-name="扬州城市" tvg-id="扬州城市" tvg-logo="https://live.fanmingming.com/tv/扬州城市.png" group-title="江苏频道", 扬州城市
-http://cm-wshls.homecdn.com/live/8bd.m3u8
+https://yztv-wshls.homecdn.com/8bb.m3u8?t=1661149814&k=c57e548b33a07e3992528071b8122f29
 #EXTINF:-1 tvg-name="扬州新闻" tvg-id="扬州新闻" tvg-logo="https://live.fanmingming.com/tv/扬州新闻.png" group-title="江苏频道", 扬州新闻
 http://cm-wshls.homecdn.com/live/8bb.m3u8
 #EXTINF:-1 tvg-name="扬州生活" tvg-id="扬州生活" tvg-logo="https://live.fanmingming.com/tv/扬州生活.png" group-title="江苏频道", 扬州生活
