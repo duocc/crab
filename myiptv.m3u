@@ -159,7 +159,7 @@ http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 #EXTINF:-1 tvg-name="南京生活" tvg-id="南京生活" tvg-logo="https://live.fanmingming.com/tv/南京生活.png" group-title="江苏频道", 南京生活
 http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 #EXTINF:-1 tvg-name="扬州城市" tvg-id="扬州城市" tvg-logo="https://live.fanmingming.com/tv/扬州城市.png" group-title="江苏频道", 扬州城市
-https://yztv-wshls.homecdn.com/8bb.m3u8?t=1661149814&k=c57e548b33a07e3992528071b8122f29
+http://lu1.cc/c/tv/jstv/yzxl.php?id=yztv1&fmt=hls
 #EXTINF:-1 tvg-name="扬州新闻" tvg-id="扬州新闻" tvg-logo="https://live.fanmingming.com/tv/扬州新闻.png" group-title="江苏频道", 扬州新闻
 http://cm-wshls.homecdn.com/live/8bb.m3u8
 #EXTINF:-1 tvg-name="扬州生活" tvg-id="扬州生活" tvg-logo="https://live.fanmingming.com/tv/扬州生活.png" group-title="江苏频道", 扬州生活
