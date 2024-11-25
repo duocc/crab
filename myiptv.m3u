@@ -135,17 +135,17 @@ http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 
 #江苏频道
 #EXTINF:-1 tvg-name="南京信息" tvg-id="南京信息" tvg-logo="https://live.fanmingming.com/tv/南京信息.png" group-title="江苏频道", 南京信息
-https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
 #EXTINF:-1 tvg-name="南京十八" tvg-id="南京十八" tvg-logo="https://live.fanmingming.com/tv/南京十八.png" group-title="江苏频道", 南京十八
-http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 #EXTINF:-1 tvg-name="南京娱乐" tvg-id="南京娱乐" tvg-logo="https://live.fanmingming.com/tv/南京娱乐.png" group-title="江苏频道", 南京娱乐
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="南京教科" tvg-id="南京教科" tvg-logo="https://live.fanmingming.com/tv/南京教科.png" group-title="江苏频道", 南京教科
 http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-id="南京新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="江苏频道", 南京新闻综合
-https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 #EXTINF:-1 tvg-name="南京生活" tvg-id="南京生活" tvg-logo="https://live.fanmingming.com/tv/南京生活.png" group-title="江苏频道", 南京生活
-https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 #EXTINF:-1 tvg-name="扬州城市" tvg-id="扬州城市" tvg-logo="https://live.fanmingming.com/tv/扬州城市.png" group-title="江苏频道", 扬州城市
 http://cm-wshls.homecdn.com/live/8bd.m3u8
 #EXTINF:-1 tvg-name="扬州新闻" tvg-id="扬州新闻" tvg-logo="https://live.fanmingming.com/tv/扬州新闻.png" group-title="江苏频道", 扬州新闻
