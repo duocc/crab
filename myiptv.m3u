@@ -29,7 +29,7 @@ http://111.61.236.247:9081/hls/11/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道", CCTV12
 http://113.140.86.162:8009/hls/507/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道", CCTV13
-http://121.18.43.254:10000/hls/13/index.m3u8
+http://119.163.199.98:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道", CCTV14
 http://116.117.104.39:8096/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道", CCTV15
@@ -38,8 +38,18 @@ http://221.0.78.198:1681/hls/10215/index.m3u8
 http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道", CCTV17
 http://58.48.37.158:1111/tsfile/live/0017_1.m3u8
-#EXTINF:-1 group-title="4K频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",group-title="央视频道",CCTV4K-25P-SDR源
-https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道", CCTV世界地理
+http://111.61.236.247:9081/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-id="CCTV央视台球" tvg-logo="" group-title="央视频道", CCTV央视台球
+http://59.51.113.18:18888/udp/239.76.254.58:9000
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-id="女性时尚" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVnxss.png" group-title="央视频道", CCTV女性时尚
+http://111.61.236.247:9081/hls/59/index.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVhjjc.png" group-title="央视频道", CCTV怀旧剧场
+http://111.61.236.247:9081/hls/67/index.m3u8
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-id="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道", CCTV第一剧场
+http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道", CCTV风云足球
+http://111.61.236.247:9081/hls/58/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道", 安徽卫视
 http://219.147.200.9:18080/newlive/live/hls/43/live.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道", 北京卫视
