@@ -32,9 +32,9 @@ http://119.163.199.98:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道", CCTV14
 http://148.135.93.213:81/live.php?id=CCTV14
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道", CCTV15
-http://221.0.78.198:1681/hls/10215/index.m3u8
+http://148.135.93.213:81/live.php?id=CCTV15
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道", CCTV16
-http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
+http://148.135.93.213:81/live.php?id=CCTV16
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道", CCTV17
 http://58.48.37.158:1111/tsfile/live/0017_1.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道", CCTV世界地理
