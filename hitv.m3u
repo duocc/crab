@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gist.githubusercontent.com/duocc/fa8bbfba09f762c306bcbb930b5efd69/raw/
+#EXT-X-SUB-URL https://raw.githubusercontent.com/duocc/crab/refs/heads/main/hitv.m3u
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视 HD",CCTV-1 HD
 http://192.168.123.1:4000/rtp/239.253.64.120:5140?fcc=10.255.75.73:15970
