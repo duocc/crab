@@ -367,14 +367,6 @@ http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 #EXTINF:-1 tvg-name="南京生活" tvg-id="南京生活" tvg-logo="https://live.fanmingming.com/tv/南京生活.png" group-title="江苏频道", 南京生活
 http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
-#EXTINF:-1 tvg-name="扬州城市" tvg-id="扬州城市" tvg-logo="https://live.fanmingming.com/tv/扬州城市.png" group-title="江苏频道", 扬州城市
-http://cm-wshls.homecdn.com/live/8bd.m3u8
-#EXTINF:-1 tvg-name="扬州新闻" tvg-id="扬州新闻" tvg-logo="https://live.fanmingming.com/tv/扬州新闻.png" group-title="江苏频道", 扬州新闻
-http://cm-wshls.homecdn.com/live/8bb.m3u8
-#EXTINF:-1 tvg-name="扬州生活" tvg-id="扬州生活" tvg-logo="https://live.fanmingming.com/tv/扬州生活.png" group-title="江苏频道", 扬州生活
-http://cm-wshls.homecdn.com/live/8bf.m3u8
-#EXTINF:-1 tvg-name="扬州邗江" tvg-id="扬州邗江" tvg-logo="https://live.fanmingming.com/tv/扬州邗江.png" group-title="江苏频道", 扬州邗江
-http://cm-wshls.homecdn.com/live/8c3.m3u8
 #EXTINF:-1 tvg-name="无锡娱乐" tvg-id="无锡娱乐" tvg-logo="https://live.fanmingming.com/tv/无锡娱乐.png" group-title="江苏频道", 无锡娱乐
 http://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡新闻综合" tvg-id="无锡新闻综合" tvg-logo="https://live.fanmingming.com/tv/无锡新闻综合.png" group-title="江苏频道", 无锡新闻综合
