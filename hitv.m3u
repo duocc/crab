@@ -4,7 +4,7 @@
 #EXT-X-SUB-URL https://raw.githubusercontent.com/duocc/crab/main/hitv.m3u
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视 HD",CCTV-1 HD
-http://192.168.123.1:4000/rtp/239.253.64.120:5140?fcc=10.255.75.73:15970
+http://192.168.123.1:4000/rtp/239.253.64.120:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视 HD",CCTV-2 HD
 http://192.168.123.1:4000/rtp/239.253.64.195:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视 HD",CCTV-3 HD
