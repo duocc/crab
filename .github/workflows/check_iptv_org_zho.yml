@@ -1,0 +1,49 @@
+name: Check IPTV-ORG Chinese M3U
+
+on:
+  schedule:
+    # 每天 UTC 时间 03:00 运行 (北京时间上午 11:00)
+    # 错开整点，减少服务器压力
+    - cron: '0 3 * * *'
+  push:
+    branches:
+      - main # 或者你的默认分支
+    paths:
+      # 仅当脚本或此 workflow 文件变化时才在 push 时触发
+      - 'm3u_checker.py' # 确保路径正确
+      - '.github/workflows/check_iptv_org_zho.yml'
+  workflow_dispatch: # 允许手动从 Actions 标签页触发
+
+jobs:
+  check_external_m3u:
+    runs-on: ubuntu-latest
+    
+    env:
+      # 要检查的 M3U URL
+      M3U_URL: "https://iptv-org.github.io/iptv/languages/zho.m3u"
+      # 每个流媒体链接的检查超时时间 (秒)
+      STREAM_CHECK_TIMEOUT: 15 
+      # 下载 M3U 文件本身的超时时间 (秒)
+      M3U_DOWNLOAD_TIMEOUT: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 # 拉取你的代码，以便能运行 m3u_checker.py
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # 你可以选择合适的 Python 版本
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run M3U Checker
+        run: |
+          # 确保 m3u_checker.py 的路径正确
+          # 如果脚本在根目录:
+          python m3u_checker.py "${{ env.M3U_URL }}" --timeout ${{ env.STREAM_CHECK_TIMEOUT }} --download-timeout ${{ env.M3U_DOWNLOAD_TIMEOUT }}
+          # 如果脚本在例如 scripts/ 目录下:
+          # python scripts/m3u_checker.py "${{ env.M3U_URL }}" --timeout ${{ env.STREAM_CHECK_TIMEOUT }} --download-timeout ${{ env.M3U_DOWNLOAD_TIMEOUT }}
