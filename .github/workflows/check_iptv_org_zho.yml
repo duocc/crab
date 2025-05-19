@@ -44,6 +44,7 @@ jobs:
 
       - name: Run M3U Checker and Save Valid Links
         id: run_checker # Give this step an ID to reference its outputs
+        continue-on-error: true 
         run: |
           # Ensure m3u_checker.py is executable or called with python
           python m3u_checker.py "${{ env.M3U_URL }}" \
