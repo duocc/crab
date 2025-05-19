@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     
     env:
-      M3U_URL: "https://iptv-org.github.io/iptv/languages/zho.m3u"
+      M3U_URL: "https://live.izbds.com/tv/iptv4.m3u"
       STREAM_CHECK_TIMEOUT: 15
       M3U_DOWNLOAD_TIMEOUT: 60 # Increased slightly just in case
       OUTPUT_DIR_NAME: "generated_m3u" # Name of the directory for output
