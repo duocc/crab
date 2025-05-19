@@ -251,7 +251,18 @@ if __name__ == "__main__":
         # Sorting happens inside save_valid_m3u now
         saved_filepath = save_valid_m3u(valid_entries_to_save, args.output_dir, args.output_prefix)
         if saved_filepath:
-            print(f"::set-output name=saved_m3u_path::{saved_filepath}")
+            # print(f"::set-output name=saved_m3u_path::{saved_filepath}")
+            # --- 修改开始 ---
+            # 旧方法: print(f"::set-output name=saved_m3u_path::{saved_filepath}")
+            # 新方法: 写入到 GITHUB_OUTPUT 文件
+            github_output_file = os.getenv('GITHUB_OUTPUT')
+            if github_output_file:
+                with open(github_output_file, 'a') as f: # Append mode
+                    f.write(f"saved_m3u_path={saved_filepath}\n")
+                print(f"已将输出 saved_m3u_path={saved_filepath} 写入 GITHUB_OUTPUT")
+            else:
+                print(f"警告: GITHUB_OUTPUT 环境变量未设置。无法设置Action输出。")
+            # --- 修改结束 ---
 
     end_time = time.time()
     print(f"\n总耗时: {end_time - start_time:.2f} 秒.")
