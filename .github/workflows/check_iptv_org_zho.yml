@@ -51,7 +51,7 @@ jobs:
             --timeout ${{ env.STREAM_CHECK_TIMEOUT }} \
             --download-timeout ${{ env.M3U_DOWNLOAD_TIMEOUT }} \
             --output-dir "${{ env.OUTPUT_DIR_NAME }}" \
-            --output-prefix "${{ env.OUTPUT_FILENAME_PREFIX }}"
+            --output-prefix "${{ env.OUTPUT_FILENAME_PREFIX }}" \
             --workers 20
         # If your script is in a subdir like 'scripts/':
         # run: |
