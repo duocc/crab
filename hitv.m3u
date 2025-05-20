@@ -7,7 +7,7 @@ http://192.168.123.1:4000/rtp/239.253.64.195:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.244:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视HD",CCTV-4 HD
 http://192.168.123.1:4000/rtp/239.253.64.196:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视HD",CCTV-5 HD
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视HD",CCTV-5 HD
 http://192.168.123.1:4000/rtp/239.253.64.245:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视HD",CCTV-5+ HD
 http://192.168.123.1:4000/rtp/239.253.64.100:5140?fcc=10.255.75.73:15970
@@ -43,7 +43,7 @@ http://192.168.123.1:4000/rtp/239.253.64.126:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.243:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4KUHD",欢笑剧场 4K
 http://192.168.123.1:4000/rtp/239.253.64.138:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="海南地方台HD",海南卫视 HD
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="海南地方台HD",海南卫视 HD
 http://192.168.123.1:4000/rtp/239.253.64.253:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="海南地方台HD",三沙卫视 HD
 http://192.168.123.1:4000/rtp/239.253.64.112:5140?fcc=10.255.75.73:15970
@@ -137,7 +137,7 @@ http://192.168.123.1:4000/rtp/239.253.64.23:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.53:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://192.168.123.1:4000/rtp/239.253.64.17:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="海南地方台",海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="海南地方台",海南卫视
 http://192.168.123.1:4000/rtp/239.253.64.5:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="海南地方台",三沙卫视
 http://192.168.123.1:4000/rtp/239.253.64.113:5140?fcc=10.255.75.73:15970
@@ -195,7 +195,7 @@ http://192.168.123.1:4000/rtp/239.253.64.166:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.10:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="数字付费",IPTV5+
 http://192.168.123.1:4000/rtp/239.253.64.26:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV6+.png" group-title="数字付费",IPTV6+
+#EXTINF:-1 tvg-id="95" tvg-name="IPTV6+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV6+.png" group-title="数字付费",IPTV6+
 http://192.168.123.1:4000/rtp/239.253.64.49:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV8+.png" group-title="数字付费",IPTV8+
 http://192.168.123.1:4000/rtp/239.253.64.160:5140?fcc=10.255.75.73:15970
