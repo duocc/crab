@@ -17,7 +17,8 @@ jobs:
     
     env:
       #M3U_URL: "https://live.izbds.com/tv/iptv4.m3u"
-      M3U_URL: "https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u"
+      #M3U_URL: "https://raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u"
+      M3U_URL: "https://raw.githubusercontent.com/duocc/crab/refs/heads/main/myiptv.m3u"
       STREAM_CHECK_TIMEOUT: 15
       M3U_DOWNLOAD_TIMEOUT: 60 # Increased slightly just in case
       OUTPUT_DIR_NAME: "generated_m3u" # Name of the directory for output
