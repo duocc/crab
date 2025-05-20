@@ -2,7 +2,7 @@ name: Check IPTV-ORG Chinese M3U and Save Valid
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3 * * 1'
   push:
     branches:
       - main
