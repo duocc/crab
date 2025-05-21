@@ -352,6 +352,8 @@ http://192.168.123.1:4000/rtp/239.253.64.42:5140?fcc=10.255.75.73:15970
 #江苏频道
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="江苏频道", 江苏城市
 http://969777.xyz/jstv/?id=jscs
+#EXTINF:-1 tvg-id="扬州新闻" tvg-name="扬州新闻" tvg-logo="https://live.fanmingming.com/tv/扬州新闻.png" group-title="江苏频道", 扬州新闻
+http://969777.xyz/jstv/?id=yz1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京信息.png" group-title="江苏频道", 南京信息
 http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京十八.png" group-title="江苏频道", 南京十八
