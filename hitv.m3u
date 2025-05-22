@@ -370,7 +370,7 @@ https://zjcn-live-play.jstv.com/live/jsxx_live.m3u8
 https://zjcn-live-play.jstv.com/live/ymkt_live.m3u8
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="江苏频道", 南京新闻综合
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/nanjing.m3u8|referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/live/nanjing.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京十八.png" group-title="江苏频道", 南京十八
 http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京娱乐.png" group-title="江苏频道", 南京娱乐
