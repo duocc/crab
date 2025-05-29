@@ -627,3 +627,5 @@ https://smart.pendy.dpdns.org/Smart.php?id=Tlc
 https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
 #EXTINF:-1,tvg-id="纪录频道|HGTV" tvg-name="纪录频道|HGTV" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="Smart☠️源",纪录频道|HGTV
 https://smart.pendy.dpdns.org/Smart.php?id=HGTV
+#EXTINF:-1,tvg-id="纪录频道|TVBS HD" tvg-name="纪录频道|TVBS HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="Smart☠️源",纪录频道|TVBS HD
+http://4gtv.livednow.dpdns.org/li-4gtv-4gtv073/index.m3u8
