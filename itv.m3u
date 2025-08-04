@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml" url-tvg="https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视 HD",CCTV-1 HD
 http://192.168.123.1:4000/rtp/239.253.64.120:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视 HD",CCTV-2 HD
@@ -57,6 +57,14 @@ http://192.168.123.1:4000/rtp/239.253.64.122:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.124:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="海南地方台 HD",海南公共 HD
 http://192.168.123.1:4000/rtp/239.253.64.14:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="海口1台" tvg-name="海口1台" group-title="海南地方台 HD",海口1台
+http://192.168.123.1:4000/rtp/239.253.64.6:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="海口2台" tvg-name="海口2台" group-title="海南地方台 HD",海口2台
+http://192.168.123.1:4000/rtp/239.253.64.7:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="海口3台" tvg-name="海口3台" group-title="海南地方台 HD",海口3台
+http://192.168.123.1:4000/rtp/239.253.64.8:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="三亚1台" tvg-name="三亚1台" group-title="海南地方台 HD",三亚1台
+http://192.168.123.1:4000/rtp/239.253.64.9:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方卫视 HD",东方卫视 HD
 http://192.168.123.1:4000/rtp/239.253.64.201:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方卫视 HD",湖南卫视 HD
@@ -111,6 +119,10 @@ http://192.168.123.1:4000/rtp/239.253.64.125:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.102:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="数字付费 HD",CETV-1 HD
 http://192.168.123.1:4000/rtp/239.253.64.169:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="中国教育2台"  tvg-name="中国教育2台" group-title="数字付费 HD",CETV-2
+http://192.168.123.1:4000/rtp/239.253.64.128:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="中国教育4台"  tvg-name="中国教育4台" group-title="数字付费 HD",CETV-4
+http://192.168.123.1:4000/rtp/239.253.64.139:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://192.168.123.1:4000/rtp/239.253.64.12:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
