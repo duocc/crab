@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" 
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml" 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视 HD",CCTV-1 HD
 http://192.168.123.1:4000/rtp/239.253.64.120:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视 HD",CCTV-2 HD
@@ -45,6 +45,16 @@ http://192.168.123.1:4000/rtp/239.253.64.61:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.62:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="4K UHD HD",东方卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.63:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="4K UHD",山东卫视 4K
+http://192.168.123.1:4000/rtp/239.253.64.65:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="4K UHD",广东卫视 4K
+http://192.168.123.1:4000/rtp/239.253.64.96:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K UHD",北京卫视 4K
+http://192.168.123.1:4000/rtp/239.253.64.92:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="4K UHD",深圳卫视 4K
+http://192.168.123.1:4000/rtp/239.253.64.95:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="4K UHD",四川卫视 4K
+http://192.168.123.1:4000/rtp/239.253.64.64:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K UHD",CCTV-16 4K
 http://192.168.123.1:4000/rtp/239.253.64.126:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K UHD",爱上 4K
@@ -103,20 +113,10 @@ http://192.168.123.1:4000/rtp/239.253.64.55:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.57:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="地方卫视 HD",江西卫视 HD
 http://192.168.123.1:4000/rtp/239.253.64.56:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="数字付费 HD",游戏风云 HD
-http://192.168.123.1:4000/rtp/239.253.64.161:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字付费 HD",生活时尚 HD
-http://192.168.123.1:4000/rtp/239.253.64.104:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="数字付费 HD",纪实人文 HD
-http://192.168.123.1:4000/rtp/239.253.64.149:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="" group-title="数字付费 HD",都市剧场 HD
-http://192.168.123.1:4000/rtp/239.253.64.101:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="数字付费 HD",金鹰纪实 HD
 http://192.168.123.1:4000/rtp/239.253.64.168:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="IPTV5+" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="数字付费 HD",IPTV5+ HD
 http://192.168.123.1:4000/rtp/239.253.64.125:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://upload.112114.xyz/logo/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="数字付费 HD",动漫秀场 HD
-http://192.168.123.1:4000/rtp/239.253.64.102:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="数字付费 HD",CETV-1 HD
 http://192.168.123.1:4000/rtp/239.253.64.169:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
