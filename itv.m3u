@@ -39,11 +39,11 @@ http://192.168.123.1:4000/rtp/239.253.64.67:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.58:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K UHD",湖南卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.60:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K UHD HD",江苏卫视 4k
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K UHD",江苏卫视 4k
 http://192.168.123.1:4000/rtp/239.253.64.61:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K UHD HD",浙江卫视 4K
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K UHD",浙江卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.62:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="4K UHD HD",东方卫视 4K
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="4K UHD",东方卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.63:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="4K UHD",山东卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.65:5140?fcc=10.255.75.73:15970
@@ -117,6 +117,16 @@ http://192.168.123.1:4000/rtp/239.253.64.56:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.168:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="IPTV5+" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="数字付费 HD",IPTV5+ HD
 http://192.168.123.1:4000/rtp/239.253.64.125:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 group-title="数字付费 HD",睛彩体育
+http://192.168.123.1:4000/rtp/239.253.64.151:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 group-title="数字付费 HD",睛彩篮球
+http://192.168.123.1:4000/rtp/239.253.64.152:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 group-title="数字付费 HD",睛彩少儿
+http://192.168.123.1:4000/rtp/239.253.64.153:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 group-title="数字付费 HD",BEST体育
+http://192.168.123.1:4000/rtp/239.253.64.187:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 group-title="数字付费 HD",BEST电竞
+http://192.168.123.1:4000/rtp/239.253.64.184:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="数字付费 HD",CETV-1 HD
 http://192.168.123.1:4000/rtp/239.253.64.169:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
