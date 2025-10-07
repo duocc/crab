@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://969777.xyz/epg/download/e.xml" 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视 HD",CCTV-1 HD
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视 HD",CCTV-1 HD
 http://192.168.123.1:4000/rtp/239.253.64.120:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视 HD",CCTV-2 HD
 http://192.168.123.1:4000/rtp/239.253.64.195:5140?fcc=10.255.75.73:15970
@@ -39,7 +39,7 @@ http://192.168.123.1:4000/rtp/239.253.64.67:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.58:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K UHD",湖南卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.60:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K UHD",江苏卫视 4k
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K UHD",江苏卫视 4k
 http://192.168.123.1:4000/rtp/239.253.64.61:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K UHD",浙江卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.62:5140?fcc=10.255.75.73:15970
