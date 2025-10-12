@@ -647,9 +647,15 @@ https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
 https://smart.pendy.dpdns.org/Smart.php?id=HGTV
 #EXTINF:-1,tvg-id="纪录频道|TVBS HD" tvg-name="纪录频道|TVBS HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="Smart☠️源",纪录频道|TVBS HD
 http://4gtv.livednow.dpdns.org/li-4gtv-4gtv073/index.m3u8
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="四季TV",民视
-https://969777.xyz/epg/4gtv/app/2/
-#EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="四季TV",民视第一台
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV.png" group-title="四季TV",民视
+https://969777.xyz/epg/4gtv/app/3/
+#EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV2.png" group-title="四季TV",民视第一台
 https://969777.xyz/epg/4gtv/app/1/
-#EXTINF:-1,tvg-id="華視新聞台" tvg-name="華視新聞台" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="四季TV",華視新聞
-https://969777.xyz/epg/4gtv/app/6/
+#EXTINF:-1,tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png" group-title="四季TV",民視台灣台
+https://969777.xyz/epg/4gtv/app/2/
+#EXTINF:-1,tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道"  group-title="四季TV",ARIRANG阿里郎頻道
+https://969777.xyz/epg/4gtv/app/189/
+#EXTINF:-1,tvg-id="France 24" tvg-name="France 24"  group-title="四季TV",France 24
+https://969777.xyz/epg/4gtv/app/316/
+#EXTINF:-1,tvg-id="NHK World" tvg-name="NHK World"  group-title="四季TV",NHK World
+https://969777.xyz/epg/4gtv/app/461/
