@@ -661,3 +661,5 @@ https://969777.xyz/epg/4gtv/app/189/
 https://969777.xyz/epg/4gtv/app/316/
 #EXTINF:-1,tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/NHKWorld.png" group-title="四季TV",NHK World
 https://969777.xyz/epg/4gtv/app/461/
+#EXTINF:-1,tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/AlJazeera.png" group-title="四季TV",半島國際新聞台
+https://969777.xyz/epg/4gtv/app/462/
