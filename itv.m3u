@@ -448,20 +448,20 @@ EXTINF:-1 tvg-id="Judy" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/You
 https://smart.pendy.dpdns.org/youtube.php?id=SdzewdkJa-o
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
 https://969777.xyz/epg/yt/PhoenixTV/
-#EXTINF:-1 tvg-id="Judy" tvg-name="中天新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",中天新聞台
-https://smart.pendy.dpdns.org/youtube.php?id=vr3XyVCR4T0
+#EXTINF:-1 tvg-id="Judy" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CTI2.png" group-title="You•Tube",中天新聞台
+https://969777.xyz/epg/yt/CTITVNews/
 #EXTINF:-1 tvg-id="Judy" tvg-name="公视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",公視新聞
 https://smart.pendy.dpdns.org/youtube.php?id=quwqlazU-c8
 #EXTINF:-1 tvg-id="Judy" tvg-name="民视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",民視新聞
 https://smart.pendy.dpdns.org/youtube.php?id=ylYJSBUgaMA
 #EXTINF:-1 tvg-id="Judy" tvg-name="台视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",台視新聞台
 https://smart.pendy.dpdns.org/youtube.php?id=xL0ch83RAK8
-#EXTINF:-1 tvg-id="Judy" tvg-name="中视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",中視新聞
-https://smart.pendy.dpdns.org/youtube.php?id=TCnaIE_SAtM
+#EXTINF:-1 tvg-id="Judy" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CTV1.png" group-title="You•Tube",中視新聞
+https://969777.xyz/epg/yt/CTVNews/
 #EXTINF:-1 tvg-id="Judy" tvg-name="华视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",華視新聞
 https://smart.pendy.dpdns.org/youtube.php?id=wM0g8EoUZ_E
-#EXTINF:-1 tvg-id="Judy" tvg-name="TVBSNEWS" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",TVBS NEWS
-https://smart.pendy.dpdns.org/youtube.php?id=m_dhMSvUCIc
+#EXTINF:-1 tvg-id="Judy" tvg-name="TVBSNEWS" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TVBS1.png" group-title="You•Tube",TVBS NEWS
+https://969777.xyz/epg/yt/TVBSNews/
 #EXTINF:-1 tvg-id="Judy" tvg-name="TVBS选新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",TVBS 選新聞
 https://smart.pendy.dpdns.org/youtube.php?id=d1jUeoc3pio
 #EXTINF:-1 tvg-id="Judy" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="You•Tube",三立新聞
