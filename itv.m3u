@@ -390,15 +390,15 @@ https://zjcn-live-play.jstv.com/live/ymkt_live.m3u8
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/live/nanjing.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京十八.png" group-title="江苏频道", 南京十八
-http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京娱乐.png" group-title="江苏频道", 南京娱乐
-http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
+https://live-hls.nbs.cn/live/shpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京娱乐.png" group-title="江苏频道", 南京文旅纪录
+https://live-hls.nbs.cn/live/wljl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京教科.png" group-title="江苏频道", 南京教科
-http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+https://live-hls.nbs.cn/live/kjwt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="江苏频道", 南京新闻综合
-http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京生活.png" group-title="江苏频道", 南京生活
-http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
+https://live-hls.nbs.cn/live/xwzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京少儿.png" group-title="江苏频道", 南京少儿
+https://live-hls.nbs.cn/live/sepd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/无锡娱乐.png" group-title="江苏频道", 无锡娱乐
 http://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/无锡新闻综合.png" group-title="江苏频道", 无锡新闻综合
