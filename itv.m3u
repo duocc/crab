@@ -437,9 +437,9 @@ https://969777.xyz/epg/yt/TVBS/
 https://969777.xyz/epg/yt/TVBS55/
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/EBC6.png" group-title="You•Tube",东森新闻台
 https://969777.xyz/epg/yt/EBCNews/
-#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" group-title="You•Tube",ABC News
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/abc.png" group-title="You•Tube",ABC News
 https://969777.xyz/epg/yt/ABCNews/
-#EXTINF:-1 tvg-id="CBS News" tvg-name="ABC News" group-title="You•Tube",CBS News
+#EXTINF:-1 tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/cbs.png" group-title="You•Tube",CBS News
 https://969777.xyz/epg/yt/CBSNews/
 #HK 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="香港频道",翡翠台4K
