@@ -537,12 +537,12 @@ https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
 https://smart.pendy.dpdns.org/Smart.php?id=Hits
 #EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://epg.112114.xyz/logo/WARNERTV.png" group-title="海外节目",电影频道|Warner TV
 https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",HBO HD
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",台湾|HBO HD
 https://969777.xyz/epg/api/stream/saileitv/2d329e1c/
 #EXTINF:-1,tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",HBO Signature
 https://969777.xyz/epg/api/stream/saileitv/n1075adf9/
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",HBO Hits
-https://969777.xyz/epg/api/stream/saileitv/nb44af6f/
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",台湾|HBO Hits
+https://969777.xyz/epg/api/stream/saileitv/n54fc5ba0/
 #EXTINF:-1,tvg-id="电影频道|SCM" tvg-name="电影频道|SCM" tvg-logo="https://epg.112114.xyz/logo/电影频道|SCM.png" group-title="海外节目",电影频道|SCM
 https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
 #EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.112114.xyz/logo/DREAMWORKS.png" group-title="海外节目",电影频道|Dreamworks
