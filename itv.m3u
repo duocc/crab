@@ -497,112 +497,113 @@ http://php.jdshipin.com:8880/smt.php?id=Qiyi
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="香港频道",Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
-#TW program
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视 TTV HD
+
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="海外节目",台湾|台视 TTV HD
 https://969777.xyz/epg/api/stream/saileitv/5ef6ab90/
-#EXTINF:-1,tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视综合台
+#EXTINF:-1,tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="海外节目",台湾|台视综合台
 http://free.cnlive.club/channel/45306b98/index.m3u8?q=1761631434041
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Smart☠️源",台湾|中视 HD
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="海外节目",台湾|中视 HD
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Smart☠️源",台湾|民视 HD
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="海外节目",台湾|民视 HD
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="Smart☠️源",台湾|华视 CTS HD
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="海外节目",台湾|华视 CTS HD
 https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Smart☠️源",台湾|公视 CTV
-#EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Smart☠️源",台湾|卫视中文台 Star Movies Chinese
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="海外节目",台湾|公视 CTV
+#EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="海外节目",台湾|卫视中文台 Star Movies Chinese
 https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="Smart☠️源",台湾|卫视电影台
+#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="海外节目",台湾|卫视电影台
 https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
-#EXTINF:-1,tvg-id="台湾|美亚电影" tvg-name="台湾|美亚电影" tvg-logo="https://epg.112114.xyz/logo/台湾|美亚电影.png" group-title="Smart☠️源",台湾|美亚电影
+#EXTINF:-1,tvg-id="台湾|美亚电影" tvg-name="台湾|美亚电影" tvg-logo="https://epg.112114.xyz/logo/台湾|美亚电影.png" group-title="海外节目",台湾|美亚电影
 https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-#EXTINF:-1,tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" group-title="Smart☠️源",台湾|爱尔达影剧台
+#EXTINF:-1,tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" group-title="海外节目",台湾|爱尔达影剧台
 https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-#EXTINF:-1,tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" group-title="Smart☠️源",台湾|爱尔达综合台
+#EXTINF:-1,tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" group-title="海外节目",台湾|爱尔达综合台
 https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-#EXTINF:-1,tvg-id="台湾|星卫电影" tvg-name="台湾|星卫电影" tvg-logo="https://epg.112114.xyz/logo/台湾|星卫电影.png" group-title="Smart☠️源",台湾|星卫电影
+#EXTINF:-1,tvg-id="台湾|星卫电影" tvg-name="台湾|星卫电影" tvg-logo="https://epg.112114.xyz/logo/台湾|星卫电影.png" group-title="海外节目",台湾|星卫电影
 https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="Smart☠️源",台湾|AFC 亚洲旅游台
+#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="海外节目",台湾|AFC 亚洲旅游台
 https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源",电影频道|Cinemax
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="海外节目",电影频道|Cinemax
 https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
-#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="Smart☠️源",电影频道|Animax
+#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外节目",电影频道|Animax
 https://smart.pendy.dpdns.org/Smart.php?id=Animax
-#EXTINF:-1,tvg-id="电影频道|Movies Now HD" tvg-name="电影频道|Movies Now HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|MOVIESNOW.png" group-title="Smart☠️源",电影频道|Movies Now HD
+#EXTINF:-1,tvg-id="电影频道|Movies Now HD" tvg-name="电影频道|Movies Now HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|MOVIESNOW.png" group-title="海外节目",电影频道|Movies Now HD
 https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
-#EXTINF:-1,tvg-id="电影频道|Star Movies HD" tvg-name="电影频道|Star Movies HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|STARMOVIES.png" group-title="Smart☠️源",电影频道|Star Movies HD
+#EXTINF:-1,tvg-id="电影频道|Star Movies HD" tvg-name="电影频道|Star Movies HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|STARMOVIES.png" group-title="海外节目",电影频道|Star Movies HD
 https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO Family
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",电影频道|HBO Family
 https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="Smart☠️源",电影频道|Hits
+#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="海外节目",电影频道|Hits
 https://smart.pendy.dpdns.org/Smart.php?id=Hits
-#EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://epg.112114.xyz/logo/WARNERTV.png" group-title="Smart☠️源",电影频道|Warner TV
+#EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://epg.112114.xyz/logo/WARNERTV.png" group-title="海外节目",电影频道|Warner TV
 https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO HD
-https://smart.pendy.dpdns.org/Smart.php?id=Hbo
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO Signature
-https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="Smart☠️源",电影频道|HBO Hits
-https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
-#EXTINF:-1,tvg-id="电影频道|SCM" tvg-name="电影频道|SCM" tvg-logo="https://epg.112114.xyz/logo/电影频道|SCM.png" group-title="Smart☠️源",电影频道|SCM
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",HBO HD
+https://969777.xyz/epg/api/stream/saileitv/2d329e1c/
+#EXTINF:-1,tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",HBO Signature
+https://969777.xyz/epg/api/stream/saileitv/n1075adf9/
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",HBO Hits
+https://969777.xyz/epg/api/stream/saileitv/nb44af6f/
+#EXTINF:-1,tvg-id="电影频道|SCM" tvg-name="电影频道|SCM" tvg-logo="https://epg.112114.xyz/logo/电影频道|SCM.png" group-title="海外节目",电影频道|SCM
 https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
-#EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.112114.xyz/logo/DREAMWORKS.png" group-title="Smart☠️源",电影频道|Dreamworks
+#EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.112114.xyz/logo/DREAMWORKS.png" group-title="海外节目",电影频道|Dreamworks
 https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
-#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="Smart☠️源",电影频道|Thrill
+#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="海外节目",电影频道|Thrill
 https://smart.pendy.dpdns.org/Smart.php?id=Thrill
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="Smart☠️源",电影频道|Hits Movie
+#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="海外节目",电影频道|Hits Movie
 https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
-#EXTINF:-1,tvg-id="电影频道|One" tvg-name="电影频道|One" tvg-logo="https://epg.112114.xyz/logo/电影频道|ONE.png" group-title="Smart☠️源",电影频道|One
+#EXTINF:-1,tvg-id="电影频道|One" tvg-name="电影频道|One" tvg-logo="https://epg.112114.xyz/logo/电影频道|ONE.png" group-title="海外节目",电影频道|One
 https://smart.pendy.dpdns.org/Smart.php?id=One
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Smart☠️源",电影频道|tvN Movie
+#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="海外节目",电影频道|tvN Movie
 https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
-#EXTINF:-1,tvg-id="电影频道|Celestial Classic" tvg-name="电影频道|Celestial Classic" tvg-logo="https://epg.112114.xyz/logo/电影频道|CELESTIALCLASSIC.png" group-title="Smart☠️源",电影频道|Celestial Classic
+#EXTINF:-1,tvg-id="电影频道|Celestial Classic" tvg-name="电影频道|Celestial Classic" tvg-logo="https://epg.112114.xyz/logo/电影频道|CELESTIALCLASSIC.png" group-title="海外节目",电影频道|Celestial Classic
 https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
-#EXTINF:-1,tvg-id="电影频道|Celestial Movies HD" tvg-name="电影频道|Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|CELESTIALMOVIES.png" group-title="Smart☠️源",电影频道|Celestial Movies HD
+#EXTINF:-1,tvg-id="电影频道|Celestial Movies HD" tvg-name="电影频道|Celestial Movies HD" tvg-logo="https://epg.112114.xyz/logo/电影频道|CELESTIALMOVIES.png" group-title="海外节目",电影频道|Celestial Movies HD
 https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="Smart☠️源",电影频道|Axn HD
+#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="海外节目",电影频道|Axn HD
 https://smart.pendy.dpdns.org/Smart.php?id=Axn
-#EXTINF:-1,tvg-id="电影频道|Paramount Network" tvg-name="电影频道|Paramount Network" tvg-logo="https://epg.112114.xyz/logo/电影频道|PARAMOUNTNETWORK.png" group-title="Smart☠️源",电影频道|Paramount Network
+#EXTINF:-1,tvg-id="电影频道|Paramount Network" tvg-name="电影频道|Paramount Network" tvg-logo="https://epg.112114.xyz/logo/电影频道|PARAMOUNTNETWORK.png" group-title="海外节目",电影频道|Paramount Network
 https://smart.pendy.dpdns.org/Smart.php?id=Paramountnetwork
-#EXTINF:-1,tvg-id="电影频道|Astrol Kplus" tvg-name="电影频道|Astrol Kplus" tvg-logo="https://epg.112114.xyz/logo/电影频道|ASTROLKPLUS.png" group-title="Smart☠️源",电影频道|Astrol Kplus
+#EXTINF:-1,tvg-id="电影频道|Astrol Kplus" tvg-name="电影频道|Astrol Kplus" tvg-logo="https://epg.112114.xyz/logo/电影频道|ASTROLKPLUS.png" group-title="海外节目",电影频道|Astrol Kplus
 https://smart.pendy.dpdns.org/Smart.php?id=Kplus
-#EXTINF:-1,tvg-id="电影频道|Rock Actions" tvg-name="电影频道|Rock Actions" tvg-logo="https://epg.112114.xyz/logo/电影频道|ROCKACTIONS.png" group-title="Smart☠️源",电影频道|Rock Actions
+#EXTINF:-1,tvg-id="电影频道|Rock Actions" tvg-name="电影频道|Rock Actions" tvg-logo="https://epg.112114.xyz/logo/电影频道|ROCKACTIONS.png" group-title="海外节目",电影频道|Rock Actions
 https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
-#EXTINF:-1,tvg-id="电影频道|Rock Entertainment" tvg-name="电影频道|Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/电影频道|ROCKENTERTAINMENT.png" group-title="Smart☠️源",电影频道|Rock Entertainment
+#EXTINF:-1,tvg-id="电影频道|Rock Entertainment" tvg-name="电影频道|Rock Entertainment" tvg-logo="https://epg.112114.xyz/logo/电影频道|ROCKENTERTAINMENT.png" group-title="海外节目",电影频道|Rock Entertainment
 https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
-#EXTINF:-1,tvg-id="纪录频道|Natgeo_HD" tvg-name="纪录频道|Natgeo_HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_.png" group-title="Smart☠️源",纪录频道|Natgeo_HD
+#EXTINF:-1,tvg-id="纪录频道|Natgeo_HD" tvg-name="纪录频道|Natgeo_HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_.png" group-title="海外节目",纪录频道|Natgeo_HD
 https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
-#EXTINF:-1,tvg-id="纪录频道|NatGeo_Wild HD" tvg-name="纪录频道|NatGeo_Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_WILD.png" group-title="Smart☠️源",纪录频道|NatGeo_Wild HD
+#EXTINF:-1,tvg-id="纪录频道|NatGeo_Wild HD" tvg-name="纪录频道|NatGeo_Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO_WILD.png" group-title="海外节目",纪录频道|NatGeo_Wild HD
 https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
-#EXTINF:-1,tvg-id="纪录频道|Animal_Planet" tvg-name="纪录频道|Animal_Planet" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMAL_PLANET.png" group-title="Smart☠️源",纪录频道|Animal_Planet
+#EXTINF:-1,tvg-id="纪录频道|Animal_Planet" tvg-name="纪录频道|Animal_Planet" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMAL_PLANET.png" group-title="海外节目",纪录频道|Animal_Planet
 https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="Smart☠️源",纪录频道|Discovery Asia
+#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="海外节目",纪录频道|Discovery Asia
 https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="Smart☠️源",纪录频道|CI
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="海外节目",纪录频道|CI
 https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="Smart☠️源",纪录频道|Discovery HD
+#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="海外节目",纪录频道|Discovery HD
 https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
-#EXTINF:-1,tvg-id="纪录频道|NatGeo HD" tvg-name="纪录频道|NatGeo HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO.png" group-title="Smart☠️源",纪录频道|NatGeo HD
+#EXTINF:-1,tvg-id="纪录频道|NatGeo HD" tvg-name="纪录频道|NatGeo HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEO.png" group-title="海外节目",纪录频道|NatGeo HD
 https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
-#EXTINF:-1,tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="Smart☠️源",纪录频道|Fashion TV
+#EXTINF:-1,tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="海外节目",纪录频道|Fashion TV
 https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
-#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="Smart☠️源",纪录频道|History
+#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="海外节目",纪录频道|History
 https://smart.pendy.dpdns.org/Smart.php?id=History
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="Smart☠️源",纪录频道|BBC Earth HD
+#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="海外节目",纪录频道|BBC Earth HD
 https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
-#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="Smart☠️源",纪录频道|BBC Earth Lifestyle
+#EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="海外节目",纪录频道|BBC Earth Lifestyle
 https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
-#EXTINF:-1,tvg-id="纪录频道|NatGeo Wild HD" tvg-name="纪录频道|NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEOWILD.png" group-title="Smart☠️源",纪录频道|NatGeo Wild HD
+#EXTINF:-1,tvg-id="纪录频道|NatGeo Wild HD" tvg-name="纪录频道|NatGeo Wild HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|NATGEOWILD.png" group-title="海外节目",纪录频道|NatGeo Wild HD
 https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
-#EXTINF:-1,tvg-id="纪录频道|Animal Planet (Eng)" tvg-name="纪录频道|Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMALPLANET(ENG).png" group-title="Smart☠️源",纪录频道|Animal Planet (Eng)
+#EXTINF:-1,tvg-id="纪录频道|Animal Planet (Eng)" tvg-name="纪录频道|Animal Planet (Eng)" tvg-logo="https://epg.112114.xyz/logo/纪录频道|ANIMALPLANET(ENG).png" group-title="海外节目",纪录频道|Animal Planet (Eng)
 https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
-#EXTINF:-1,tvg-id="纪录频道|TLC" tvg-name="纪录频道|TLC" tvg-logo="https://epg.112114.xyz/logo/纪录频道|TLC.png" group-title="Smart☠️源",纪录频道|TLC
+#EXTINF:-1,tvg-id="纪录频道|TLC" tvg-name="纪录频道|TLC" tvg-logo="https://epg.112114.xyz/logo/纪录频道|TLC.png" group-title="海外节目",纪录频道|TLC
 https://smart.pendy.dpdns.org/Smart.php?id=Tlc
-#EXTINF:-1,tvg-id="纪录频道|Foodnetwork Hd" tvg-name="纪录频道|Foodnetwork Hd" tvg-logo="https://epg.112114.xyz/logo/纪录频道|FOODNETWORK.png" group-title="Smart☠️源",纪录频道|Foodnetwork Hd
+#EXTINF:-1,tvg-id="纪录频道|Foodnetwork Hd" tvg-name="纪录频道|Foodnetwork Hd" tvg-logo="https://epg.112114.xyz/logo/纪录频道|FOODNETWORK.png" group-title="海外节目",纪录频道|Foodnetwork Hd
 https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
-#EXTINF:-1,tvg-id="纪录频道|HGTV" tvg-name="纪录频道|HGTV" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="Smart☠️源",纪录频道|HGTV
+#EXTINF:-1,tvg-id="纪录频道|HGTV" tvg-name="纪录频道|HGTV" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="海外节目",纪录频道|HGTV
 https://smart.pendy.dpdns.org/Smart.php?id=HGTV
-#EXTINF:-1,tvg-id="纪录频道|TVBS HD" tvg-name="纪录频道|TVBS HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="Smart☠️源",纪录频道|TVBS HD
+#EXTINF:-1,tvg-id="纪录频道|TVBS HD" tvg-name="纪录频道|TVBS HD" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="海外节目",纪录频道|TVBS HD
 http://4gtv.livednow.dpdns.org/li-4gtv-4gtv073/index.m3u8
+
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV.png" group-title="四季TV",民视
 https://969777.xyz/epg/4gtv/app/3/
 #EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV2.png" group-title="四季TV",民视第一台
