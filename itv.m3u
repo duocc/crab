@@ -512,6 +512,8 @@ https://969777.xyz/epg/api/stream/saileitv/560bcbee/
 https://969777.xyz/epg/api/stream/saileitv/3b838b0c/
 #EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="海外节目",台湾|卫视电影台
 https://969777.xyz/epg/api/stream/saileitv/5967d303/
+#EXTINF:-1,tvg-id="TVBS 欢乐台" tvg-name="TVBS 欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="海外节目",TVBS 欢乐台
+https://969777.xyz/epg/api/stream/saileitv/n69c10b55/
 #EXTINF:-1,tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="海外节目",电影频道|Cinemax
 https://969777.xyz/epg/api/stream/saileitv/7c7a1311/
 #EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="海外节目",电影频道|Animax
