@@ -499,7 +499,8 @@ http://php.jdshipin.com:8880/smt.php?id=Quanjia
 http://php.jdshipin.com:8880/smt.php?id=Huahee
 #TW program
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视 TTV HD
-https://969777.xyz/epg/api/stream/saileitv/n43c34be8/
+#EXTVLCOPT:http-referrer=https://saileitv.com/
+https://969777.xyz/epg/api/stream/saileitv/5ef6ab90/
 #EXTINF:-1,tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Smart☠️源",台湾|台视综合台
 http://free.cnlive.club/channel/45306b98/index.m3u8?q=1761631434041
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Smart☠️源",台湾|中视 HD
