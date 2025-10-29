@@ -434,6 +434,8 @@ https://969777.xyz/epg/yt/PhoenixTV/
 https://969777.xyz/epg/yt/CTITVNews/
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CTV1.png" group-title="You•Tube",中視新聞
 https://969777.xyz/epg/yt/CTVNews/
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TTV2.png" group-title="You•Tube",台視新聞
+https://969777.xyz/epg/yt/TTV_NEWS/
 #EXTINF:-1 tvg-id="TVBSNEWS" tvg-name="TVBSNEWS" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TVBS1.png" group-title="You•Tube",TVBS NEWS
 https://969777.xyz/epg/yt/TVBSNews/
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TVBS.png" group-title="You•Tube",TVBS HD
@@ -444,8 +446,8 @@ https://969777.xyz/epg/yt/TVBS55/
 https://969777.xyz/epg/yt/EBCNews/
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/abc.png" group-title="You•Tube",ABC News
 https://969777.xyz/epg/yt/ABCNews/
-#EXTINF:-1 tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/cbs.png" group-title="You•Tube",CBS News
-https://969777.xyz/epg/yt/CBSNews/
+#EXTINF:-1 tvg-id="Fox Live" tvg-name="Fox Live" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/fox.png" group-title="You•Tube",Fox Live
+https://969777.xyz/epg/yt/FOX_Live/
 #HK 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="香港频道",翡翠台4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
