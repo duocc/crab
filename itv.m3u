@@ -532,29 +532,31 @@ https://v.929777.xyz/epg/api/stream/saileitv/n56dab1d7/
 https://v.929777.xyz/epg/api/stream/saileitv/2d329e1c/
 #EXTINF:-1,tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",HBO Signature
 https://v.929777.xyz/epg/api/stream/saileitv/n1075adf9/
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",台湾|HBO Hits
-https://v.929777.xyz/epg/api/stream/saileitv/n54fc5ba0/
+#EXTINF:-1,tvg-id="HBOHits" tvg-name="HBOHits" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",台湾|HBO Hits
+https://v.929777.xyz/epg/api/stream/saileitv/nb44af6f/
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="海外节目",HBO Family
 https://v.929777.xyz/epg/api/stream/saileitv/n50b4438b/
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="海外节目",Axn HD
 https://v.929777.xyz/epg/api/stream/saileitv/n4e27c899/
-#EXTINF:-1,tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://epg.112114.xyz/logo/Paramount.png" group-title="海外节目",电影频道|Paramount Network
+#EXTINF:-1,tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://epg.112114.xyz/logo/Paramount.png" group-title="海外节目",Paramount Network
 https://v.929777.xyz/epg/api/stream/saileitv/2d02c137/
-#EXTINF:-1,tvg-id="Rock Actions" tvg-name="Rock Actions"  group-title="海外节目",电影频道|Rock Actions
+#EXTINF:-1,tvg-id="Rock Actions" tvg-name="Rock Actions"  group-title="海外节目",Rock Actions
 https://v.929777.xyz/epg/api/stream/saileitv/191ec512/
-#EXTINF:-1,tvg-id="Rock Entertainment" tvg-name="Rock Entertainment"  group-title="海外节目",电影频道|Rock Entertainment
+#EXTINF:-1,tvg-id="Hits Movie" tvg-name="Rock Actions"  group-title="海外节目",Hits Movie
+https://v.929777.xyz/epg/api/stream/saileitv/2df87356/
+#EXTINF:-1,tvg-id="Rock Entertainment" tvg-name="Rock Entertainment"  group-title="海外节目",Rock Entertainment
 https://v.929777.xyz/epg/api/stream/saileitv/n66be2823/
 #EXTINF:-1,tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="海外节目",国家地理HD
-https://v.929777.xyz/epg/api/stream/saileitv/n3f497a4c/
+https://v.929777.xyz/epg/api/stream/saileitv/n75e57aab/
 #EXTINF:-1,tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="海外节目",国家地理Wild
 https://v.929777.xyz/epg/api/stream/saileitv/n6598e6ce/
 #EXTINF:-1,tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://epg.112114.xyz/logo/FashionTV.png" group-title="海外节目",Fashion TV
 https://v.929777.xyz/epg/api/stream/saileitv/n7852a99f/
-#EXTINF:-1,tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://epg.112114.xyz/logo/Channel5.png" group-title="海外节目",新加坡|Channel 5
+#EXTINF:-1,tvg-id="Channel5" tvg-name="Channel5" tvg-logo="https://epg.112114.xyz/logo/Channel5.png" group-title="海外节目",新加坡|Channel 5
 https://v.929777.xyz/epg/api/stream/saileitv/2f64b875/
-#EXTINF:-1,tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://epg.112114.xyz/logo/Channel5.png" group-title="海外节目",新加坡|Channel 8
+#EXTINF:-1,tvg-id="Channel8" tvg-name="Channel8" tvg-logo="https://epg.112114.xyz/logo/Channel5.png" group-title="海外节目",新加坡|Channel 8
 https://v.929777.xyz/epg/api/stream/saileitv/2f64b878/
-#EXTINF:-1,tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://epg.112114.xyz/logo/Channel5.png" group-title="海外节目",新加坡|Channel U
+#EXTINF:-1,tvg-id="ChannelU" tvg-name="ChannelU" tvg-logo="https://epg.112114.xyz/logo/Channel5.png" group-title="海外节目",新加坡|Channel U
 https://v.929777.xyz/epg/api/stream/saileitv/2f64b895/
 #EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="海外节目",MTV HD
 https://v.929777.xyz/epg/api/stream/saileitv/n74db47c2/
