@@ -386,8 +386,9 @@ https://zjcn-live-play.jstv.com/jsxxpro.m3u8
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Jiangsu7.png" group-title="江苏频道", 江苏教育
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/jsjypro.m3u8
-#EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Jiangsu7.png" group-title="江苏频道", 江苏国际
-https://v.929777.xyz/epg/jstv/544/
+#EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Jiangsu6.png" group-title="江苏频道", 江苏国际
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/jsgjpro.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="江苏频道", 优漫卡通
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/ymktpro.m3u8
