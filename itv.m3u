@@ -427,6 +427,17 @@ https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="江苏频道", 苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai1.png" group-title="上海频道", 上海新闻综合
+https://v.929777.xyz/epg/smg/20/
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai2.png" group-title="上海频道", 上海都市
+https://v.929777.xyz/epg/smg/18/
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai5.png" group-title="上海频道", 五星体育
+https://v.929777.xyz/epg/smg/1605/
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/dycj.png" group-title="上海频道", 第一财经
+https://v.929777.xyz/epg/smg/21/
+#EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai3.png" group-title="上海频道", 新纪实
+https://v.929777.xyz/epg/smg/1600/
+
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
 https://v.929777.xyz/epg/yt/PhoenixTV/
