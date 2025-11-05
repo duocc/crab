@@ -441,9 +441,9 @@ https://v.929777.xyz/epg/smg/18/
 https://v.929777.xyz/epg/smg/1605/
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/dycj.png" group-title="上海频道", 第一财经
 https://v.929777.xyz/epg/smg/21/
-#EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai3.png" group-title="上海频道", 新纪实
+#EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" group-title="上海频道", 新纪实
 https://v.929777.xyz/epg/smg/1600/
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视"  group-title="上海频道",东方影视
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai3.png" group-title="上海频道",东方影视
 https://v.929777.xyz/epg/migu/617290047/
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
