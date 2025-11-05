@@ -209,8 +209,7 @@ http://192.168.123.1:4000/rtp/239.253.64.111:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.165:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南地方台",乐东
 http://192.168.123.1:4000/rtp/239.253.64.166:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视"   group-title="数字付费",东方影视
-https://v.929777.xyz/epg/migu/617290047/
+
 #EXTINF:-1 tvg-id="IPTV3+" tvg-name="IPTV3+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV3+.png" group-title="数字付费",IPTV3+
 http://192.168.123.1:4000/rtp/239.253.64.10:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="IPTV5+" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="数字付费",IPTV5+
@@ -444,7 +443,8 @@ https://v.929777.xyz/epg/smg/1605/
 https://v.929777.xyz/epg/smg/21/
 #EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai3.png" group-title="上海频道", 新纪实
 https://v.929777.xyz/epg/smg/1600/
-
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视"  group-title="上海频道",东方影视
+https://v.929777.xyz/epg/migu/617290047/
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
 https://v.929777.xyz/epg/yt/PhoenixTV/
