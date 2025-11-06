@@ -456,7 +456,7 @@ https://v.929777.xyz/epg/yt/CTVNews/
 https://v.929777.xyz/epg/yt/TTV_NEWS/
 #EXTINF:-1 tvg-id="TVBSNEWS" tvg-name="TVBSNEWS" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TVBS1.png" group-title="You•Tube",TVBS NEWS
 https://v.929777.xyz/epg/yt/TVBSNews/
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TVBS.png" group-title="You•Tube",TVBS HD
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TVBS.png" group-title="You•Tube",TVBS优选
 https://v.929777.xyz/epg/yt/TVBS/
 #EXTINF:-1 tvg-id="TVBSNEWS" tvg-name="TVBSNEWS" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TVBS1.png" group-title="You•Tube",TVBS新闻台
 https://v.929777.xyz/epg/yt/TVBS55/
@@ -529,6 +529,13 @@ http://php.jdshipin.com:8880/smt.php?id=Qiyi
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="港澳节目",Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
+http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-name="CH5" group-title="港澳节目",CH5
+http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+#EXTINF:-1 tvg-name="CH8" group-title="港澳节目",CH8
+http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+#EXTINF:-1 tvg-name="CHU" group-title="港澳节目",CHU
+http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TTV.png" group-title="海外节目",台视TTV HD
 https://smt.858.qzz.io/Smart.php?id=ttv_taiwan
@@ -601,6 +608,9 @@ https://v.929777.xyz/epg/4gtv/app/1/
 https://v.929777.xyz/epg/4gtv/app/2/
 #EXTINF:-1,tvg-id="民視新闻台" tvg-name="民視新闻台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV1.png" group-title="四季TV",民視新闻台
 https://v.929777.xyz/epg/4gtv/app/31/
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="四季TV",TVBS
+https://php.946985.filegear-sg.me/4gtv.php?id=TVBS
+
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="四季TV",達文西頻道
 https://php.946985.filegear-sg.me/4gtv.php?id=達文西頻道
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="四季TV",ELTV生活英語台
