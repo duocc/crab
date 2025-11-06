@@ -539,14 +539,6 @@ http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
 #EXTINF:-1 tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="港澳节目",TVBJ1
 http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-#EXTINF:-1 group-title="港澳节目",Astro欢喜台HD
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
-#EXTINF:-1 group-title="港澳节目",Astro AOD HD
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-#EXTINF:-1 group-title="港澳节目",Astro AEC HD
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-#EXTINF:-1 group-title="港澳节目",Astro全佳HD
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 #EXTINF:-1 tvg-name="CH5" group-title="港澳节目",CH5
 http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
 #EXTINF:-1 tvg-name="CH8" group-title="港澳节目",CH8
@@ -588,6 +580,8 @@ https://php.946985.filegear-sg.me/4gtv.php?id=amc電影台
 https://php.946985.filegear-sg.me/4gtv.php?id=CinemaWorld
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="四季TV",My Cinema Europe HD 我的歐洲電影
 https://php.946985.filegear-sg.me/4gtv.php?id=My Cinema Europe HD 我的歐洲電影
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="四季TV",Love Nature
+https://php.946985.filegear-sg.me/4gtv.php?id=Love Nature
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="四季TV",達文西頻道
 https://php.946985.filegear-sg.me/4gtv.php?id=達文西頻道
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="四季TV",ELTV生活英語台
