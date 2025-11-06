@@ -604,7 +604,6 @@ https://v.929777.xyz/epg/4gtv/app/462/
 https://smt.858.qzz.io/Smart.php?id=ttv_taiwan
 #EXTINF:-1,tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TTV1.png" group-title="海外节目",台视综合台
 https://smt.858.qzz.io/Smart.php?id=ttvzhonghe
-
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="海外节目",民视HD
 https://smt.858.qzz.io/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/PTS.png" group-title="海外节目",公视CTV
@@ -651,6 +650,3 @@ https://smt.858.qzz.io/Smart.php?id=Channel8HD
 https://smt.858.qzz.io/Smart.php?id=ChannelU
 #EXTINF:-1,tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/MTVLive.png" group-title="海外节目",MTV HD
 https://smt.858.qzz.io/Smart.php?id=mtvhd_twn
-
-
-
