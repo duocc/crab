@@ -562,6 +562,8 @@ https://v.929777.xyz/epg/4gtv/app/31/
 https://php.946985.filegear-sg.me/4gtv.php?id=TVBS
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TVBS2.png" group-title="四季TV",TVBS欢乐台
 https://php.946985.filegear-sg.me/4gtv.php?id=TVBS歡樂台
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="四季TV",MTV Live HD 音樂頻道
+https://php.946985.filegear-sg.me/4gtv.php?id=MTV Live HD 音樂頻道
 #EXTINF:-1,tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png"  group-title="四季TV",Rock Actions
 https://php.946985.filegear-sg.me/4gtv.php?id=ROCK Action
 #EXTINF:-1,tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="四季TV",Hits Movie
