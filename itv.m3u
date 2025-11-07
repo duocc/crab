@@ -113,9 +113,9 @@ http://192.168.123.1:4000/rtp/239.253.64.85:5140/?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.86:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://upload.112114.xyz/logo/海南卫视.png" group-title="海南频道",海南卫视 HD
 http://192.168.123.1:4000/rtp/239.253.64.253:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="海南频道",三沙卫视 HD
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://upload.112114.xyz/logo/三沙卫视.png" group-title="海南频道",三沙卫视 HD
 http://192.168.123.1:4000/rtp/239.253.64.112:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8.png" group-title="海南频道",海南自贸 HD
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://upload.112114.xyz/logo/海南自贸.png" group-title="海南频道",海南自贸 HD
 http://192.168.123.1:4000/rtp/239.253.64.119:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB.png" group-title="海南频道",海南新闻 HD
 http://192.168.123.1:4000/rtp/239.253.64.121:5140?fcc=10.255.75.73:15970
@@ -187,13 +187,13 @@ http://192.168.123.1:4000/rtp/239.253.64.187:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.184:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://upload.112114.xyz/logo/中国天气.png" group-title="数字频道",中国天气
 http://192.168.123.1:4000/rtp/239.253.64.79:5140/?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="数字频道",CETV-1
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://upload.112114.xyz/logo/CETV1.png" group-title="数字频道",CETV-1
 http://192.168.123.1:4000/rtp/239.253.64.252:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="数字频道",CETV-2
+#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://upload.112114.xyz/logo/CETV2.png" group-title="数字频道",CETV-2
 http://192.168.123.1:4000/rtp/239.253.64.128:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="数字频道",CETV-4
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://upload.112114.xyz/logo/CETV4.png" group-title="数字频道",CETV-4
 http://192.168.123.1:4000/rtp/239.253.64.139:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://upload.112114.xyz/logo/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="数字频道",山东教育
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://upload.112114.xyz/logo/山东教育.png" group-title="数字频道",山东教育
 http://192.168.123.1:4000/rtp/239.253.64.241:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="数字频道",CGTN
 http://192.168.123.1:4000/rtp/239.253.64.17:5140?fcc=10.255.75.73:15970
