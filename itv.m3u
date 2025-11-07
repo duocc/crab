@@ -41,7 +41,7 @@ http://192.168.123.1:4000/rtp/239.253.64.58:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.169:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://upload.112114.xyz/logo/湖南卫视4K.png" group-title="4K超高清",湖南卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.60:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://upload.112114.xyz/logo/江苏卫视4K.pn" group-title="4K超高清",江苏卫视 4k
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://upload.112114.xyz/logo/江苏卫视4K.png" group-title="4K超高清",江苏卫视 4k
 http://192.168.123.1:4000/rtp/239.253.64.61:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K超高清",浙江卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.62:5140?fcc=10.255.75.73:15970
@@ -65,8 +65,6 @@ http://192.168.123.1:4000/rtp/239.253.64.243:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.201:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://upload.112114.xyz/logo/湖南卫视.png" group-title="高清卫视",湖南卫视
 http://192.168.123.1:4000/rtp/239.253.64.114:5140/?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://upload.112114.xyz/logo/甘肃卫视.png" group-title="高清卫视",甘肃卫视
-http://192.168.123.1:4000/rtp/239.253.64.156:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://upload.112114.xyz/logo/江苏卫视.png" group-title="高清卫视",江苏卫视
 http://192.168.123.1:4000/rtp/239.253.64.202:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://upload.112114.xyz/logo/浙江卫视.png" group-title="高清卫视",浙江卫视
@@ -105,17 +103,19 @@ http://192.168.123.1:4000/rtp/239.253.64.57:5140/?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.56:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://upload.112114.xyz/logo/宁夏卫视.png" group-title="高清卫视",宁夏卫视
 http://192.168.123.1:4000/rtp/239.253.64.88:5140/?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://upload.112114.xyz/logo/甘肃卫视.png" group-title="高清卫视",甘肃卫视
+http://192.168.123.1:4000/rtp/239.253.64.156:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://upload.112114.xyz/logo/西藏卫视.png" group-title="高清卫视",西藏卫视
 http://192.168.123.1:4000/rtp/239.253.64.84:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://upload.112114.xyz/logo/新疆卫视.png" group-title="高清卫视",新疆卫视
 http://192.168.123.1:4000/rtp/239.253.64.85:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://upload.112114.xyz/logo/兵团卫视.png" group-title="高清卫视",兵团卫视
 http://192.168.123.1:4000/rtp/239.253.64.86:5140/?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="海南频道",海南卫视 HD
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://upload.112114.xyz/logo/海南卫视.png" group-title="海南频道",海南卫视 HD
 http://192.168.123.1:4000/rtp/239.253.64.253:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="海南频道",三沙卫视 HD
 http://192.168.123.1:4000/rtp/239.253.64.112:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8.png" group-title="海南频道",海南自贸 HD
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8.png" group-title="海南频道",海南自贸 HD
 http://192.168.123.1:4000/rtp/239.253.64.119:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB.png" group-title="海南频道",海南新闻 HD
 http://192.168.123.1:4000/rtp/239.253.64.121:5140?fcc=10.255.75.73:15970
@@ -176,8 +176,10 @@ http://192.168.123.1:4000/rtp/239.253.64.230:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.151:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png" group-title="数字频道",睛彩篮球
 http://192.168.123.1:4000/rtp/239.253.64.152:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="睛彩少儿" tvg-name="睛彩少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png" group-title="数字频道",睛彩少儿
-http://192.168.123.1:4000/rtp/239.253.64.153:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://upload.112114.xyz/logo/睛彩青少.png" group-title="数字频道",睛彩青少
+http://192.168.123.1:4000/rtp/239.253.64.153:5140/?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://upload.112114.xyz/logo/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
+http://192.168.123.1:4000/rtp/239.253.64.154:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 group-title="数字频道",BEST体育
 http://192.168.123.1:4000/rtp/239.253.64.187:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 group-title="数字频道",BEST电竞
