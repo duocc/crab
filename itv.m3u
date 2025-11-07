@@ -171,7 +171,8 @@ http://192.168.123.1:4000/rtp/239.253.64.168:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.148:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="数字频道",卡酷动画
 http://192.168.123.1:4000/rtp/239.253.64.230:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="数字频道",嘉佳卡通
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://upload.112114.xyz/logo/嘉佳卡通.png" group-title="标清" catchup="default" catchup-source="rtsp://placeholder/239.253.64.127:5140",嘉佳卡通 标清
+http://192.168.123.1:4000/rtp/239.253.64.127:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png" group-title="数字频道",睛彩竞技
 http://192.168.123.1:4000/rtp/239.253.64.151:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png" group-title="数字频道",睛彩篮球
