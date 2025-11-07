@@ -171,7 +171,7 @@ http://192.168.123.1:4000/rtp/239.253.64.168:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.148:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="数字频道",卡酷动画
 http://192.168.123.1:4000/rtp/239.253.64.230:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://upload.112114.xyz/logo/嘉佳卡通.png" group-title="标清" catchup="default" catchup-source="rtsp://placeholder/239.253.64.127:5140",嘉佳卡通 标清
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://upload.112114.xyz/logo/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 http://192.168.123.1:4000/rtp/239.253.64.127:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png" group-title="数字频道",睛彩竞技
 http://192.168.123.1:4000/rtp/239.253.64.151:5140?fcc=10.255.75.73:15970
@@ -447,6 +447,8 @@ https://php.946985.filegear-sg.me/4gtv.php?id=TVBS
 https://php.946985.filegear-sg.me/4gtv.php?id=TVBS歡樂台
 #EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="四季TV",MTV Live HD 音樂頻道
 https://php.946985.filegear-sg.me/4gtv.php?id=MTV Live HD 音樂頻道
+#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="四季TV",Lifetime 娛樂頻道
+https://php.946985.filegear-sg.me/4gtv.php?id=Lifetime 娛樂頻道
 #EXTINF:-1,tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png"  group-title="四季TV",Rock Actions
 https://php.946985.filegear-sg.me/4gtv.php?id=ROCK Action
 #EXTINF:-1,tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="四季TV",Hits Movie
