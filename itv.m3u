@@ -184,6 +184,8 @@ http://192.168.123.1:4000/rtp/239.253.64.154:5140/?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.187:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 group-title="数字频道",BEST电竞
 http://192.168.123.1:4000/rtp/239.253.64.184:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://upload.112114.xyz/logo/中国天气.png" group-title="数字频道",中国天气
+http://192.168.123.1:4000/rtp/239.253.64.79:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="数字频道",CETV-1
 http://192.168.123.1:4000/rtp/239.253.64.252:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="数字频道",CETV-2
