@@ -286,6 +286,15 @@ https://v.929777.xyz/epg/smg/21/
 https://v.929777.xyz/epg/smg/1600/
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai3.png" group-title="上海频道",东方影视
 https://v.929777.xyz/epg/migu/617290047/
+
+#EXTINF:-1 tvg-name="发现之旅" group-title="咪咕节目", 发现之旅
+https://v.929777.xyz/epg/migu/624878970/
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="咪咕节目", 大湾区卫视
+https://v.929777.xyz/epg/migu/608917627/
+#EXTINF:-1 tvg-name="海峡卫视"" group-title="咪咕节目", 海峡卫视"
+https://v.929777.xyz/epg/migu/849119120/
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="咪咕节目", CHC影迷电影
+https://v.929777.xyz/epg/migu/952383261/
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
 https://v.929777.xyz/epg/yt/PhoenixTV/
