@@ -37,8 +37,6 @@ http://192.168.123.1:4000/rtp/239.253.64.251:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.67:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="高清央视",CGTN 纪录 HD
 http://192.168.123.1:4000/rtp/239.253.64.58:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://upload.112114.xyz/logo/CETV1.pn" group-title="高清央视",CETV-1 HD
-http://192.168.123.1:4000/rtp/239.253.64.169:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://upload.112114.xyz/logo/湖南卫视4K.png" group-title="4K超高清",湖南卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.60:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://upload.112114.xyz/logo/江苏卫视4K.png" group-title="4K超高清",江苏卫视 4k
@@ -187,8 +185,8 @@ http://192.168.123.1:4000/rtp/239.253.64.187:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.184:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://upload.112114.xyz/logo/中国天气.png" group-title="数字频道",中国天气
 http://192.168.123.1:4000/rtp/239.253.64.79:5140/?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://upload.112114.xyz/logo/CETV1.png" group-title="数字频道",CETV-1
-http://192.168.123.1:4000/rtp/239.253.64.252:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://upload.112114.xyz/logo/CETV1.pn" group-title="数字频道",CETV-1 HD
+http://192.168.123.1:4000/rtp/239.253.64.169:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://upload.112114.xyz/logo/CETV2.png" group-title="数字频道",CETV-2
 http://192.168.123.1:4000/rtp/239.253.64.128:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://upload.112114.xyz/logo/CETV4.png" group-title="数字频道",CETV-4
@@ -199,58 +197,18 @@ http://192.168.123.1:4000/rtp/239.253.64.241:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.17:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="数字频道",云南卫视
 http://192.168.123.1:4000/rtp/239.253.64.147:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="数字频道",兵团卫视
-http://192.168.123.1:4000/rtp/239.253.64.178:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="数字频道",内蒙古卫视
 http://192.168.123.1:4000/rtp/239.253.64.144:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="数字频道",厦门卫视
 http://192.168.123.1:4000/rtp/239.253.64.179:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="数字频道",宁夏卫视
-http://192.168.123.1:4000/rtp/239.253.64.89:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="数字频道",安徽卫视
-http://192.168.123.1:4000/rtp/239.253.64.29:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="数字频道",山东卫视
-http://192.168.123.1:4000/rtp/239.253.64.30:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="数字频道",山西卫视
 http://192.168.123.1:4000/rtp/239.253.64.31:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="数字频道",广东卫视
-http://192.168.123.1:4000/rtp/239.253.64.44:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="数字频道",广西卫视
 http://192.168.123.1:4000/rtp/239.253.64.45:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="数字频道",新疆卫视
-http://192.168.123.1:4000/rtp/239.253.64.146:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="数字频道",江苏卫视
-http://192.168.123.1:4000/rtp/239.253.64.27:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="数字频道",江西卫视
-http://192.168.123.1:4000/rtp/239.253.64.34:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="数字频道",河北卫视
-http://192.168.123.1:4000/rtp/239.253.64.39:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="数字频道",河南卫视
-http://192.168.123.1:4000/rtp/239.253.64.38:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="数字频道",浙江卫视
-http://192.168.123.1:4000/rtp/239.253.64.28:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="数字频道",深圳卫视
-http://192.168.123.1:4000/rtp/239.253.64.145:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="数字频道",湖北卫视
-http://192.168.123.1:4000/rtp/239.253.64.33:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="数字频道",湖南卫视
-http://192.168.123.1:4000/rtp/239.253.64.32:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="数字频道",甘肃卫视
-http://192.168.123.1:4000/rtp/239.253.64.140:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="数字频道",西藏卫视
-http://192.168.123.1:4000/rtp/239.253.64.143:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="数字频道",贵州卫视
-http://192.168.123.1:4000/rtp/239.253.64.47:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="数字频道",辽宁卫视
-http://192.168.123.1:4000/rtp/239.253.64.41:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="数字频道",重庆卫视
-http://192.168.123.1:4000/rtp/239.253.64.35:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="数字频道",陕西卫视
 http://192.168.123.1:4000/rtp/239.253.64.37:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="数字频道",青海卫视
 http://192.168.123.1:4000/rtp/239.253.64.46:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="数字频道",黑龙江卫视
-http://192.168.123.1:4000/rtp/239.253.64.42:5140?fcc=10.255.75.73:15970
 #江苏频道
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Jiangsu2.png" group-title="江苏频道", 江苏城市
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
