@@ -185,7 +185,7 @@ http://192.168.123.1:4000/rtp/239.253.64.187:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.184:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://upload.112114.xyz/logo/中国天气.png" group-title="数字频道",中国天气
 http://192.168.123.1:4000/rtp/239.253.64.79:5140/?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://upload.112114.xyz/logo/CETV1.pn" group-title="数字频道",CETV-1 HD
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://upload.112114.xyz/logo/CETV1.png" group-title="数字频道",CETV-1 HD
 http://192.168.123.1:4000/rtp/239.253.64.169:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://upload.112114.xyz/logo/CETV2.png" group-title="数字频道",CETV-2
 http://192.168.123.1:4000/rtp/239.253.64.128:5140?fcc=10.255.75.73:15970
@@ -267,6 +267,8 @@ http://cm-wshls.homecdn.com/live/2aa50.m3u8
 https://v.929777.xyz/epg/migu/235/
 #EXTINF:-1 tvg-name="扬州民生" tvg-logo="hhttps://upload.112114.xyz/logo/扬州民生.png" group-title="江苏频道", 扬州民生
 https://v.929777.xyz/epg/migu/291/
+#EXTINF:-1 tvg-name="扬州江都" tvg-logo="hhttps://upload.112114.xyz/logo/扬州江都.png" group-title="江苏频道", 扬州江都
+https://v.929777.xyz/epg/migu/290/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/高邮一套新闻综合.png" group-title="江苏频道", 高邮一套新闻综合
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州4k.png" group-title="江苏频道", 苏州4k
@@ -291,16 +293,18 @@ https://v.929777.xyz/epg/migu/617290047/
 
 #EXTINF:-1 tvg-name="广州4K南国都市频道" group-title="咪咕节目",广州4K南国都市频道
 https://v.929777.xyz/epg/migu/1375684847116288/
-#EXTINF:-1 tvg-name="广州综合频道	" group-title="咪咕节目",广州综合频道
+#EXTINF:-1 tvg-name="广州综合频道" group-title="咪咕节目",广州综合频道
 https://v.929777.xyz/epg/migu/1375684745699328/
 #EXTINF:-1 tvg-name="发现之旅" group-title="咪咕节目",发现之旅
 https://v.929777.xyz/epg/migu/624878970/
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="咪咕节目",大湾区卫视
 https://v.929777.xyz/epg/migu/608917627/
-#EXTINF:-1 tvg-name="咪咕高清大片"" group-title="咪咕节目",咪咕高清大片
+#EXTINF:-1 tvg-name="咪咕高清大片" group-title="咪咕节目",咪咕高清大片
 https://v.929777.xyz/epg/migu/629943678/
-#EXTINF:-1 tvg-name="咪咕新片放映厅"" group-title="咪咕节目",咪咕新片放映厅
+#EXTINF:-1 tvg-name="咪咕新片放映厅" group-title="咪咕节目",咪咕新片放映厅
 https://v.929777.xyz/epg/migu/619495952/
+#EXTINF:-1 tvg-name="经典香港电影" group-title="咪咕节目",经典香港电影
+https://v.929777.xyz/epg/migu/625703337/
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/176/1744788974699_TB_sc.jpg" group-title="咪咕节目", CHC影迷电影
 https://v.929777.xyz/epg/migu/952383261/
 #EXTINF:-1 tvg-name="CCTV4欧洲" group-title="咪咕节目", CCTV4欧洲
@@ -309,6 +313,10 @@ https://v.929777.xyz/epg/migu/608807419/
 https://v.929777.xyz/epg/migu/608807416/
 #EXTINF:-1 tvg-name="南方影视" group-title="咪咕节目", 南方影视
 https://v.929777.xyz/epg/migu/614961829/
+#EXTINF:-1 tvg-name="陕西体育休闲" group-title="咪咕节目", 陕西体育休闲
+https://v.929777.xyz/epg/migu/956909356/
+#EXTINF:-1 tvg-name="环球旅游" group-title="咪咕节目", 环球旅游
+https://v.929777.xyz/epg/migu/958475356/
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
 https://v.929777.xyz/epg/yt/PhoenixTV/
