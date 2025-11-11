@@ -411,12 +411,16 @@ http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
 #EXTINF:-1 tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="港澳节目",TVBJ1
 http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-#EXTINF:-1 tvg-name="CH5" group-title="港澳节目",CH5
+#EXTINF:-1 tvg-name="CH5" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CH5.png" group-title="港澳节目",CH5
 http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-name="CH8" group-title="港澳节目",CH8
+#EXTINF:-1 tvg-name="CH8" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CH8.png" group-title="港澳节目",CH8
 http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-name="CHU" group-title="港澳节目",CHU
+#EXTINF:-1 tvg-name="CHU" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CHU.png" group-title="港澳节目",CHU
 http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="港澳节目",广东珠江
+http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="港澳节目",广东体育
+http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV.png" group-title="四季TV",民视
 https://v.929777.xyz/epg/4gtv/app/3/
