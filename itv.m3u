@@ -427,9 +427,9 @@ http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV.png" group-title="四季TV",民视
 https://v.929777.xyz/epg/4gtv/app/3/
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="四季TV",中视HD
-https://php.946985.filegear-sg.me/4gtv.php?id=中視
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CTS.png" group-title="四季TV",华视CTSHD
-https://php.946985.filegear-sg.me/4gtv.php?id=華視
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV2.png" group-title="四季TV",民视第一台
 https://v.929777.xyz/epg/4gtv/app/1/
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV3.png" group-title="四季TV",民視台灣台
@@ -437,53 +437,49 @@ https://v.929777.xyz/epg/4gtv/app/2/
 #EXTINF:-1 tvg-id="民視新闻台" tvg-name="民視新闻台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV1.png" group-title="四季TV",民視新闻台
 https://v.929777.xyz/epg/4gtv/app/31/
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="四季TV",TVBS
-https://php.946985.filegear-sg.me/4gtv.php?id=TVBS
+https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TVBS2.png" group-title="四季TV",TVBS欢乐台
-https://php.946985.filegear-sg.me/4gtv.php?id=TVBS歡樂台
+https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0
 #EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="四季TV",MTV Live HD 音樂頻道
-https://php.946985.filegear-sg.me/4gtv.php?id=MTV Live HD 音樂頻道
+https://4gtv.946985.filegear-sg.me/playlist?channel=MTV%20Live%20HD%20%E9%9F%B3%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="四季TV",Lifetime 娛樂頻道
 https://php.946985.filegear-sg.me/4gtv.php?id=Lifetime 娛樂頻道
 #EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png"  group-title="四季TV",Rock Actions
-https://php.946985.filegear-sg.me/4gtv.php?id=ROCK Action
+https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
 #EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="四季TV",Hits Movie
-https://php.946985.filegear-sg.me/4gtv.php?id=HITS頻道
+https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/ROCKEntertainment.png"  group-title="四季TV",Rock Entertainment
-https://php.946985.filegear-sg.me/4gtv.php?id=ROCK Entertainment
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="四季TV",靖天映畫
-https://php.946985.filegear-sg.me/4gtv.php?id=靖天映畫
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="四季TV",靖天電影台
-https://php.946985.filegear-sg.me/4gtv.php?id=靖天電影台
+https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Entertainment
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="四季TV",影迷數位電影台
-https://php.946985.filegear-sg.me/4gtv.php?id=影迷數位電影台
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0
 #EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="四季TV",amc電影台
-https://php.946985.filegear-sg.me/4gtv.php?id=amc電影台
+https://4gtv.946985.filegear-sg.me/playlist?channel=amc%E9%9B%BB%E5%BD%B1%E5%8F%B0
 #EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="四季TV",CinemaWorld
-https://php.946985.filegear-sg.me/4gtv.php?id=CinemaWorld
+https://4gtv.946985.filegear-sg.me/playlist?channel=CinemaWorld
 #EXTINF:-1 tvg-name="My Cinema Europe" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="四季TV",My Cinema Europe HD 我的歐洲電影
-https://php.946985.filegear-sg.me/4gtv.php?id=My Cinema Europe HD 我的歐洲電影
+https://4gtv.946985.filegear-sg.me/playlist?channel=My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AD%90%E6%B4%B2%E9%9B%BB%E5%BD%B1
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="四季TV",Love Nature
-https://php.946985.filegear-sg.me/4gtv.php?id=Love Nature
+https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
 #EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="四季TV",達文西頻道
-https://php.946985.filegear-sg.me/4gtv.php?id=達文西頻道
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-name="ELTV生活" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="四季TV",ELTV生活英語台
-https://php.946985.filegear-sg.me/4gtv.php?id=ELTV生活英語台
+https://4gtv.946985.filegear-sg.me/playlist?channel=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032_mobile.png" group-title="四季TV",Nick Jr. 兒童頻道
-https://php.946985.filegear-sg.me/4gtv.php?id=Nick Jr. 兒童頻道
+https://4gtv.946985.filegear-sg.me/playlist?channel=Nick%20Jr.%20%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live105_mobile.png" group-title="四季TV",尼克兒童頻道
-https://php.946985.filegear-sg.me/4gtv.php?id=尼克兒童頻道
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%B0%BC%E5%85%8B%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-name="DreamWorks" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="四季TV",DreamWorks 夢工廠動畫
-https://php.946985.filegear-sg.me/4gtv.php?id=DreamWorks 夢工廠動畫
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="四季TV",靖天卡通台
-https://php.946985.filegear-sg.me/4gtv.php?id=靖天卡通台
+https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB
 #EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="四季TV",History 歷史頻道
-https://php.946985.filegear-sg.me/4gtv.php?id=History 歷史頻道
-#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="四季TV",愛爾達生活旅遊台
-https://php.946985.filegear-sg.me/4gtv.php?id=愛爾達生活旅遊台
-#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="四季TV",LUXE TV Channel
-https://php.946985.filegear-sg.me/4gtv.php?id=LUXE TV Channel
-#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="四季TV",TV5MONDE STYLE HD 生活時尚
-https://php.946985.filegear-sg.me/4gtv.php?id=TV5MONDE STYLE HD 生活時尚
+https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
+#EXTINF:-1 tvg-name="LUXE TV Channel" group-title="四季TV",LUXE TV Channel
+https://4gtv.946985.filegear-sg.me/playlist?channel=LUXE%20TV%20Channel
+#EXTINF:-1 tvg-name="TV5MONDE STYLE HD 生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TV5MONDE.png" group-title="四季TV",TV5MONDE STYLE HD 生活時尚
+https://4gtv.946985.filegear-sg.me/playlist?channel=TV5MONDE%20STYLE%20HD%20%E7%94%9F%E6%B4%BB%E6%99%82%E5%B0%9A
+#EXTINF:-1 tvg-name="MAGELLANTV频道 (麦哲伦频道) " group-title="四季TV",MagellanTV頻道 (麥哲倫頻道)
+https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
+#EXTINF:-1 tvg-name="LIFETIME 娱乐频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LIFETIME.png" group-title="4GTV",Lifetime 娛樂頻道
+https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1,tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/ArirangTV.png" group-title="四季TV",ARIRANG阿里郎頻道
 https://v.929777.xyz/epg/4gtv/app/189/
 #EXTINF:-1,tvg-id="France 24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/France24.png" group-title="四季TV",France 24
