@@ -263,9 +263,9 @@ http://stream.thmz.com/wxtv3/playlist.m3u8
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/镇江新闻综合.png" group-title="江苏频道", 镇江新闻综合
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
-#EXTINF:-1 tvg-id="扬州新闻" tvg-name="扬州新闻" tvg-logo="https://live.fanmingming.com/tv/扬州新闻.png" group-title="江苏频道", 扬州新闻
+#EXTINF:-1 tvg-id="扬州新闻" tvg-name="扬州新闻" tvg-logo="https://upload.112114.xyz/logo/扬州新闻.png" group-title="江苏频道", 扬州新闻
 https://v.929777.xyz/epg/migu/235/
-#EXTINF:-1 tvg-name="扬州城市" tvg-logo="https://live.fanmingming.com/tv/扬州城市.png" group-title="江苏频道", 扬州城市
+#EXTINF:-1 tvg-name="扬州民生" tvg-logo="hhttps://upload.112114.xyz/logo/扬州民生.png" group-title="江苏频道", 扬州民生
 https://v.929777.xyz/epg/migu/291/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/高邮一套新闻综合.png" group-title="江苏频道", 高邮一套新闻综合
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
