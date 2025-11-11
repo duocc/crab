@@ -264,9 +264,9 @@ http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/镇江新闻综合.png" group-title="江苏频道", 镇江新闻综合
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1 tvg-id="扬州新闻" tvg-name="扬州新闻" tvg-logo="https://live.fanmingming.com/tv/扬州新闻.png" group-title="江苏频道", 扬州新闻
-https://v.929777.xyz/epg/smg/235/
+https://v.929777.xyz/epg/migu/235/
 #EXTINF:-1 tvg-name="扬州城市" tvg-logo="https://live.fanmingming.com/tv/扬州城市.png" group-title="江苏频道", 扬州城市
-https://v.929777.xyz/epg/smg/291/
+https://v.929777.xyz/epg/migu/291/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/高邮一套新闻综合.png" group-title="江苏频道", 高邮一套新闻综合
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州4k.png" group-title="江苏频道", 苏州4k
@@ -289,6 +289,10 @@ https://v.929777.xyz/epg/smg/1600/
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai3.png" group-title="上海频道",东方影视
 https://v.929777.xyz/epg/migu/617290047/
 
+#EXTINF:-1 tvg-name="广州4K南国都市频道	" group-title="咪咕节目", 广州4K南国都市频道	
+https://v.929777.xyz/epg/migu/1375684847116288/
+#EXTINF:-1 tvg-name="广州综合频道	" group-title="咪咕节目", 广州综合频道
+https://v.929777.xyz/epg/migu/1375684745699328/
 #EXTINF:-1 tvg-name="发现之旅" group-title="咪咕节目", 发现之旅
 https://v.929777.xyz/epg/migu/624878970/
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="咪咕节目", 大湾区卫视
