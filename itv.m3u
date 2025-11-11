@@ -289,17 +289,17 @@ https://v.929777.xyz/epg/smg/1600/
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai3.png" group-title="上海频道",东方影视
 https://v.929777.xyz/epg/migu/617290047/
 
-#EXTINF:-1 tvg-name="广州4K南国都市频道	" group-title="咪咕节目", 广州4K南国都市频道	
+#EXTINF:-1 tvg-name="广州4K南国都市频道" group-title="咪咕节目",广州4K南国都市频道
 https://v.929777.xyz/epg/migu/1375684847116288/
-#EXTINF:-1 tvg-name="广州综合频道	" group-title="咪咕节目", 广州综合频道
+#EXTINF:-1 tvg-name="广州综合频道	" group-title="咪咕节目",广州综合频道
 https://v.929777.xyz/epg/migu/1375684745699328/
-#EXTINF:-1 tvg-name="发现之旅" group-title="咪咕节目", 发现之旅
+#EXTINF:-1 tvg-name="发现之旅" group-title="咪咕节目",发现之旅
 https://v.929777.xyz/epg/migu/624878970/
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="咪咕节目", 大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="咪咕节目",大湾区卫视
 https://v.929777.xyz/epg/migu/608917627/
-#EXTINF:-1 tvg-name="咪咕高清大片"" group-title="咪咕节目", 咪咕高清大片
+#EXTINF:-1 tvg-name="咪咕高清大片"" group-title="咪咕节目",咪咕高清大片
 https://v.929777.xyz/epg/migu/629943678/
-#EXTINF:-1 tvg-name="咪咕新片放映厅"" group-title="咪咕节目", 咪咕新片放映厅
+#EXTINF:-1 tvg-name="咪咕新片放映厅"" group-title="咪咕节目",咪咕新片放映厅
 https://v.929777.xyz/epg/migu/619495952/
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/176/1744788974699_TB_sc.jpg" group-title="咪咕节目", CHC影迷电影
 https://v.929777.xyz/epg/migu/952383261/
