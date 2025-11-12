@@ -257,21 +257,21 @@ https://v.929777.xyz/epg/jstv/291/
 https://v.929777.xyz/epg/jstv/290/
 #EXTINF:-1 tvg-name="高邮新闻综合" tvg-logo="https://live.fanmingming.com/tv/高邮一套新闻综合.png" group-title="江苏频道", 高邮一套新闻综合
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
-#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://live.fanmingming.com/tv/无锡娱乐.png" group-title="江苏频道", 无锡娱乐
+#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png" group-title="江苏频道", 无锡娱乐
 http://stream.thmz.com/wxtv2/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://live.fanmingming.com/tv/无锡新闻综合.png" group-title="江苏频道", 无锡新闻综合
+#EXTINF:-1 tvg-name="无锡新闻综合" https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png group-title="江苏频道", 无锡新闻综合
 http://stream.thmz.com/wxtv1/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://live.fanmingming.com/tv/无锡生活.png" group-title="江苏频道", 无锡生活
+#EXTINF:-1 tvg-name="无锡生活" https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png group-title="江苏频道", 无锡生活
 http://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://live.fanmingming.com/tv/无锡经济.png" group-title="江苏频道", 无锡经济
+#EXTINF:-1 tvg-name="无锡经济" https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png group-title="江苏频道", 无锡经济
 http://stream.thmz.com/wxtv5/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡都市资讯" tvg-logo="https://live.fanmingming.com/tv/无锡都市资讯.png" group-title="江苏频道", 无锡都市资讯
+#EXTINF:-1 tvg-name="无锡都市资讯" https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png group-title="江苏频道", 无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8
 #EXTINF:-1 tvg-name="镇江民生" tvg-logo="https://live.fanmingming.com/tv/镇江二套社会民生.png" group-title="江苏频道", 镇江民生
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 ttvg-name="镇江新闻综合" tvg-logo="https://live.fanmingming.com/tv/镇江新闻综合.png" group-title="江苏频道", 镇江新闻综合
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
-#EXTINF:-1 tvg-name="苏州4k" tvg-logo="tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou5.png"" group-title="江苏频道", 苏州4k
+#EXTINF:-1 tvg-name="苏州4k" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou5.png" group-title="江苏频道", 苏州4k
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png" group-title="江苏频道", 苏州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
