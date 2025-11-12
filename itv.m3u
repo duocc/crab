@@ -234,19 +234,19 @@ https://zjcn-live-play.jstv.com/jsgjpro.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="江苏频道", 优漫卡通
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/ymktpro.m3u8
-#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-1.png" group-title="江苏频道", 南京新闻综合
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/nanjing/nanjing-1.png" group-title="江苏频道", 南京新闻综合
 #EXTVLCOPT:http-referrer=https://www.nbs.cn
 https://yunlive.nbs.cn/live/2024njnews/playlist.m3u8
-#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-6.png" group-title="江苏频道", 南京十八生活
+#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/nanjing/nanjing-6.png" group-title="江苏频道", 南京十八生活
 #EXTVLCOPT:http-referrer=https://www.nbs.cn
 https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-5.png"  group-title="江苏频道", 南京文旅纪录
+#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/nanjing/nanjing-5.png"  group-title="江苏频道", 南京文旅纪录
 #EXTVLCOPT:http-referrer=https://www.nbs.cn
 https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-2.png" group-title="江苏频道", 南京教科
+#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/nanjing/nanjing-2.png" group-title="江苏频道", 南京教科
 #EXTVLCOPT:http-referrer=https://www.nbs.cn
 https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-4.png" group-title="江苏频道", 南京少儿
+#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/nanjing/nanjing-4.png" group-title="江苏频道", 南京少儿
 #EXTVLCOPT:http-referrer=https://www.nbs.cn
 https://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 #EXTINF:-1 tvg-name="扬州新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/yztv.png" group-title="江苏频道", 扬州新闻
