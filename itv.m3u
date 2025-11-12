@@ -231,7 +231,7 @@ https://zjcn-live-play.jstv.com/jsjypro.m3u8
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Jiangsu6.png" group-title="江苏频道", 江苏国际
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/jsgjpro.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="江苏频道", 优漫卡通
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="江苏频道", 优漫卡通
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/ymktpro.m3u8
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-1.png" group-title="江苏频道", 南京新闻综合
@@ -259,13 +259,13 @@ https://v.929777.xyz/epg/jstv/290/
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 #EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png" group-title="江苏频道", 无锡娱乐
 http://stream.thmz.com/wxtv2/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡新闻综合" https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png group-title="江苏频道", 无锡新闻综合
+#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png" group-title="江苏频道", 无锡新闻综合
 http://stream.thmz.com/wxtv1/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡生活" https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png group-title="江苏频道", 无锡生活
+#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png" group-title="江苏频道", 无锡生活
 http://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡经济" https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png group-title="江苏频道", 无锡经济
+#EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png" group-title="江苏频道", 无锡经济
 http://stream.thmz.com/wxtv5/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡都市资讯" https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png group-title="江苏频道", 无锡都市资讯
+#EXTINF:-1 tvg-name="无锡都市资讯" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/wuxi.png" group-title="江苏频道", 无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8
 #EXTINF:-1 tvg-name="镇江民生" tvg-logo="https://live.fanmingming.com/tv/镇江二套社会民生.png" group-title="江苏频道", 镇江民生
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
