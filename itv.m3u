@@ -7,9 +7,9 @@ http://192.168.123.1:4000/rtp/239.253.64.195:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.244:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="高清央视",CCTV-4 HD
 http://192.168.123.1:4000/rtp/239.253.64.196:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-name="CCTV-4 欧洲" tvg-logo="https://upload.112114.xyz/logo/CCTV4欧洲.png" group-title="高清央视",CCTV-4 欧洲
+#EXTINF:-1 tvg-name="CCTV-4欧洲" tvg-logo="https://upload.112114.xyz/logo/CCTV4欧洲.png" group-title="高清央视",CCTV-4欧洲
 http://192.168.123.1:4000/rtp/239.253.64.77:5140/?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-name="CCTV-4 美洲" tvg-logo="https://upload.112114.xyz/logo/CCTV4美洲.png" group-title="高清央视",CCTV-4 美洲
+#EXTINF:-1 tvg-name="CCTV-4美洲" tvg-logo="https://upload.112114.xyz/logo/CCTV4美洲.png" group-title="高清央视",CCTV-4美洲
 http://192.168.123.1:4000/rtp/239.253.64.78:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="高清央视",CCTV-5 HD
 http://192.168.123.1:4000/rtp/239.253.64.245:5140?fcc=10.255.75.73:15970
@@ -207,8 +207,6 @@ http://192.168.123.1:4000/rtp/239.253.64.128:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.139:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://upload.112114.xyz/logo/山东教育.png" group-title="数字频道",山东教育
 http://192.168.123.1:4000/rtp/239.253.64.241:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.112114.xyz/logo/cgtn.png" group-title="数字频道",CGTN
-http://192.168.123.1:4000/rtp/239.253.64.17:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://upload.112114.xyz/logo/云南卫视.png" group-title="数字频道",云南卫视
 http://192.168.123.1:4000/rtp/239.253.64.147:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://upload.112114.xyz/logo/内蒙古卫视.png" group-title="数字频道",内蒙古卫视
@@ -305,34 +303,36 @@ https://v.929777.xyz/epg/smg/1600/
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai3.png" group-title="上海频道",东方影视
 https://v.929777.xyz/epg/migu/617290047/
 
-#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangzhou6.png" group-title="咪咕节目",广州南国都市
+#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangzhou6.png" group-title="地方节目",广州南国都市
 https://v.929777.xyz/epg/migu/1375684847116288/
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangzhou1.png" group-title="咪咕节目",广州综合
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangzhou1.png" group-title="地方节目",广州综合
 https://v.929777.xyz/epg/migu/1375684745699328/
-#EXTINF:-1 tvg-name="黄河卫视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Huanghe.png" group-title="咪咕节目",黄河卫视
+#EXTINF:-1 tvg-name="黄河卫视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Huanghe.png" group-title="地方节目",黄河卫视
 https://v.929777.xyz/epg/migu/585/
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="咪咕节目",大湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="地方节目",大湾区卫视
 https://v.929777.xyz/epg/migu/608917627/
-#EXTINF:-1 tvg-name="咪咕高清大片" group-title="咪咕节目",咪咕高清大片
-https://v.929777.xyz/epg/migu/629943678/
-#EXTINF:-1 tvg-name="咪咕新片放映厅" group-title="咪咕节目",咪咕新片放映厅
-https://v.929777.xyz/epg/migu/619495952/
-#EXTINF:-1 tvg-name="经典香港电影" group-title="咪咕节目",经典香港电影
-https://v.929777.xyz/epg/migu/625703337/
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/176/1744788974699_TB_sc.jpg" group-title="咪咕节目", CHC影迷电影
-https://v.929777.xyz/epg/migu/952383261/
-#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="咪咕节目", CCTV4欧洲
-https://v.929777.xyz/epg/migu/608807419/
-#EXTINF:-1 tvg-name="CCTV4美洲" group-title="咪咕节目", CCTV4美洲
-https://v.929777.xyz/epg/migu/608807416/
-#EXTINF:-1 tvg-name="南方影视" group-title="咪咕节目", 南方影视
+#EXTINF:-1 tvg-name="南方影视" group-title="地方节目", 南方影视
 https://v.929777.xyz/epg/migu/614961829/
-#EXTINF:-1 tvg-name="陕西体育休闲" group-title="咪咕节目", 陕西体育休闲
+#EXTINF:-1 tvg-name="咪咕高清大片" group-title="地方节目",咪咕高清大片
+https://v.929777.xyz/epg/migu/629943678/
+#EXTINF:-1 tvg-name="咪咕新片放映厅" group-title="地方节目",咪咕新片放映厅
+https://v.929777.xyz/epg/migu/619495952/
+#EXTINF:-1 tvg-name="经典香港电影" group-title="地方节目",经典香港电影
+https://v.929777.xyz/epg/migu/625703337/
+#EXTINF:-1 tvg-name="陕西体育休闲" group-title="地方节目", 陕西体育休闲
 https://v.929777.xyz/epg/migu/956909356/
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/shdy.png" group-title="咪咕节目", 四海钓鱼
+#EXTINF:-1 tvg-name="咪咕24小时体育台" group-title="地方节目", 咪咕24小时体育台
+https://v.929777.xyz/epg/migu/654102378/
+#EXTINF:-1 tvg-name="环球旅游" group-title="地方节目", 环球旅游
+https://v.929777.xyz/epg/migu/958475356/
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/shdy.png" group-title="地方节目", 四海钓鱼
 https://v.929777.xyz/epg/migu/637444975/
-#EXTINF:-1 tvg-name="发现之旅" group-title="咪咕节目",发现之旅
+#EXTINF:-1 tvg-name="发现之旅" group-title="地方节目",发现之旅
 https://v.929777.xyz/epg/migu/624878970/
+#EXTINF:-1 tvg-name="中学生" group-title="地方节目",中学生
+https://v.929777.xyz/epg/migu/708869532/
+#EXTINF:-1 tvg-name="老故事" group-title="地方节目",老故事
+https://v.929777.xyz/epg/migu/884121956/
 
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
