@@ -319,10 +319,7 @@ https://v.929777.xyz/epg/migu/956909356/
 https://v.929777.xyz/epg/migu/637444975/
 #EXTINF:-1 tvg-name="发现之旅" group-title="咪咕节目",发现之旅
 https://v.929777.xyz/epg/migu/624878970/
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/795/202308221159_1692676746119_H32_1080.webp" group-title="咪咕节目",CHC动作电影
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CHC动作电影
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/911/202308221200_1692676843082_H32_1080.webp" group-title="咪咕节目",CHC家庭影院
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CHC家庭影院
+
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
 https://v.929777.xyz/epg/yt/PhoenixTV/
