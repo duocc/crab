@@ -234,48 +234,48 @@ https://zjcn-live-play.jstv.com/jsgjpro.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="江苏频道", 优漫卡通
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/ymktpro.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="江苏频道", 南京新闻综合
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-1.png" group-title="江苏频道", 南京新闻综合
 #EXTVLCOPT:http-referrer=https://www.nbs.cn
 https://yunlive.nbs.cn/live/2024njnews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京十八.png" group-title="江苏频道", 南京十八
+#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-6.png" group-title="江苏频道", 南京十八生活
 #EXTVLCOPT:http-referrer=https://www.nbs.cn
 https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京娱乐.png" group-title="江苏频道", 南京文旅纪录
+#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-5.png"  group-title="江苏频道", 南京文旅纪录
 #EXTVLCOPT:http-referrer=https://www.nbs.cn
 https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京教科.png" group-title="江苏频道", 南京教科
+#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-2.png" group-title="江苏频道", 南京教科
 #EXTVLCOPT:http-referrer=https://www.nbs.cn
 https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/南京少儿.png" group-title="江苏频道", 南京少儿
+#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/nanjing-4.png" group-title="江苏频道", 南京少儿
 #EXTVLCOPT:http-referrer=https://www.nbs.cn
 https://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/无锡娱乐.png" group-title="江苏频道", 无锡娱乐
-http://stream.thmz.com/wxtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/无锡新闻综合.png" group-title="江苏频道", 无锡新闻综合
-http://stream.thmz.com/wxtv1/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://live.fanmingming.com/tv/无锡生活.png" group-title="江苏频道", 无锡生活
-http://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://live.fanmingming.com/tv/无锡经济.png" group-title="江苏频道", 无锡经济
-http://stream.thmz.com/wxtv5/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://live.fanmingming.com/tv/无锡都市资讯.png" group-title="江苏频道", 无锡都市资讯
-http://stream.thmz.com/wxtv3/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://live.fanmingming.com/tv/镇江二套社会民生.png" group-title="江苏频道", 镇江二套社会民生
-http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/镇江新闻综合.png" group-title="江苏频道", 镇江新闻综合
-http://cm-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1 tvg-name="扬州新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/yztv.png" group-title="江苏频道", 扬州新闻
 https://v.929777.xyz/epg/jstv/235/
 #EXTINF:-1 tvg-name="扬州民生" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/yztv.png" group-title="江苏频道", 扬州民生
 https://v.929777.xyz/epg/jstv/291/
 #EXTINF:-1 tvg-name="扬州江都" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/yztv.png" group-title="江苏频道", 扬州江都
 https://v.929777.xyz/epg/jstv/290/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/高邮一套新闻综合.png" group-title="江苏频道", 高邮一套新闻综合
+#EXTINF:-1 tvg-name="高邮新闻综合" tvg-logo="https://live.fanmingming.com/tv/高邮一套新闻综合.png" group-title="江苏频道", 高邮一套新闻综合
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州4k.png" group-title="江苏频道", 苏州4k
+#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://live.fanmingming.com/tv/无锡娱乐.png" group-title="江苏频道", 无锡娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://live.fanmingming.com/tv/无锡新闻综合.png" group-title="江苏频道", 无锡新闻综合
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://live.fanmingming.com/tv/无锡生活.png" group-title="江苏频道", 无锡生活
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://live.fanmingming.com/tv/无锡经济.png" group-title="江苏频道", 无锡经济
+http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡都市资讯" tvg-logo="https://live.fanmingming.com/tv/无锡都市资讯.png" group-title="江苏频道", 无锡都市资讯
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 tvg-name="镇江民生" tvg-logo="https://live.fanmingming.com/tv/镇江二套社会民生.png" group-title="江苏频道", 镇江民生
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 ttvg-name="镇江新闻综合" tvg-logo="https://live.fanmingming.com/tv/镇江新闻综合.png" group-title="江苏频道", 镇江新闻综合
+http://cm-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 tvg-name="苏州4k" tvg-logo="tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou5.png"" group-title="江苏频道", 苏州4k
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png" group-title="江苏频道", 苏州文化生活
+#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png" group-title="江苏频道", 苏州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="江苏频道", 苏州新闻综合
+#EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="江苏频道", 苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/duocc/TVLogo/main/img/Shanghai1.png" group-title="上海频道", 上海新闻综合
