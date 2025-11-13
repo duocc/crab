@@ -343,7 +343,7 @@ https://v.929777.xyz/epg/yt/TVBS55/
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/EBC6.png" group-title="You•Tube",东森新闻台
 https://v.929777.xyz/epg/yt/EBCNews/
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/SET2.png" group-title="You•Tube",三立新闻
-https://v.929777.xyz/epg/yt/EBCNews/
+https://v.929777.xyz/epg/yt/SET_news/
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/abc.png" group-title="You•Tube",ABC News
 https://v.929777.xyz/epg/yt/ABCNews/
 #EXTINF:-1 tvg-id="Fox Live" tvg-name="Fox Live" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FOX_Live.png" group-title="You•Tube",Fox Live
