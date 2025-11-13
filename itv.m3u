@@ -295,7 +295,7 @@ https://v.929777.xyz/epg/smg/1600/
 https://v.929777.xyz/epg/migu/617290047/
 
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangzhou6.png" group-title="地方节目",广州南国都市
-https://us.929777.xyz/epg/migu/1375684847116288/
+https://v.929777.xyz/epg/migu/1375684847116288/
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangzhou1.png" group-title="地方节目",广州综合
 https://v.929777.xyz/epg/migu/1375684745699328/
 #EXTINF:-1 tvg-name="黄河卫视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Huanghe.png" group-title="地方节目",黄河卫视
@@ -327,7 +327,7 @@ https://v.929777.xyz/epg/migu/884121956/
 
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
-https://us.929777.xyz/epg/yt/PhoenixTV/
+https://v.929777.xyz/epg/yt/PhoenixTV/
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CTI2.png" group-title="You•Tube",中天新聞台
 https://v.929777.xyz/epg/yt/CTITVNews/
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CTV1.png" group-title="You•Tube",中視新聞
