@@ -532,7 +532,7 @@ https://smt.858.qzz.io/Smart.php?id=hbohd_twn
 #EXTINF:-1,tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO3.png" group-title="海外节目",HBO Signature(台湾)
 https://smt.858.qzz.io/Smart.php?id=Hbosignature
 #EXTINF:-1,tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO2.png" group-title="海外节目",HBO Hits
-https://smt.858.qzz.io/Smart.php?id=hbohit_twn
+http://8.iptv543.com:5051/smart.php?id=hbohit_twn&token=885252
 #EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO1.png" group-title="海外节目",HBO Family
 https://smt.858.qzz.io/Smart.php?id=Hbofamily
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/AXNTV.png" group-title="海外节目",AxnHD(台湾)
