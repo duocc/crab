@@ -432,6 +432,8 @@ http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangdong5.png" group-title="港澳节目",广东体育
 http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="四季TV",中视HD
+https://us.929777.xyz/4gtv.php?id=4gtv-4gtv040
 #from https://php.946985.filegear-sg.me/jackTV.m3u
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV.png" group-title="四季TV",民视
 https://v.929777.xyz/epg/4gtv/app/3/
