@@ -437,7 +437,7 @@ http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 
 #from https://php.946985.filegear-sg.me/jackTV.m3u
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV.png" group-title="四季TV",民视
-https://v.929777.xyz/epg/4gtv/app/3/
+https://v.929777.xyz/epg/smg/3/
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="四季TV",中视HD
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CTS.png" group-title="四季TV",华视HD
@@ -447,11 +447,11 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TTV.png" group-title="四季TV",台視HD
 http://8.iptv543.com:50009/4gtv-4gtv066/index.m3u8
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV2.png" group-title="四季TV",民视第一台
-https://v.929777.xyz/epg/4gtv/app/1/
+https://v.929777.xyz/epg/smg/1/
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV3.png" group-title="四季TV",民視台灣台
-https://v.929777.xyz/epg/4gtv/app/2/
+https://v.929777.xyz/epg/smg/2/
 #EXTINF:-1 tvg-id="民視新闻台" tvg-name="民視新闻台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV1.png" group-title="四季TV",民視新闻台
-https://v.929777.xyz/epg/4gtv/app/31/
+https://v.929777.xyz/epg/smg/31/
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="四季TV",TVBS
 https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TVBS2.png" group-title="四季TV",TVBS欢乐台
@@ -497,13 +497,13 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-name="LIFETIME 娱乐频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LIFETIME.png" group-title="四季TV",Lifetime 娛樂頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1,tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/ArirangTV.png" group-title="四季TV",ARIRANG阿里郎頻道
-https://v.929777.xyz/epg/4gtv/app/189/
+https://v.929777.xyz/epg/smg/189/
 #EXTINF:-1,tvg-id="France 24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/France24.png" group-title="四季TV",France 24
-https://v.929777.xyz/epg/4gtv/app/316/
+https://v.929777.xyz/epg/smg/316/
 #EXTINF:-1,tvg-id="NHK World" tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/NHKWorld.png" group-title="四季TV",NHK World
-https://v.929777.xyz/epg/4gtv/app/461/
+https://v.929777.xyz/epg/smg/461/
 #EXTINF:-1,tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/AlJazeera.png" group-title="四季TV",半島國際新聞台
-https://v.929777.xyz/epg/4gtv/app/462/
+https://v.929777.xyz/epg/smg/462/
 
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TTV.png" group-title="海外节目",台视TTV HD
 https://smt.858.qzz.io/Smart.php?id=ttv_taiwan
