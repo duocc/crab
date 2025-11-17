@@ -307,8 +307,20 @@ https://v.929777.xyz/epg/migu/617290047/
 https://v.929777.xyz/epg/migu/1375684847116288/
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangzhou1.png" group-title="地方节目",广州综合
 https://v.929777.xyz/epg/migu/1375684745699328/
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Beijing4.png" group-title="地方节目",北京影视
+https://v.929777.xyz/epg/migu/60021/
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Beijing3.png" group-title="地方节目",北京文艺
+https://v.929777.xyz/epg/migu/59711/
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Beijing5.png" group-title="地方节目",北京纪实
+https://v.929777.xyz/epg/migu/113328/
 #EXTINF:-1 tvg-name="黄河卫视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Huanghe.png" group-title="地方节目",黄河卫视
 https://v.929777.xyz/epg/migu/585/
+#EXTINF:-1 tvg-name="山西经济" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Shanxi_1.png" group-title="地方节目",山西经济
+https://v.929777.xyz/epg/migu/505/
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Shanxi_.png" group-title="地方节目",山西文体生活
+https://v.929777.xyz/epg/migu/601/
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Shanxi_2.png" group-title="地方节目",山西影视
+https://v.929777.xyz/epg/migu/527/
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangdong10.png" group-title="地方节目",大湾区卫视
 https://v.929777.xyz/epg/migu/608917627/
 #EXTINF:-1 tvg-name="南方影视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangdong3.png" group-title="地方节目", 南方影视
