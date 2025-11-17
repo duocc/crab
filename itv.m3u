@@ -186,7 +186,7 @@ http://192.168.123.1:4000/rtp/239.253.64.152:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://upload.112114.xyz/logo/睛彩青少.png" group-title="数字频道",睛彩青少
 http://192.168.123.1:4000/rtp/239.253.64.153:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://upload.112114.xyz/logo/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
-http://192.168.123.1:4000/rtp/239.253.64.184:5140?fcc=10.255.75.73:15970
+http://192.168.123.1:4000/rtp/239.253.64.154:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://upload.112114.xyz/logo/中国天气.png" group-title="数字频道",中国天气
 http://192.168.123.1:4000/rtp/239.253.64.79:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://upload.112114.xyz/logo/CETV1.png" group-title="数字频道",CETV-1 HD
@@ -217,6 +217,15 @@ http://192.168.123.1:4000/rtp/239.253.64.45:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.37:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://upload.112114.xyz/logo/青海卫视.png" group-title="数字频道",青海卫视
 http://192.168.123.1:4000/rtp/239.253.64.46:5140?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://upload.112114.xyz/logo/CGTN纪录.png" group-title="数字频道",CGTN 纪录
+http://192.168.123.1:4000/rtp/239.253.64.58:5140/?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://upload.112114.xyz/logo/CGTN西语.png" group-title="数字频道",CGTN Español
+http://192.168.123.1:4000/rtp/239.253.64.71:5140/?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://upload.112114.xyz/logo/CGTN法语.png" group-title="数字频道",CGTN Français
+http://192.168.123.1:4000/rtp/239.253.64.73:5140/?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://upload.112114.xyz/logo/CGTN阿语.png" group-title="数字频道",CGTN العربية
+http://192.168.123.1:4000/rtp/239.253.64.74:5140/?fcc=10.255.75.73:15970
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://upload.112114.xyz/logo/CGTN俄语.png" group-title="数字频道",CGTN РУССКИЙ
 
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Jiangsu2.png" group-title="江苏频道", 江苏城市
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
