@@ -551,7 +551,7 @@ https://smt.858.qzz.io/Smart.php?id=WarnerTV
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO.png" group-title="海外节目",HBOHD(台湾)
 https://v.929777.xyz/epg/api/stream/saileitv/2d329e1c/ 
 #EXTINF:-1,tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO3.png" group-title="海外节目",HBO Signature(台湾)
-https://smt.858.qzz.io/Smart.php?id=Hbosignature
+https://v.929777.xyz/epg/api/stream/saileitv/n4641f303/
 #EXTINF:-1,tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO2.png" group-title="海外节目",HBO Hits
 https://v.929777.xyz/epg/api/stream/saileitv/n54fc5ba0/
 #EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO1.png" group-title="海外节目",HBO Family
