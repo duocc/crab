@@ -539,7 +539,7 @@ https://smt.858.qzz.io/Smart.php?id=ctient
 #EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/weishi2.png" group-title="海外节目",卫视电影台
 https://smt.858.qzz.io/Smart.php?id=weishimovie_twn
 #EXTINF:-1,tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Cinemax.png" group-title="海外节目",Cinemax
-https://smt.858.qzz.io/Smart.php?id=cinemax_twn
+https://v.929777.xyz/epg/api/stream/saileitv/7c7a1311/
 #EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Animax.png" group-title="海外节目",Animax
 https://smt.858.qzz.io/Smart.php?id=Animax
 #EXTINF:-1,tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://epg.112114.xyz/logo/MOVIESNOW.png" group-title="海外节目",Movies Now HD
