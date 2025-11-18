@@ -557,7 +557,7 @@ http://8.iptv543.com:5051/smart.php?id=hbohit_twn&token=885252
 #EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO1.png" group-title="海外节目",HBO Family
 https://smt.858.qzz.io/Smart.php?id=Hbofamily
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/AXNTV.png" group-title="海外节目",AxnHD(台湾)
-https://v.929777.xyz/epg/stream/saileitv/n4e27c899/
+https://v.929777.xyz/epg/api/stream/saileitv/n4e27c899/
 #EXTINF:-1,tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://epg.112114.xyz/logo/Paramount.png" group-title="海外节目",Paramount Network
 https://smt.858.qzz.io/Smart.php?id=Paramountnetwork
 #EXTINF:-1,tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/NATGEO.png" group-title="海外节目",国家地理HD
