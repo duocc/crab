@@ -549,11 +549,11 @@ https://smt.858.qzz.io/Smart.php?id=starmovies_raj
 #EXTINF:-1,tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/WarnerTV.png" group-title="海外节目",Warner TV
 https://smt.858.qzz.io/Smart.php?id=WarnerTV
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO.png" group-title="海外节目",HBOHD(台湾)
-https://smt.858.qzz.io/Smart.php?id=hbohd_twn
+https://v.929777.xyz/epg/api/stream/saileitv/2d329e1c/ 
 #EXTINF:-1,tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO3.png" group-title="海外节目",HBO Signature(台湾)
 https://smt.858.qzz.io/Smart.php?id=Hbosignature
 #EXTINF:-1,tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO2.png" group-title="海外节目",HBO Hits
-http://8.iptv543.com:5051/smart.php?id=hbohit_twn&token=885252
+https://v.929777.xyz/epg/api/stream/saileitv/n54fc5ba0/
 #EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/HBO1.png" group-title="海外节目",HBO Family
 https://smt.858.qzz.io/Smart.php?id=Hbofamily
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/AXNTV.png" group-title="海外节目",AxnHD(台湾)
@@ -563,6 +563,6 @@ https://smt.858.qzz.io/Smart.php?id=Paramountnetwork
 #EXTINF:-1,tvg-id="国家地理" tvg-name="国家地理" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/NATGEO.png" group-title="海外节目",国家地理HD
 https://smt.858.qzz.io/Smart.php?id=natgeohd_twn
 #EXTINF:-1,tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/NATGEO1.png" group-title="海外节目",国家地理Wild
-https://smt.858.qzz.io/Smart.php?id=natgeowild_twn
+https://v.929777.xyz/epg/api/stream/saileitv/n6598e6ce/
 #EXTINF:-1,tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FashionTV.png" group-title="海外节目",Fashion TV
-https://smt.858.qzz.io/Smart.php?id=fashiontv_twn
+https://v.929777.xyz/epg/api/stream/saileitv/n7852a99f/
