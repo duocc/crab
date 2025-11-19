@@ -88,3 +88,28 @@ https://smart.pendy.dpdns.org/Smart.php?id=Tlc
 https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
 #EXTINF:-1,tvg-id="纪录频道|HGTV" tvg-name="纪录频道|HGTV" tvg-logo="https://epg.112114.xyz/logo/纪录频道|HGTV.png" group-title="Smart☠️源",纪录频道|HGTV
 https://smart.pendy.dpdns.org/Smart.php?id=HGTV
+
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangdong10.png" group-title="地方节目",大湾区卫视
+https://v.929777.xyz/epg/migu/608917627/
+#EXTINF:-1 tvg-name="南方影视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangdong3.png" group-title="地方节目", 南方影视
+https://v.929777.xyz/epg/migu/614961829/
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/nanjing/nanjing-1.png" group-title="地方节目", 南京综合
+https://v.929777.xyz/epg/migu/838109047/
+#EXTINF:-1 tvg-name="咪咕新片放映厅" group-title="地方节目",咪咕新片放映厅
+https://v.929777.xyz/epg/migu/619495952/
+#EXTINF:-1 tvg-name="经典香港电影" group-title="地方节目",经典香港电影
+https://v.929777.xyz/epg/migu/625703337/
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Shanxi6.png" group-title="地方节目", 陕西体育休闲
+https://v.929777.xyz/epg/migu/956909356/
+#EXTINF:-1 tvg-name="咪咕24小时体育台" group-title="地方节目", 咪咕24小时体育台
+https://v.929777.xyz/epg/migu/654102378/
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/hqly.png" group-title="地方节目", 环球旅游
+https://v.929777.xyz/epg/migu/958475356/
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/shdy.png" group-title="地方节目", 四海钓鱼
+https://v.929777.xyz/epg/migu/637444975/
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CNDfxzl.png" group-title="地方节目",发现之旅
+https://v.929777.xyz/epg/migu/624878970/
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CNDzxs.png" group-title="地方节目",中学生
+https://v.929777.xyz/epg/migu/708869532/
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CNDlgs.png" group-title="地方节目",老故事
+https://v.929777.xyz/epg/migu/884121956/
