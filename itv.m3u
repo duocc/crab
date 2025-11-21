@@ -507,8 +507,18 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=LUXE%20TV%20Channel
 https://4gtv.946985.filegear-sg.me/playlist?channel=TV5MONDE%20STYLE%20HD%20%E7%94%9F%E6%B4%BB%E6%99%82%E5%B0%9A
 #EXTINF:-1 tvg-name="MAGELLANTV频道 (麦哲伦频道) " tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png"  group-title="四季TV",MagellanTV頻道 (麥哲倫頻道)
 https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
+#EXTINF:-1 tvg-name="CI 罪案侦查频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CI.png" group-title="4GTV",CI 罪案偵查頻道
+https://4gtv.946985.filegear-sg.me/playlist?channel=CI%20%E7%BD%AA%E6%A1%88%E5%81%B5%E6%9F%A5%E9%A0%BB%E9%81%93
+#EXTINF:-1 tvg-name="视纳华仁纪实频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/视纳华仁纪实.png" group-title="四季TV",視納華仁紀實頻道
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%A6%96%E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6%E9%A0%BB%E9%81%93
+#EXTINF:-1 tvg-name="影迷数位纪实台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/影迷数位纪实.png" group-title="四季TV",影迷數位紀實台
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E7%B4%80%E5%AF%A6%E5%8F%B0
 #EXTINF:-1 tvg-name="LIFETIME 娱乐频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LIFETIME.png" group-title="四季TV",Lifetime 娛樂頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
+#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/智林体育.png" group-title="四季TV",智林體育台
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
+#EXTINF:-1 tvg-name="时尚运动X" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/时尚运动X.png" group-title="四季TV",時尚運動X
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
 #EXTINF:-1,tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/ArirangTV.png" group-title="四季TV",ARIRANG阿里郎頻道
 https://v.929777.xyz/epg/smg/189/
 #EXTINF:-1,tvg-id="France 24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/France24.png" group-title="四季TV",France 24
