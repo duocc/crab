@@ -457,8 +457,6 @@ https://v.929777.xyz/epg/smg/3/
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CTS.png" group-title="四季TV",华视HD
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
-
-#from https://github.com/a0907607299-creator/4gtv/blob/main/4gtv.m3u
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/TTV.png" group-title="四季TV",台視HD
 http://8.iptv543.com:50009/4gtv-4gtv066/index.m3u8
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV2.png" group-title="四季TV",民视第一台
@@ -476,7 +474,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=MTV%20Live%20HD%20%E9%9F%B3%
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="四季TV",Lifetime 娛樂頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png"  group-title="四季TV",Rock Actions
-https://v.929777.xyz/epg/api/stream/saileitv/2309ab15/
+https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
 #EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="四季TV",Hits Movie
 https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/ROCKEntertainment.png"  group-title="四季TV",Rock Entertainment
