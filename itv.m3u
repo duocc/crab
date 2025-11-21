@@ -476,7 +476,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=MTV%20Live%20HD%20%E9%9F%B3%
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="四季TV",Lifetime 娛樂頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png"  group-title="四季TV",Rock Actions
-https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
+https://v.929777.xyz/epg/api/stream/saileitv/2309ab15/
 #EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="四季TV",Hits Movie
 https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/ROCKEntertainment.png"  group-title="四季TV",Rock Entertainment
@@ -533,7 +533,7 @@ https://smt.858.qzz.io/Smart.php?id=ctient
 #EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/weishi2.png" group-title="海外节目",卫视电影台
 https://smt.858.qzz.io/Smart.php?id=weishimovie_twn
 #EXTINF:-1,tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Cinemax.png" group-title="海外节目",Cinemax
-https://v.929777.xyz/epg/api/stream/saileitv/7c7a1311/
+https://v.929777.xyz/epg/api/stream/saileitv/16169bd4/
 #EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Animax.png" group-title="海外节目",Animax
 https://smt.858.qzz.io/Smart.php?id=Animax
 #EXTINF:-1,tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://epg.112114.xyz/logo/MOVIESNOW.png" group-title="海外节目",Movies Now HD
