@@ -460,6 +460,15 @@ https://php.946985.filegear-sg.me/mytv265.php?id=LN4
 #KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
 https://php.946985.filegear-sg.me/mytv265.php?id=CTS1
 
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="MYTV",HBO HD
+https://smart.946985.filegear-sg.me/smart.php?id=Hbo
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="MYTV",HBO Signature
+https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="MYTV",HBO Family
+https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="MYTV",HBO Hits
+https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
+
 #from https://php.946985.filegear-sg.me/jackTV.m3u
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV.png" group-title="四季TV",民视
 https://v.929777.xyz/epg/smg/3/
