@@ -449,7 +449,7 @@ http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/Guangdong5.png" group-title="港澳节目",广东体育
 http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 
-#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="LOVENATURE4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png" group-title="MYTV",Love Nature 4K
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png" group-title="MYTV",Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
@@ -460,14 +460,16 @@ https://php.946985.filegear-sg.me/mytv265.php?id=LN4
 #KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
 https://php.946985.filegear-sg.me/mytv265.php?id=CTS1
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="MYTV",HBO HD
-https://smart.946985.filegear-sg.me/smart.php?id=Hbo
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="MYTV",HBO HD
+https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="MYTV",HBO Signature
 https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="MYTV",HBO Family
 https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="MYTV",HBO Hits
-https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
+https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
+#EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="" group-title="MYTV",卫视电影台
+https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
 
 #from https://php.946985.filegear-sg.me/jackTV.m3u
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/FTV.png" group-title="四季TV",民视
