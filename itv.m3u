@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://v.929777.xyz/epg/all/e.xml" 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="高清央视",CCTV-1 HD
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CCTV1.png" group-title="高清央视",CCTV-1 HD
 http://192.168.123.1:4000/rtp/239.253.64.120:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="高清央视",CCTV-2 HD
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CCTV2.png" group-title="高清央视",CCTV-2 HD
 http://192.168.123.1:4000/rtp/239.253.64.195:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="高清央视",CCTV-3 HD
 http://192.168.123.1:4000/rtp/239.253.64.244:5140?fcc=10.255.75.73:15970
@@ -47,23 +47,23 @@ http://192.168.123.1:4000/rtp/239.253.64.58:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.48:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://upload.112114.xyz/logo/湖南卫视4K.png" group-title="4K超高清",湖南卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.60:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://upload.112114.xyz/logo/江苏卫视4K.png" group-title="4K超高清",江苏卫视 4k
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="4K超高清",江苏卫视 4k
 http://192.168.123.1:4000/rtp/239.253.64.61:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K超高清",浙江卫视 4K
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="4K超高清",浙江卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.62:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="4K超高清",东方卫视 4K
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="4K超高清",东方卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.63:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="4K超高清",山东卫视 4K
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="4K超高清",山东卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.65:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="4K超高清",广东卫视 4K
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="4K超高清",广东卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.96:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K超高清",北京卫视 4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="4K超高清",北京卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.92:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="4K超高清",深圳卫视 4K
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="4K超高清",深圳卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.95:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="4K超高清",四川卫视 4K
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="4K超高清",四川卫视 4K
 http://192.168.123.1:4000/rtp/239.253.64.64:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K超高清",CCTV-16 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV16%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B.png" group-title="4K超高清",CCTV-16 4K
 http://192.168.123.1:4000/rtp/239.253.64.126:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huashu4k.png" group-title="4K超高清",华数4K影视
 http://192.168.123.1:4000/rtp/239.253.64.243:5140?fcc=10.255.75.73:15970
@@ -179,9 +179,9 @@ http://192.168.123.1:4000/rtp/239.253.64.51:5140/?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.52:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="数字频道",金鹰纪实 HD
 http://192.168.123.1:4000/rtp/239.253.64.168:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png" group-title="数字频道",睛彩竞技
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/jingcai04.png" group-title="数字频道",睛彩竞技
 http://192.168.123.1:4000/rtp/239.253.64.151:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png" group-title="数字频道",睛彩篮球
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/jingcai03.png" group-title="数字频道",睛彩篮球
 http://192.168.123.1:4000/rtp/239.253.64.152:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://upload.112114.xyz/logo/睛彩青少.png" group-title="数字频道",睛彩青少
 http://192.168.123.1:4000/rtp/239.253.64.153:5140/?fcc=10.255.75.73:15970
