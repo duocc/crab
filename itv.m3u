@@ -618,3 +618,13 @@ https://v.929777.xyz/epg/api/stream/saileitv/n66e1336b/
 https://v.929777.xyz/epg/api/stream/saileitv/n6598e6ce/
 #EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png" group-title="海外节目",Fashion TV
 https://v.929777.xyz/epg/api/stream/saileitv/n7852a99f/
+#EXTINF:-1 group-title="海外节目" tvg-id="natgeo" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg", National Geographic 日本 
+https://proxyv2.utako.moe/ph.php?&isp=1&id=cs10
+#EXTINF:-1 group-title="海外节目" tvg-id="disney_junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior 日本 
+https://proxyv2.utako.moe/ph.php?&isp=1&id=cs23
+#EXTINF:-1 group-title="海外节目" tvg-id="discovery_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery 日本  
+https://proxyv2.utako.moe/ph.php?&isp=1&id=cs08
+#EXTINF:-1 group-title="海外节目" tvg-id="animal_planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg", Animal Planet 日本 
+https://proxyv2.utako.moe/ph.php?&isp=1&id=cs24
+#EXTINF:-1 group-title="海外节目" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", History 日本 
+https://proxyv2.utako.moe/ph.php?&isp=1&id=cs09
