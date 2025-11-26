@@ -503,6 +503,8 @@ https://smart.946985.filegear-sg.me/smart.php?id=fashiontv_twn
 https://smart.946985.filegear-sg.me/smart.php?id=AstroMTV
 #EXTINF:-1 tvg-id="Astro Rusi" tvg-name="Astro Rusi" tvg-logo="" group-title="MYTV",Astro Rusi
 https://smart.946985.filegear-sg.me/smart.php?id=Rusi
+#EXTINF:-1 tvg-name="CATCHPLAY电影台" group-title="MYTV", CATCHPLAY电影台 
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv076
 
 #from https://php.946985.filegear-sg.me/jackTV.m3u
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV.png" group-title="四季TV",民视
