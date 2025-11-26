@@ -39,9 +39,9 @@ http://192.168.123.1:4000/rtp/239.253.64.72:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.251:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CCTV17.png" group-title="高清央视",CCTV-17 HD
 http://192.168.123.1:4000/rtp/239.253.64.67:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://upload.112114.xyz/logo/CGTN.png" group-title="高清央视",CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CGTN.png" group-title="高清央视",CGTN
 http://192.168.123.1:4000/rtp/239.253.64.68:5140/?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CGTNDoc.png" group-title="高清央视",CGTN 纪录 HD
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://upload.112114.xyz/logo/CGTN%E7%BA%AA%E5%BD%95.png" group-title="高清央视",CGTN 纪录 HD
 http://192.168.123.1:4000/rtp/239.253.64.58:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://upload.112114.xyz/logo/CCTV4K.png" group-title="4K超高清",CCTV-4K
 http://192.168.123.1:4000/rtp/239.253.64.48:5140/?fcc=10.255.75.73:15970
@@ -65,7 +65,7 @@ http://192.168.123.1:4000/rtp/239.253.64.95:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.64:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/samkolau/TVLOGO/logo/CCTV/CCTV16%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B.png" group-title="4K超高清",CCTV-16 4K
 http://192.168.123.1:4000/rtp/239.253.64.126:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huashu4k.png" group-title="4K超高清",华数4K影视
+#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/huashu4k.png" group-title="4K超高清",华数4K影视
 http://192.168.123.1:4000/rtp/239.253.64.243:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://upload.112114.xyz/logo/东方卫视.png" group-title="高清卫视",东方卫视
 http://192.168.123.1:4000/rtp/239.253.64.201:5140/?fcc=10.255.75.73:15970
