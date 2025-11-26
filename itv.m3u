@@ -491,15 +491,15 @@ https://php.946985.filegear-sg.me/mytv265.php?id=SMUS
 https://php.946985.filegear-sg.me/mytv265.php?id=SGOL
 
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="MYTV",HBO HD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO.png" group-title="MYTV",HBO HD
 https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="MYTV",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO3.png" group-title="MYTV",HBO Signature
 https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="MYTV",HBO Family
 https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="" group-title="MYTV",Fashion TV
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png"  group-title="MYTV",Fashion TV
 https://smart.946985.filegear-sg.me/smart.php?id=fashiontv_twn
-#EXTINF:-1 tvg-id="Astro MTV" tvg-name="Astro MTV" tvg-logo="" group-title="MYTV",Astro MTV
+#EXTINF:-1 tvg-id="Astro MTV" tvg-name="Astro MTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="MYTV",Astro MTV
 https://smart.946985.filegear-sg.me/smart.php?id=AstroMTV
 #EXTINF:-1 tvg-id="Astro Rusi" tvg-name="Astro Rusi" tvg-logo="" group-title="MYTV",Astro Rusi
 https://smart.946985.filegear-sg.me/smart.php?id=Rusi
@@ -512,7 +512,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTS.png" group-title="四季TV",华视HD
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV.png" group-title="四季TV",台視HD
-http://8.iptv543.com:50009/4gtv-4gtv066/index.m3u8
+https://smart.946985.filegear-sg.me/smart.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV2.png" group-title="四季TV",民视第一台
 https://v.929777.xyz/epg/smg/1/
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV3.png" group-title="四季TV",民視台灣台
