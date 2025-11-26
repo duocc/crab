@@ -13,7 +13,7 @@ http://192.168.123.1:4000/rtp/239.253.64.77:5140/?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.78:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CCTV5.png" group-title="高清央视",CCTV-5 HD
 http://192.168.123.1:4000/rtp/239.253.64.245:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CCTV5+.png" group-title="高清央视",CCTV-5+ HD
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CCTV5plus.png" group-title="高清央视",CCTV-5+ HD
 http://192.168.123.1:4000/rtp/239.253.64.100:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CCTV6.png" group-title="高清央视",CCTV-6 HD
 http://192.168.123.1:4000/rtp/239.253.64.246:5140?fcc=10.255.75.73:15970
