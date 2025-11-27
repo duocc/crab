@@ -502,7 +502,7 @@ https://smart.946985.filegear-sg.me/smart.php?id=fashiontv_twn
 #EXTINF:-1 tvg-id="Astro MTV" tvg-name="Astro MTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="MYTV",Astro MTV
 https://smart.946985.filegear-sg.me/smart.php?id=AstroMTV
 #EXTINF:-1 tvg-id="Astro Rusi" tvg-name="Astro Rusi" tvg-logo="" group-title="MYTV",Astro Rusi
-https://smart.946985.filegear-sg.me/smart.php?id=Rusi
+https://stream1.freetv.fun/astro-rusi-1.ctv
 #EXTINF:-1 tvg-name="CATCHPLAY电影台" group-title="MYTV", CATCHPLAY电影台 
 https://tzh911.qzz.io/litv.php?id=4gtv-4gtv076
 
@@ -555,13 +555,13 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=Nick%20Jr.%20%E5%85%92%E7%AB
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%B0%BC%E5%85%8B%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-name="DreamWorks" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="四季TV",DreamWorks 夢工廠動畫
 https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB
-#EXTINF:-1 tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="四季TV",History 歷史頻道
+#EXTINF:-1 tvg-name="History频道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="四季TV",History 歷史頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-name="LUXE TV Channel"  tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="四季TV",LUXE TV Channel
 https://4gtv.946985.filegear-sg.me/playlist?channel=LUXE%20TV%20Channel
 #EXTINF:-1 tvg-name="TV5MONDE STYLE HD 生活时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="四季TV",TV5MONDE STYLE HD 生活時尚
 https://4gtv.946985.filegear-sg.me/playlist?channel=TV5MONDE%20STYLE%20HD%20%E7%94%9F%E6%B4%BB%E6%99%82%E5%B0%9A
-#EXTINF:-1 tvg-name="MAGELLANTV频道 (麦哲伦频道) " tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png"  group-title="四季TV",MagellanTV頻道 (麥哲倫頻道)
+#EXTINF:-1 tvg-name="MAGELLANTV频道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png"  group-title="四季TV",MagellanTV頻道 (麥哲倫頻道)
 https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
 #EXTINF:-1 tvg-name="CI 罪案侦查频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CI.png" group-title="四季TV",CI 罪案偵查頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=CI%20%E7%BD%AA%E6%A1%88%E5%81%B5%E6%9F%A5%E9%A0%BB%E9%81%93
