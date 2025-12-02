@@ -131,13 +131,13 @@ http://192.168.123.1:4000/rtp/239.253.64.122:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.124:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="海南频道",海南公共 HD
 http://192.168.123.1:4000/rtp/239.253.64.14:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8F%A3.png" group-title="海南频道",海口-1
+#EXTINF:-1 tvg-name="海口1" tvg-logo="https://upload.112114.xyz/logo/海口1.png" group-title="海南频道",海口-1
 http://192.168.123.1:4000/rtp/239.253.64.6:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8F%A3.png" group-title="海南频道",海口-2
+#EXTINF:-1 tvg-name="海口2" tvg-logo="https://upload.112114.xyz/logo/海口2.png" group-title="海南频道",海口-2
 http://192.168.123.1:4000/rtp/239.253.64.7:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8F%A3.png" group-title="海南频道",海口-3
+#EXTINF:-1 tvg-name="海口3" tvg-logo="https://upload.112114.xyz/logo/海口3.png" group-title="海南频道",海口-3
 http://192.168.123.1:4000/rtp/239.253.64.8:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%89%E4%BA%9A.png" group-title="海南频道",三亚-1
+#EXTINF:-1 tvg-name="三亚1" tvg-logo="https://upload.112114.xyz/logo/三亚.png" group-title="海南频道",三亚-1
 http://192.168.123.1:4000/rtp/239.253.64.9:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",儋州
 http://192.168.123.1:4000/rtp/239.253.64.107:5140?fcc=10.255.75.73:15970
