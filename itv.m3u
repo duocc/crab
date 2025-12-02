@@ -267,7 +267,7 @@ https://v.929777.xyz/epg/jstv/235/
 https://v.929777.xyz/epg/jstv/291/
 #EXTINF:-1 tvg-name="扬州江都" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/yztv.png" group-title="江苏频道", 扬州江都
 https://v.929777.xyz/epg/jstv/290/
-#EXTINF:-1 tvg-name="高邮新闻综合" tvg-logo="" group-title="江苏频道", 高邮一套新闻综合
+#EXTINF:-1 tvg-name="高邮新闻综合" tvg-logo="https://upload.112114.xyz/logo/高邮综合.png" group-title="江苏频道", 高邮一套新闻综合
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 #EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/wuxi.png" group-title="江苏频道", 无锡娱乐
 http://stream.thmz.com/wxtv2/playlist.m3u8
@@ -279,11 +279,11 @@ http://stream.thmz.com/wxtv4/playlist.m3u8
 http://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡都市资讯" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/wuxi.png" group-title="江苏频道", 无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8
-#EXTINF:-1 tvg-name="镇江民生" tvg-logo="" group-title="江苏频道", 镇江民生
+#EXTINF:-1 tvg-name="镇江民生" tvg-logo="https://upload.112114.xyz/logo/镇江民生.png" group-title="江苏频道", 镇江民生
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-#EXTINF:-1 ttvg-name="镇江新闻综合" tvg-logo="" group-title="江苏频道", 镇江新闻综合
+#EXTINF:-1 ttvg-name="镇江新闻综合" tvg-logo="https://upload.112114.xyz/logo/镇江新闻综合.png" group-title="江苏频道", 镇江新闻综合
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
-#EXTINF:-1 tvg-name="苏州4k" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou5.png" group-title="江苏频道", 苏州4k
+#EXTINF:-1 tvg-name="苏州4k" tvg-logo="https://upload.112114.xyz/logo/苏州4K.png" group-title="江苏频道", 苏州4k
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png" group-title="江苏频道", 苏州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
