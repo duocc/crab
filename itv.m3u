@@ -498,7 +498,14 @@ https://php.946985.filegear-sg.me/mytv265.php?id=SMUS
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
 https://php.946985.filegear-sg.me/mytv265.php?id=SGOL
 
-
+#EXTINF:-1,tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="MYTV",NOW 70s
+https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
+#EXTINF:-1,tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://epg.112114.xyz/logo/NOW80S.png" group-title="MYTV",NOW 80s
+https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
+#EXTINF:-1,tvg-id="NOW ROCK" tvg-name="NOW ROCK" tvg-logo="https://epg.112114.xyz/logo/NOWROCK.png" group-title="MYTV",NOW ROCK
+https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
+#EXTINF:-1,tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://epg.112114.xyz/logo/NOW90S00S.png" group-title="MYTV",NOW 90s00s
+https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO.png" group-title="MYTV",HBO HD
 https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO3.png" group-title="MYTV",HBO Signature
