@@ -228,8 +228,8 @@ http://192.168.123.1:4000/rtp/239.253.64.74:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://upload.112114.xyz/logo/CGTN俄语.png" group-title="数字频道",CGTN РУССКИЙ
 
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu2.png" group-title="江苏频道", 江苏城市
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jscspro.m3u8
+#EXTVLCOPT:http-referrer=https://live.jstv.com/
+https://v.929777.xyz/epg/jstv/jscs
 #EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu3.png" group-title="江苏频道", 江苏综艺
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/jszypro.m3u8
@@ -262,11 +262,11 @@ https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://upload.112114.xyz/logo/南京少儿.png" group-title="江苏频道", 南京少儿
 https://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 #EXTINF:-1 tvg-name="扬州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/yztv.png" group-title="江苏频道", 扬州新闻
-https://v.929777.xyz/epg/jstv/235/
+https://v.929777.xyz/epg/migu/235/
 #EXTINF:-1 tvg-name="扬州民生" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/yztv.png" group-title="江苏频道", 扬州民生
-https://v.929777.xyz/epg/jstv/291/
+https://v.929777.xyz/epg/migu/291/
 #EXTINF:-1 tvg-name="扬州江都" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/yztv.png" group-title="江苏频道", 扬州江都
-https://v.929777.xyz/epg/jstv/290/
+https://v.929777.xyz/epg/migu/290/
 #EXTINF:-1 tvg-name="高邮新闻综合" tvg-logo="https://upload.112114.xyz/logo/高邮综合.png" group-title="江苏频道", 高邮一套新闻综合
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 #EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/wuxi.png" group-title="江苏频道", 无锡娱乐
