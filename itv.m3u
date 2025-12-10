@@ -229,7 +229,7 @@ http://192.168.123.1:4000/rtp/239.253.64.74:5140/?fcc=10.255.75.73:15970
 
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu2.png" group-title="江苏频道", 江苏城市
 #EXTVLCOPT:http-referrer=https://live.jstv.com/
-#EXTVLCOPT:http-origin=https://live.jstv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://v.929777.xyz/epg/jstv/jscs
 #EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu3.png" group-title="江苏频道", 江苏综艺
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
