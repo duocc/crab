@@ -231,26 +231,26 @@ http://192.168.123.1:4000/rtp/239.253.64.74:5140/?fcc=10.255.75.73:15970
 #EXTVLCOPT:http-referrer=https://live.jstv.com/
 https://v.929777.xyz/epg/jstv/jscs
 #EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu3.png" group-title="江苏频道", 江苏综艺
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jszypro.m3u8
+#EXTVLCOPT:http-referrer=https://live.jstv.com/
+https://v.929777.xyz/epg/jstv/jszy
 #EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu4.png" group-title="江苏频道", 江苏影视
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jsyspro.m3u8
+#EXTVLCOPT:http-referrer=https://live.jstv.com/
+https://v.929777.xyz/epg/jstv/jsys
 #EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu1.png" group-title="江苏频道", 江苏新闻
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jsxwpro.m3u8
+#EXTVLCOPT:http-referrer=https://live.jstv.com/
+https://v.929777.xyz/epg/jstv/jsxw
 #EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu5.png" group-title="江苏频道", 江苏体育休闲
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jsxxpro.m3u8
+#EXTVLCOPT:http-referrer=https://live.jstv.com/
+https://v.929777.xyz/epg/jstv/jsxx
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu7.png" group-title="江苏频道", 江苏教育
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jsjypro.m3u8
+#EXTVLCOPT:http-referrer=https://live.jstv.com/
+https://v.929777.xyz/epg/jstv/jsjy
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu6.png" group-title="江苏频道", 江苏国际
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jsgjpro.m3u8
+#EXTVLCOPT:http-referrer=https://live.jstv.com/
+https://v.929777.xyz/epg/jstv/jsgj
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://upload.112114.xyz/logo/优漫卡通.png" group-title="江苏频道", 优漫卡通
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/ymktpro.m3u8
+#EXTVLCOPT:http-referrer=https://live.jstv.com/
+https://v.929777.xyz/epg/jstv/ymkt
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://upload.112114.xyz/logo/南京新闻综合.png" group-title="江苏频道", 南京新闻综合
 https://yunlive.nbs.cn/live/2024njnews/playlist.m3u8
 #EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://upload.112114.xyz/logo/南京十八生活.png" group-title="江苏频道", 南京十八生活
