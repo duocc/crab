@@ -383,11 +383,11 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="港澳节目",明珠台2
 http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
 #EXTINF:-1 tvg-name="HOY 76" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 76
-https://hknat.946985.filegear-sg.me/hoy.php?ch=ch76
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ifkgya
 #EXTINF:-1 tvg-name="HOY 77" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 77
-https://hknat.946985.filegear-sg.me/hoy.php?ch=ch77
+http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY 78" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 78
-https://hknat.946985.filegear-sg.me/hoy.php?ch=ch78
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=0dfom0
 #EXTINF:-1 tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="港澳节目",TVB Plus
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="港澳节目",无线新闻
@@ -397,9 +397,9 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="港澳节目",NOW新闻台
 http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="港澳节目",NOW爆谷星影台
-https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=a806xb
 #EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爆谷.png" group-title="港澳节目",NOW爆谷台
-https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=m7lfki
 #EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="港澳节目",ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 #EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTVSIX.png" group-title="港澳节目",ViuTVSix
