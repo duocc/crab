@@ -497,7 +497,7 @@ https://php.946985.filegear-sg.me/mytv265.php?id=SMUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
 https://php.946985.filegear-sg.me/mytv265.php?id=SGOL
-
+#backup list https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/mytv.m3u
 #EXTINF:-1,tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="MYTV",NOW 70s
 https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
 #EXTINF:-1,tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://epg.112114.xyz/logo/NOW80S.png" group-title="MYTV",NOW 80s
