@@ -497,6 +497,11 @@ https://4g.969777.xyz/https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
 https://4g.969777.xyz/https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DSGOL
+#EXTINF:-1 tvg-id="EVT2" tvg-name="myTV SUPER 直播足球2台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV", 直播足球2台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1
+https://4gtv.969777.xyz/http%3A%2F%2Fmytvsuper.27481716.xyz%2Fmytvsuper%2FEVT2
 #backup list https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/mytv.m3u
 #EXTINF:-1,tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="MYTV",NOW 70s
 https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
