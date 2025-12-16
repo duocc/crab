@@ -624,8 +624,18 @@ http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=
 http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
 #EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Hollywood.png" group-title="海外节目",好萊塢電影台
 http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
-#EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/weishi2.png" group-title="海外节目",卫视电影台
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=weishimovie_twn&token=Goiptv
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="海外节目",纬来体育
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=videolandsport&token=Goiptv
+#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="海外节目",纬来电影
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大第一.png" group-title="海外节目",八大第一台
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
+#EXTINF:-1 tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大综合.png" group-title="海外节目",八大综合台
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
+#EXTINF:-1 tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大戏剧.png" group-title="海外节目",八大戏剧台
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=badadrama&token=Goiptv
+#EXTINF:-1 tvg-id="八大娱乐台" tvg-name="八大娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大娱乐.png" group-title="海外节目",八大娱乐台
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=badaentertain&token=Goiptv
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Cinemax.png" group-title="海外节目",Cinemax
 http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO.png" group-title="海外节目",HBOHD(台湾)
