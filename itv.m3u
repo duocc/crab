@@ -498,7 +498,7 @@ https://php.946985.filegear-sg.me/mytv265.php?id=SMUS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
-https://php.946985.filegear-sg.me/mytv265.php?id=SGOL
+http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=SGOL
 #EXTINF:-1 tvg-id="EVT2" tvg-name="myTV SUPER 直播足球2台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV", 直播足球2台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -514,13 +514,13 @@ https://4g.969777.xyz/https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid
 #EXTINF:-1,tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://epg.112114.xyz/logo/NOW90S00S.png" group-title="MYTV",NOW 90s00s
 http://4g.969777.xyz/https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DNOW9
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO.png" group-title="MYTV",HBO HD
-https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO3.png" group-title="MYTV",HBO Signature
-https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="MYTV",HBO Family
-https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
 #EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png"  group-title="MYTV",Fashion TV
-https://smart.946985.filegear-sg.me/smart.php?id=fashiontv_twn
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
 #EXTINF:-1 tvg-id="Astro MTV" tvg-name="Astro MTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="MYTV",Astro MTV
 http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Goiptv
 
