@@ -610,37 +610,36 @@ https://v.929777.xyz/epg/smg/461/
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AlJazeera.png" group-title="四季TV",半島國際新聞台
 https://v.929777.xyz/epg/smg/462/
 
-
 #EXTINF:-1 tvg-id="FX Movie" tvg-name="FX Movie" tvg-logo="https://epg.pw/media/images/epg/2024/09/22/20240922022048287312_76.png" group-title="海外节目",FX Movie
 http://4g.969777.xyz/https://fl1.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV.png" group-title="海外节目",台视TTV HD
-https://smt.go-iptv.ggff.net/smart.php?id=ttv_taiwan&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ttv_taiwan&token=Goiptv
 #EXTINF:-1 tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV1.png" group-title="海外节目",台视综合台
-https://smt.go-iptv.ggff.net/smart.php?id=ttvzhonghe&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ttvzhonghe&token=Goiptv
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/PTS.png" group-title="海外节目",公视CTV
-https://smt.go-iptv.ggff.net/smart.php?id=ctv_taiwan&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ctv_taiwan&token=Goiptv
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTI1.png" group-title="海外节目",中天综合
-https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTI3.png" group-title="海外节目",中天娱乐
-https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
 #EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Hollywood.png" group-title="海外节目",好萊塢電影台
-https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
 #EXTINF:-1 tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/weishi2.png" group-title="海外节目",卫视电影台
-https://smt.go-iptv.ggff.net/smart.php?id=weishimovie_twn&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=weishimovie_twn&token=Goiptv
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Cinemax.png" group-title="海外节目",Cinemax
-https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO.png" group-title="海外节目",HBOHD(台湾)
-https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO3.png" group-title="海外节目",HBO Signature(台湾)
-https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO2.png" group-title="海外节目",HBO Hits
-https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO1.png" group-title="海外节目",HBO Family
-https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AXNTV.png" group-title="海外节目",AxnHD(台湾)
-https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO1.png" group-title="海外节目",国家地理Wild
-https://smt.go-iptv.ggff.net/smart.php?id=natgeowild_twn&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=natgeowild_twn&token=Goiptv
 #EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png" group-title="海外节目",Fashion TV
-https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
+http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
 
