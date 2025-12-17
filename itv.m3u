@@ -367,9 +367,9 @@ https://v.929777.xyz/epg/yt/FOX_Live/
 https://v.929777.xyz/epg/yt/CNBC_News/
 #HK 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台4K
-http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台HD
 http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台HD
+http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台
 https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="港澳节目",华丽翡翠台
@@ -490,12 +490,12 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CKIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
-http://4g.969777.xyz/http://mytvsuper.27481716.xyz/mytvsuper/CTSN
+http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CTS1
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPERMUSIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CMUSIC.png" group-title="MYTV",SUPER Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
-https://php.946985.filegear-sg.me/mytv265.php?id=SMUS
+http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=SMUS
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER金曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MYTV",SUPER金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -505,7 +505,8 @@ http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=SGOL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1
-https://4gtv.969777.xyz/http%3A%2F%2Fmytvsuper.27481716.xyz%2Fmytvsuper%2FEVT2
+https://4g.969777.xyz/http%3A%2F%2Fmytvsuper.27481716.xyz%2Fmytvsuper%2FEVT2
+
 #backup list https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/mytv.m3u
 #EXTINF:-1,tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="MYTV",NOW 70s
 https://4g.969777.xyz/https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DNOW7
@@ -533,7 +534,7 @@ https://v.929777.xyz/epg/smg/3/
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTS.png" group-title="四季TV",华视HD
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV.png" group-title="四季TV",台視HD
+#EXTINF:-1 tvg-id="台視" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV.png" group-title="四季TV",台視HD
 https://tzh911.qzz.io/litv.php?id=4gtv-4gtv066
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV2.png" group-title="四季TV",民视第一台
 https://v.929777.xyz/epg/smg/1/
