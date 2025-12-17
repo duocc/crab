@@ -648,8 +648,12 @@ http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=
 http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AXNTV.png" group-title="海外节目",AxnHD(台湾)
 http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO1.png" group-title="海外节目",国家地理Wild
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=natgeowild_twn&token=Goiptv
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO.png" group-title="海外节目",国家地理
+http://4g.969777.xyz/https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeoWild" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO1.png" group-title="海外节目",国家地理Wild
+http://4g.969777.xyz/https://fl1.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png" group-title="海外节目",Fashion TV
 http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png" group-title="海外节目",Fashion TV UHD
+http://4g.969777.xyz/https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
