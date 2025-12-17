@@ -657,5 +657,5 @@ http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&tok
 https://4g.969777.xyz/http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FX Movie" tvg-name="FX Movie" tvg-logo="https://epg.pw/media/images/epg/2024/09/22/20240922022048287312_76.png" group-title="海外节目",FX Movie(US)
 http://4g.969777.xyz/https://fl1.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC电影.png" group-title="海外节目",AMC电影台(US)
+#EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC.png" group-title="海外节目",AMC电影台(US)
 https://4g.969777.xyz/https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
