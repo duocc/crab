@@ -333,11 +333,11 @@ https://v.929777.xyz/epg/migu/956909356/
 https://v.929777.xyz/epg/migu/958475356/
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/shdy.png" group-title="地方节目", 四海钓鱼
 https://v.929777.xyz/epg/migu/637444975/
-#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CNDfxzl.png" group-title="地方节目",发现之旅
-https://v.929777.xyz/epg/migu/624878970/
-#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CNDzxs.png" group-title="地方节目",中学生
-https://v.929777.xyz/epg/migu/708869532/
-#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CNDlgs.png" group-title="地方节目",TVB+测试
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="地方节目",华丽翡翠台(多音轨字幕)
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAOD.png" group-title="地方节目",Astro AOD(多音轨字幕)
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-name="TVB+" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="地方节目",TVB+(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/tvbp/
 
 #Youtube源
