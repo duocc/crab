@@ -367,7 +367,7 @@ https://v.929777.xyz/epg/yt/FOX_Live/
 https://v.929777.xyz/epg/yt/CNBC_News/
 #HK 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台4K
-http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/87088
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台HD
 http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台
@@ -381,11 +381,11 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="港澳节目",明珠台2
 http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
 #EXTINF:-1 tvg-name="HOY 76" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 76
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=u16b3g
+http://4g.969777.xyz/https://969777.xyz/epg/smg/381
 #EXTINF:-1 tvg-name="HOY 77" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 77
-http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/382
 #EXTINF:-1 tvg-name="HOY 78" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 78
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=m1imvg
+http://4g.969777.xyz/https://969777.xyz/epg/smg/383
 #EXTINF:-1 tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="港澳节目",TVB Plus
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="港澳节目",无线新闻
@@ -421,9 +421,9 @@ http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="港澳节目",龙华洋片
 http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="港澳节目",NOW爆谷星影台
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=8i97r3
+http://4g.969777.xyz/https://969777.xyz/epg/smg/72308
 #EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爆谷.png" group-title="港澳节目",NOW爆谷台
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=4vvo1x
+http://4g.969777.xyz/https://969777.xyz/epg/smg/86817
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix1.png" group-title="港澳节目",凤凰中文
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix2.png" group-title="港澳节目",凤凰资讯
@@ -437,7 +437,7 @@ http://php.jdshipin.com:8880/smt.php?id=TV8
 #EXTINF:-1 tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAOD.png" group-title="港澳节目",Astro AOD
 http://php.jdshipin.com:8880/smt.php?id=Aodhd
 #EXTINF:-1 tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAEC.png" group-title="港澳节目",Astro AEC
-http://php.jdshipin.com:8880/smt.php?id=AEC
+https://4g.969777.xyz/https://smt.1678520.xyz/smt3.2.1.php?id=AEC
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/爱奇艺.png" group-title="港澳节目",爱奇艺
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/ASTROQUANJIA.png" group-title="港澳节目",Astro QJ
