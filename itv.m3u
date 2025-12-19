@@ -496,6 +496,16 @@ http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
 http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CKIX
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="MYTV",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
+http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CAXN
+#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="MYTV",PopC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
+http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=POPC
 #EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="无线卫星亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星亚洲.png" group-title="MYTV",無線衛星亞洲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
