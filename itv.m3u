@@ -226,6 +226,7 @@ http://192.168.123.1:4000/rtp/239.253.64.73:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://upload.112114.xyz/logo/CGTN阿语.png" group-title="数字频道",CGTN العربية
 http://192.168.123.1:4000/rtp/239.253.64.74:5140/?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://upload.112114.xyz/logo/CGTN俄语.png" group-title="数字频道",CGTN РУССКИЙ
+http://192.168.123.1:4000/rtp/239.253.64.75:5140/?fcc=10.255.75.73:15970
 
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Jiangsu2.png" group-title="江苏频道", 江苏城市
 #EXTVLCOPT:http-referrer=https://live.jstv.com/
