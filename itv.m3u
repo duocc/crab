@@ -524,6 +524,11 @@ http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=SMUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
 http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=SGOL
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FASHIONBOX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FASHIONBOX.png" group-title="MYTV",FashionBox
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
+https://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=FBX
 #EXTINF:-1 tvg-id="EVT2" tvg-name="myTV SUPER 直播足球2台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV", 直播足球2台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
