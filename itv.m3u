@@ -304,41 +304,33 @@ https://v.929777.xyz/epg/smg/1600/
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanghai3.png" group-title="上海频道",东方影视
 https://v.929777.xyz/epg/migu/617290047/
 
-#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangzhou6.png" group-title="地方节目",广州南国都市
+#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangzhou6.png" group-title="测试节目",广州南国都市
 https://v.929777.xyz/epg/migu/1375684847116288/
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangzhou1.png" group-title="地方节目",广州综合
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangzhou1.png" group-title="测试节目",广州综合
 https://v.929777.xyz/epg/migu/1375684745699328/
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Beijing4.png" group-title="地方节目",北京影视
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Beijing4.png" group-title="测试节目",北京影视
 https://v.929777.xyz/epg/migu/60021/
-#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Beijing3.png" group-title="地方节目",北京文艺
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Beijing3.png" group-title="测试节目",北京文艺
 https://v.929777.xyz/epg/migu/59711/
-#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Beijing5.png" group-title="地方节目",北京纪实
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Beijing5.png" group-title="测试节目",北京纪实
 https://v.929777.xyz/epg/migu/113328/
-#EXTINF:-1 tvg-name="黄河卫视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Huanghe.png" group-title="地方节目",黄河卫视
+#EXTINF:-1 tvg-name="黄河卫视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Huanghe.png" group-title="测试节目",黄河卫视
 https://v.929777.xyz/epg/migu/585/
-#EXTINF:-1 tvg-name="山西经济" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanxi_1.png" group-title="地方节目",山西经济
+#EXTINF:-1 tvg-name="山西经济" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanxi_1.png" group-title="测试节目",山西经济
 https://v.929777.xyz/epg/migu/505/
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanxi_.png" group-title="地方节目",山西文体生活
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanxi_.png" group-title="测试节目",山西文体生活
 https://v.929777.xyz/epg/migu/601/
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanxi_2.png" group-title="地方节目",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanxi_2.png" group-title="测试节目",山西影视
 https://v.929777.xyz/epg/migu/527/
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong10.png" group-title="地方节目",大湾区卫视
-https://v.929777.xyz/epg/migu/608917627/
-#EXTINF:-1 tvg-name="南方影视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong3.png" group-title="地方节目", 南方影视
-https://v.929777.xyz/epg/migu/614961829/
-#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/nanjing/nanjing-1.png" group-title="地方节目", 南京综合
-https://v.929777.xyz/epg/migu/838109047/
-#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanxi6.png" group-title="地方节目", 陕西体育休闲
-https://v.929777.xyz/epg/migu/956909356/
-#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/hqly.png" group-title="地方节目", 环球旅游
-https://v.929777.xyz/epg/migu/958475356/
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/shdy.png" group-title="地方节目", 四海钓鱼
-https://v.929777.xyz/epg/migu/637444975/
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="地方节目",华丽翡翠台(多音轨字幕)
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="测试节目",华丽翡翠台(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAOD.png" group-title="地方节目",Astro AOD(多音轨字幕)
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="测试节目",华丽翡翠台SG(多音轨字幕)
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/jade/
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAOD.png" group-title="测试节目",Astro AOD(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-name="TVB+" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="地方节目",TVB+(多音轨字幕)
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAEC.png" group-title="测试节目",Astro AEC(多音轨字幕)
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-name="TVB+" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="测试节目",TVB+(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/tvbp/
 
 #Youtube源
