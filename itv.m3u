@@ -549,7 +549,7 @@ http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Go
 
 #from https://php.946985.filegear-sg.me/jackTV.m3u
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV.png" group-title="四季TV",民视
-https://v.929777.xyz/epg/smg/3/
+https://epg.969777.xyz/smg/3/
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="四季TV",中视HD
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTS.png" group-title="四季TV",华视HD
@@ -557,11 +557,11 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV.png" group-title="四季TV",台視HD
 http://8.iptv543.com:50009/li-4gtv-4gtv066/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV2.png" group-title="四季TV",民视第一台
-https://v.929777.xyz/epg/smg/1/
+https://epg.969777.xyz/smg/1/
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV3.png" group-title="四季TV",民視台灣台
-https://v.929777.xyz/epg/smg/2/
+https://epg.969777.xyz/smg/2/
 #EXTINF:-1 tvg-id="民視新闻台" tvg-name="民視新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV1.png" group-title="四季TV",民視新闻台
-https://v.929777.xyz/epg/smg/31/
+https://epg.969777.xyz/smg/31/
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="四季TV",TVBS
 https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TVBS2.png" group-title="四季TV",TVBS欢乐台
