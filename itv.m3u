@@ -635,50 +635,50 @@ https://v.929777.xyz/epg/smg/462/
 
 #smart and litv proxy from https://github.com/judy-gotv
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV.png" group-title="海外节目",台视TTV HD
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ttv_taiwan&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV1.png" group-title="海外节目",台视综合台
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ttvzhonghe&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=ttvzhonghe
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/PTS.png" group-title="海外节目",公视CTV
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ctv_taiwan&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=ctv_taiwan
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTI1.png" group-title="海外节目",中天综合
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=ctizhonghe
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTI3.png" group-title="海外节目",中天娱乐
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=ctient
 #EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Hollywood.png" group-title="海外节目",好萊塢電影台
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="海外节目",纬来体育
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=videolandsport&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=videolandsport
 #EXTINF:-1 tvg-id="爱尔达体育1台" tvg-name="爱尔达体育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育1.png" group-title="海外节目",爱尔达体育1台
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=eltasport_twn&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=eltasport_twn
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="海外节目",纬来电影
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=videolandmovie
 #EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大第一.png" group-title="海外节目",八大第一台
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=badafirst
 #EXTINF:-1 tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大综合.png" group-title="海外节目",八大综合台
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=badazhonghe
 #EXTINF:-1 tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大戏剧.png" group-title="海外节目",八大戏剧台
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=badadrama&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=badadrama
 #EXTINF:-1 tvg-id="八大娱乐台" tvg-name="八大娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大娱乐.png" group-title="海外节目",八大娱乐台
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=badaentertain&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=badaentertain
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Cinemax.png" group-title="海外节目",Cinemax
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=cinemax_twn
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO.png" group-title="海外节目",HBOHD(台湾)
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO3.png" group-title="海外节目",HBO Signature(台湾)
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=Hbosignature
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO2.png" group-title="海外节目",HBO Hits
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=hbohit_twn
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO1.png" group-title="海外节目",HBO Family
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=Hbofamily
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AXNTV.png" group-title="海外节目",AxnHD(台湾)
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=axn_twn
 #overseas from https://github.com/swhtv/1
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO.png" group-title="海外节目",国家地理(US)
 http://4g.969777.xyz/https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeoWild" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO1.png" group-title="海外节目",国家地理Wild(US)
 http://4g.969777.xyz/https://fl1.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png" group-title="海外节目",Fashion TV
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
+http://4g.969777.xyz/https://live.catvod.com/live.php?id=fashiontv_twn
 #EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png" group-title="海外节目",Fashion TV HD
 https://4g.969777.xyz/http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FX Movie" tvg-name="FX Movie" tvg-logo="https://epg.pw/media/images/epg/2024/09/22/20240922022048287312_76.png" group-title="海外节目",FX Movie(US)
