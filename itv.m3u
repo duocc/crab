@@ -553,7 +553,7 @@ https://epg.969777.xyz/smg/3/
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV.png" group-title="四季TV",民视HD
 https://969777.xyz/epg/live/3
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="四季TV",中视HD
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
+https://969777.xyz/epg/live/5
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTS.png" group-title="四季TV",华视HD
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV2.png" group-title="四季TV",民视第一台
