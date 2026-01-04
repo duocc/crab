@@ -568,8 +568,10 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
 https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0
 #EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC电影.png" group-title="四季TV",AMC电影台
 https://969777.xyz/epg/live/95
-#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="四季TV",MTV Live HD 音樂頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=MTV%20Live%20HD%20%E9%9F%B3%E6%A8%82%E9%A0%BB%E9%81%93
+#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="四季TV",靖天電影台
+https://969777.xyz/epg/live/93
+#EXTINF:-1 tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="四季TV",滾動力rollor
+https://969777.xyz/epg/live/70
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="四季TV",Lifetime 娛樂頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Rock Action" tvg-name="Rock Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png"  group-title="四季TV",Rock Action
@@ -602,7 +604,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks%20%E5%A4%A2%E5%B7
 https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-name="LUXE TV Channel"  tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="四季TV",LUXE TV Channel
 https://4gtv.946985.filegear-sg.me/playlist?channel=LUXE%20TV%20Channel
-#EXTINF:-1 tvg-name="TV5MONDE STYLE HD 生活时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="四季TV",TV5MONDE STYLE HD 生活時尚
+#EXTINF:-1 tvg-name="TV5MONDE STYLE" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="四季TV",TV5MONDE STYLE HD 生活時尚
 https://4gtv.946985.filegear-sg.me/playlist?channel=TV5MONDE%20STYLE%20HD%20%E7%94%9F%E6%B4%BB%E6%99%82%E5%B0%9A
 #EXTINF:-1 tvg-name="MAGELLANTV频道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png"  group-title="四季TV",MagellanTV頻道 (麥哲倫頻道)
 https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
