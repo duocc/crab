@@ -551,9 +551,9 @@ http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Go
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV.png" group-title="四季TV",民视
 https://epg.969777.xyz/smg/3/
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV.png" group-title="四季TV",民视HD
-https://969777.xyz/epg/live/3
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="四季TV",中视HD
-https://969777.xyz/epg/live/5
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTS.png" group-title="四季TV",华视HD
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV2.png" group-title="四季TV",民视第一台
@@ -566,12 +566,10 @@ https://epg.969777.xyz/smg/31/
 https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TVBS2.png" group-title="四季TV",TVBS欢乐台
 https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0
-#EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC电影.png" group-title="四季TV",AMC电影台
-https://969777.xyz/epg/live/95
 #EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="四季TV",靖天電影台
-https://969777.xyz/epg/live/93
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E9%9B%BB%E5%BD%B1%E5%8F%B0
 #EXTINF:-1 tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="四季TV",滾動力rollor
-https://969777.xyz/epg/live/70
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%BB%BE%E5%8B%95%E5%8A%9Brollor
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="四季TV",Lifetime 娛樂頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Rock Action" tvg-name="Rock Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png"  group-title="四季TV",Rock Action
@@ -621,11 +619,11 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%
 #EXTINF:-1 tvg-name="时尚运动X" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/时尚运动X.png" group-title="四季TV",時尚運動X
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="四季TV",TRACE Sport Stars
-https://969777.xyz/epg/live/63
+https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Sport%20Stars
 #EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="四季TV",TRACE Urban
-https://969777.xyz/epg/live/57
+https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Urban
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="四季TV",車迷TV
-https://969777.xyz/epg/live/66
+https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%BB%8A%E8%BF%B7TV
 #EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/ArirangTV.png" group-title="四季TV",ARIRANG阿里郎頻道
 https://v.929777.xyz/epg/smg/189/
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/France24.png" group-title="四季TV",France 24
