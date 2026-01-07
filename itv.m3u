@@ -332,7 +332,10 @@ https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aod/
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-name="TVB+" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="测试节目",TVB+(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/tvbp/
-
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="测试节目",翡翠台4K
+https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="测试节目",明珠台
+https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/mzt/
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
 https://969777.xyz/epg/yt/PhoenixTV/
@@ -455,6 +458,8 @@ http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong5.png" group-title="港澳节目",广东体育
 http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png" group-title="MYTV",Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
