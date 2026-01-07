@@ -669,6 +669,8 @@ https://live.catvod.com/live.php?id=hbohit_twn
 https://live.catvod.com/live.php?id=Hbofamily
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AXNTV.png" group-title="海外节目",AxnHD(台湾)
 https://live.catvod.com/live.php?id=axn_twn
+#EXTINF:-1 tvg-name="年代MUCH" tvg-logo="https://upload.112114.xyz/logo/年代MUCH.png" group-title="海外节目",年代MUCH
+https://live.catvod.com/live.php?id=niandaitv_twn
 #overseas from https://github.com/swhtv/1
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO.png" group-title="海外节目",国家地理(US)
 http://4g.969777.xyz/https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
