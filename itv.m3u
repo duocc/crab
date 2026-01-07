@@ -536,16 +536,13 @@ https://4g.969777.xyz/https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid
 https://4g.969777.xyz/https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DNOWR
 #EXTINF:-1,tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://epg.112114.xyz/logo/NOW90S00S.png" group-title="MYTV",NOW 90s00s
 http://4g.969777.xyz/https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%3DNOW9
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO.png" group-title="MYTV",HBO HD
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO3.png" group-title="MYTV",HBO Signature
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO1.png" group-title="MYTV",HBO Family
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png"  group-title="MYTV",Fashion TV
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
-#EXTINF:-1 tvg-id="Astro MTV" tvg-name="Astro MTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="MYTV",Astro MTV
-http://4g.969777.xyz/https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Goiptv
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄金翡翠.png" group-title="MYTV",黃金翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
+http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=TVG
+#EXTINF:-1,tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="MYTV",TRACE Urban
+http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 
 #from https://php.946985.filegear-sg.me/jackTV.m3u
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV.png" group-title="四季TV",民视
