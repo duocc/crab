@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://v.929777.xyz/epg/all/e.xml" 
+# from https://gist.github.com/stackia
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CCTV1.png" group-title="高清央视",CCTV-1 HD
 http://192.168.123.1:4000/rtp/239.253.64.120:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CCTV2.png" group-title="高清央视",CCTV-2 HD
@@ -171,13 +172,13 @@ http://192.168.123.1:4000/rtp/239.253.64.111:5140?fcc=10.255.75.73:15970
 http://192.168.123.1:4000/rtp/239.253.64.165:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",乐东
 http://192.168.123.1:4000/rtp/239.253.64.166:5140?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://upload.112114.xyz/logo/CHC家庭影院.png" group-title="数字频道",CHC 家庭影院
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://upload.112114.xyz/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://192.168.123.1:4000/rtp/239.253.64.50:5140/?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://upload.112114.xyz/logo/CHC动作电影.png" group-title="数字频道",CHC 动作电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://upload.112114.xyz/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://192.168.123.1:4000/rtp/239.253.64.51:5140/?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://upload.112114.xyz/logo/CHC影迷电影.png" group-title="数字频道",CHC 影迷电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://upload.112114.xyz/logo/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 http://192.168.123.1:4000/rtp/239.253.64.52:5140/?fcc=10.255.75.73:15970
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Hunan9.png" group-title="数字频道",金鹰纪实 HD
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Hunan9.png" group-title="数字频道",金鹰纪实HD
 http://192.168.123.1:4000/rtp/239.253.64.168:5140?fcc=10.255.75.73:15970
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/jingcai04.png" group-title="数字频道",睛彩竞技
 http://192.168.123.1:4000/rtp/239.253.64.151:5140?fcc=10.255.75.73:15970
