@@ -336,6 +336,12 @@ https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/tvbp/
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="测试节目",明珠台
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="测试节目" tvg-id="HBO.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO SG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
+https://4g.969777.xyz/https://buhrats.go-iptv.ggff.net/HBOHD
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
 https://969777.xyz/epg/yt/PhoenixTV/
