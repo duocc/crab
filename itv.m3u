@@ -375,8 +375,6 @@ https://v.929777.xyz/epg/yt/FOX_Live/
 #EXTINF:-1 tvg-id="CNBC News" tvg-name="CNBC News" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CNBC_News.png" group-title="You•Tube",CNBC News
 https://v.929777.xyz/epg/yt/CNBC_News/
 #HK 
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台4K
-https://969777.xyz/epg/smg/87088/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台HD
 http://4g.969777.xyz/http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台(广电)
@@ -390,7 +388,7 @@ http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
 #EXTINF:-1 tvg-name="HOY 76" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 76
 http://4g.969777.xyz/https://969777.xyz/epg/smg/381/
 #EXTINF:-1 tvg-name="HOY 77" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 77
-http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY 78" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 78
 http://4g.969777.xyz/https://969777.xyz/epg/smg/383
 #EXTINF:-1 tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="港澳节目",TVB Plus
@@ -398,7 +396,7 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/592/
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="港澳节目",无线新闻
 http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 #EXTINF:-1 tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="港澳节目",TVB娱乐新闻台
-http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+http://4g.969777.xyz/http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="港澳节目",NOW新闻台
 http://4g.969777.xyz/https://969777.xyz/epg/smg/86159
 #EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="港澳节目",ViuTV
@@ -418,11 +416,11 @@ http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="港澳节目",千禧经典台
 http://4g.969777.xyz/https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="港澳节目",美亚电影台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+http://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="天映" tvg-name="天映" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="港澳节目",天映频道
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+http://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="港澳节目",天映经典
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+http://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="港澳节目",龙华电影
 https://969777.xyz/epg/smg/116621
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="港澳节目",龙华洋片
