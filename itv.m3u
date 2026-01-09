@@ -648,6 +648,8 @@ https://v.929777.xyz/epg/smg/461/
 https://v.929777.xyz/epg/smg/462/
 
 #smart and litv proxy from https://github.com/judy-gotv
+#EXTINF:-1 group-title="海外节目" tvg-id="espn2" tvg-name="ESPN2 HD",ESPN2 HD（美）
+https://4g.969777.xyz/https://tvpass.org/live/ESPN2/hd
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV.png" group-title="海外节目",台视TTV HD
 https://live.catvod.com/live.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV1.png" group-title="海外节目",台视综合台
