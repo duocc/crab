@@ -417,6 +417,10 @@ http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
 http://4g.969777.xyz/https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="港澳节目",美亚电影台
 http://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="港澳节目",美亞電影台
+http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/hk/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="港澳节目",PopC
+http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="天映" tvg-name="天映" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="港澳节目",天映频道
 http://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="港澳节目",天映经典
