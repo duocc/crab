@@ -337,10 +337,12 @@ https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/tvbp/
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/qj/
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="测试节目",TVB星河(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="测试节目",翡翠台4K
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="测试节目",翡翠台4K(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="测试节目",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="测试节目",明珠台(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="测试节目",tvN HK
+https://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 group-title="测试节目" tvg-id="HBO.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO SG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
