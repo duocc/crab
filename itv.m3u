@@ -408,11 +408,11 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/413/
 #EXTINF:-1 tvg-id="rthk32" tvg-name="rthk32" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳节目",RTHK32
 http://4g.969777.xyz/https://969777.xyz/epg/smg/414/
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="港澳节目",澳视澳门
-http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/130836/
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="港澳节目",澳视卫星
-http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/111363/
 #EXTINF:-1 tvg-name="澳视体育" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视体育.png" group-title="港澳节目",澳视体育
-http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/117118/
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="港澳节目",千禧经典台
 http://4g.969777.xyz/https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="港澳节目",美亚电影台
@@ -460,15 +460,15 @@ http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
 #EXTINF:-1 tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="港澳节目",TVBJ1
 http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
 #EXTINF:-1 tvg-name="CH5" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CH5.png" group-title="港澳节目",CH5
-http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/192/
 #EXTINF:-1 tvg-name="CH8" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CH8.png" group-title="港澳节目",CH8
-http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/195/
 #EXTINF:-1 tvg-name="CHU" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CHU.png" group-title="港澳节目",CHU
-http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/224/
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong9.png" group-title="港澳节目",广东珠江
-http://4g.969777.xyz/http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/101594/
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong5.png" group-title="港澳节目",广东体育
-http://4g.969777.xyz/http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/97440/
 
 
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png" group-title="MYTV",Love Nature 4K
