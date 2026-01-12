@@ -348,7 +348,19 @@ https://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
-https://4g.969777.xyz/https://buhrats.go-iptv.ggff.net/HBOHD
+https://buhrats.go-iptv.ggff.net/HBOHD
+#EXTINF:-1 group-title="测试节目" tvg-id="HBO.Hits.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b3087019c53476da5bf58ff3092f49b:1a6e037e898efb04cd33419486a096fe
+https://buhrats.go-iptv.ggff.net/HBOHitsHD
+#EXTINF:-1 group-title="测试节目" tvg-id="Discovery.Channel.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/422_1920x1080_HTV.png",Discovery HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e01c2c642b407197ee4773d19c1b02:fea2e9072ca6f49f297e5123d75cf490
+https://buhrats.go-iptv.ggff.net/DiscoveryCh
 #Youtube源
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
 https://969777.xyz/epg/yt/PhoenixTV/
@@ -388,15 +400,15 @@ http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
 #EXTINF:-1 tvg-name="HOY 76" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 76
 http://4g.969777.xyz/https://969777.xyz/epg/smg/381/
 #EXTINF:-1 tvg-name="HOY 77" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 77
-http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/382/
 #EXTINF:-1 tvg-name="HOY 78" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 78
-http://4g.969777.xyz/https://969777.xyz/epg/smg/383
+http://4g.969777.xyz/https://969777.xyz/epg/smg/383/
 #EXTINF:-1 tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="港澳节目",TVB Plus
 http://4g.969777.xyz/https://969777.xyz/epg/smg/592/
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="港澳节目",无线新闻
-http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/144442/
 #EXTINF:-1 tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="港澳节目",TVB娱乐新闻台
-http://4g.969777.xyz/http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/129288/
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="港澳节目",NOW新闻台
 http://4g.969777.xyz/https://969777.xyz/epg/smg/86159
 #EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="港澳节目",ViuTV
@@ -415,32 +427,30 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/111363/
 http://4g.969777.xyz/https://969777.xyz/epg/smg/117118/
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="港澳节目",千禧经典台
 http://4g.969777.xyz/https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="港澳节目",美亚电影台
-http://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="港澳节目",美亞電影台
 http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/hk/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="港澳节目",PopC
 http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="天映" tvg-name="天映" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="港澳节目",天映频道
-http://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+http://4g.969777.xyz/http://cdn10.163189.xyz/163189/typd
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="港澳节目",天映经典
-http://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+http://4g.969777.xyz/http://cdn10.163189.xyz/163189/ccm
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="港澳节目",龙华电影
-https://969777.xyz/epg/smg/116621
+http://4g.969777.xyz/https://969777.xyz/epg/smg/116621/
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="港澳节目",龙华洋片
-https://969777.xyz/epg/smg/119353
+http://4g.969777.xyz/https://969777.xyz/epg/smg/119353/
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="港澳节目",龙华偶像
-https://969777.xyz/epg/smg/103468
+http://4g.969777.xyz/https://969777.xyz/epg/smg/103468/
 #EXTINF:-1 tvg-name="Now爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="港澳节目",NOW爆谷星影台
 http://4g.969777.xyz/https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
 #EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爆谷.png" group-title="港澳节目",NOW爆谷台
 http://4g.969777.xyz/https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix1.png" group-title="港澳节目",凤凰中文
-https://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+https://4g.969777.xyz/https://969777.xyz/epg/smg/87944/
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix2.png" group-title="港澳节目",凤凰资讯
-https://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+https://4g.969777.xyz/https://969777.xyz/epg/smg/113863/
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix3.png" group-title="港澳节目",凤凰香港
-https://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+https://4g.969777.xyz/https://969777.xyz/epg/smg/109468/
 #EXTINF:-1 tvg-id="凤凰美洲" tvg-name="凤凰美洲" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix4.png" group-title="港澳节目",凤凰美洲
 http://4g.969777.xyz/https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
 #EXTINF:-1 tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAOD.png" group-title="港澳节目",Astro AOD
@@ -516,6 +526,16 @@ http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CAXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
 http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=POPC
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="MYTV",美亞電影台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
+http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="MYTV",天映經典頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
+http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CCCM
 #EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="无线卫星亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星亚洲.png" group-title="MYTV",無線衛星亞洲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
