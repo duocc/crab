@@ -715,7 +715,7 @@ https://buhrats.go-iptv.ggff.net/BoomerangHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44621930bf54bf0b771b610646e9005:8cafe783be0062021523cb35be913858
 https://buhrats.go-iptv.ggff.net/CbeebiesHD
-#EXTINF:-1 group-title="新加坡-HUB" tvg-id="Dreamworks" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png",DreamWorks Channel HD
+#EXTINF:-1 group-title="新加坡-HUB" tvg-id="DreamWorks" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png",DreamWorks Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
