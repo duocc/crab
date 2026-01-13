@@ -1205,58 +1205,16 @@ https://v.929777.xyz/epg/smg/461/
 https://v.929777.xyz/epg/smg/462/
 
 #smart and litv proxy from https://github.com/judy-gotv
-#EXTINF:-1 group-title="海外节目" tvg-id="espn2" tvg-name="ESPN2 HD",ESPN2 HD（美）
-https://4g.969777.xyz/https://tvpass.org/live/ESPN2/hd
-#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV.png" group-title="海外节目",台视TTV HD
-https://live.catvod.com/live.php?id=ttv_taiwan
-#EXTINF:-1 tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV1.png" group-title="海外节目",台视综合台
-https://live.catvod.com/live.php?id=ttvzhonghe
-#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/PTS.png" group-title="海外节目",公视CTV
-https://live.catvod.com/live.php?id=ctv_taiwan
-#EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTI1.png" group-title="海外节目",中天综合
-https://live.catvod.com/live.php?id=ctizhonghe
-#EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTI3.png" group-title="海外节目",中天娱乐
-https://live.catvod.com/live.php?id=ctient
-#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Hollywood.png" group-title="海外节目",好萊塢電影台
-https://live.catvod.com/live.php?id=hollywoodmovies_twn
-#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="海外节目",纬来体育
-https://live.catvod.com/live.php?id=videolandsport
-#EXTINF:-1 tvg-id="爱尔达体育1台" tvg-name="爱尔达体育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育1.png" group-title="海外节目",爱尔达体育1台
-https://live.catvod.com/live.php?id=eltasport_twn
-#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="海外节目",纬来电影
-https://live.catvod.com/live.php?id=videolandmovie
-#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大第一.png" group-title="海外节目",八大第一台
-https://live.catvod.com/live.php?id=badafirst
-#EXTINF:-1 tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大综合.png" group-title="海外节目",八大综合台
-https://live.catvod.com/live.php?id=badazhonghe
-#EXTINF:-1 tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大戏剧.png" group-title="海外节目",八大戏剧台
-https://live.catvod.com/live.php?id=badadrama
-#EXTINF:-1 tvg-id="八大娱乐台" tvg-name="八大娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大娱乐.png" group-title="海外节目",八大娱乐台
-https://live.catvod.com/live.php?id=badaentertain
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Cinemax.png" group-title="海外节目",Cinemax
-https://live.catvod.com/live.php?id=cinemax_twn
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO.png" group-title="海外节目",HBOHD(台湾)
-https://live.catvod.com/live.php?id=hbohd_twn
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO3.png" group-title="海外节目",HBO Signature(台湾)
-https://live.catvod.com/live.php?id=Hbosignature
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO2.png" group-title="海外节目",HBO Hits
-https://live.catvod.com/live.php?id=hbohit_twn
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/HBO1.png" group-title="海外节目",HBO Family
-https://live.catvod.com/live.php?id=Hbofamily
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AXNTV.png" group-title="海外节目",AxnHD(台湾)
-https://live.catvod.com/live.php?id=axn_twn
-#EXTINF:-1 tvg-name="年代MUCH" tvg-logo="https://upload.112114.xyz/logo/年代MUCH.png" group-title="海外节目",年代MUCH
-https://live.catvod.com/live.php?id=niandaitv_twn
+#EXTINF:-1 group-title="海外节目" tvg-id="東風衛視" tvg-name="東風衛視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfeng.png",東風衛視
+http://4g.969777.xyz/https://mqitv.koyeb.app/proxy?do=mqitv&id=live1195&ip=http://61.63.19.241:1888&playing=http://192.168.1.9:8081/hls/68/810/ch31.m3u8&port=8528&type=m3u8&play_token=Y0luRWaWBTX_SvqQ5CHKCT9BpNHIQ7a7
 #overseas from https://github.com/swhtv/1
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO.png" group-title="海外节目",国家地理(US)
 http://4g.969777.xyz/https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeoWild" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO1.png" group-title="海外节目",国家地理Wild(US)
 http://4g.969777.xyz/https://fl1.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png" group-title="海外节目",Fashion TV
-https://live.catvod.com/live.php?id=fashiontv_twn
 #EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png" group-title="海外节目",Fashion TV HD
 https://4g.969777.xyz/http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FX Movie" tvg-name="FX Movie" tvg-logo="https://epg.pw/media/images/epg/2024/09/22/20240922022048287312_76.png" group-title="海外节目",FX Movie(US)
 http://4g.969777.xyz/https://fl1.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC.png" group-title="海外节目",AMC电影台(US)
+#EXTINF:-1 tvg-name="AMC US" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC.png" group-title="海外节目",AMC电影台(US)
 https://4g.969777.xyz/https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
