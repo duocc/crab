@@ -297,7 +297,7 @@ https://v.929777.xyz/epg/smg/20/
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanghai2.png" group-title="上海频道", 上海都市
 https://v.929777.xyz/epg/smg/18/
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanghai5.png" group-title="上海频道", 五星体育
-https://v.929777.xyz/epg/smg/1605/
+https://4g.969777.xyz/http://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/dycj.png" group-title="上海频道", 第一财经
 https://v.929777.xyz/epg/smg/21/
 #EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/jsrw.png" group-title="上海频道", 新纪实
@@ -925,7 +925,7 @@ https://v.929777.xyz/epg/yt/ABCNews/
 https://v.929777.xyz/epg/yt/FOX_Live/
 #EXTINF:-1 tvg-id="CNBC News" tvg-name="CNBC News" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CNBC_News.png" group-title="You•Tube",CNBC News
 https://v.929777.xyz/epg/yt/CNBC_News/
-#HK 
+#港澳节目 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台HD
 http://4g.969777.xyz/http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台(广电)
@@ -971,9 +971,9 @@ http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/hk/master.m3u8?u=ca
 #EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="港澳节目",PopC
 http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="天映" tvg-name="天映" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="港澳节目",天映频道
-http://4g.969777.xyz/http://cdn10.163189.xyz/163189/typd
+http://cdn10.163189.xyz/163189/typd
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="港澳节目",天映经典
-http://4g.969777.xyz/http://cdn10.163189.xyz/163189/ccm
+http://cdn10.163189.xyz/163189/ccm
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="港澳节目",龙华电影
 http://4g.969777.xyz/https://969777.xyz/epg/smg/116621/
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="港澳节目",龙华洋片
