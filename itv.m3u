@@ -940,12 +940,18 @@ http://4g.969777.xyz/http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 http://4g.969777.xyz/https://969777.xyz/epg/smg/77278/
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="港澳节目",明珠台（字幕）
 http://4g.969777.xyz/https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-name="HOY 76" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 76
+#EXTINF:-1 tvg-name="HOY 76" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY财经台
 http://4g.969777.xyz/https://969777.xyz/epg/smg/381/
-#EXTINF:-1 tvg-name="HOY 77" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 77
+#EXTINF:-1 tvg-name="HOY 77" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY TV
 http://4g.969777.xyz/https://969777.xyz/epg/smg/382/
-#EXTINF:-1 tvg-name="HOY 78" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 78
+#EXTINF:-1 tvg-name="HOY 78" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY资讯台
 http://4g.969777.xyz/https://969777.xyz/epg/smg/383/
+#EXTINF:-1 tvg-name="HOY剧集台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY剧集台
+http://4g.969777.xyz/http://cdn.163189.xyz/163189/hoyjj
+#EXTINF:-1 tvg-name="HOY剧集台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 1
+http://4g.969777.xyz/http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-name="HOY剧集台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY 2
+http://4g.969777.xyz/http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="港澳节目",TVB Plus
 http://4g.969777.xyz/https://969777.xyz/epg/smg/592/
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="港澳节目",无线新闻
