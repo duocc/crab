@@ -1021,47 +1021,47 @@ http://4g.969777.xyz/http://cdn10.163189.xyz/163189/xinghe
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=LN4
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=LN4
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="MYTV",Love Nature HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=LNH
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=LNH
 #EXTINF:-1 tvg-name="Rock Action" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png" group-title="MYTV",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CRTX
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CRTX
 #EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCKEXTREME" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKEXTREME.png" group-title="MYTV",ROCK Extreme
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=RKEX
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=RKEX
 #EXTINF:-1 tvg-id="Thrill" tvg-name="THRILL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/THRILL.png" group-title="MYTV",Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CTHR
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CTHR
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="MYTV",tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/KIX.png" group-title="MYTV",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CKIX
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CKIX
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="MYTV",AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CAXN
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CAXN
 #EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="MYTV",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=POPC
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=POPC
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="MYTV",美亞電影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1076,27 +1076,27 @@ http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CCCM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CTS1
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CTS1
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPERMUSIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CMUSIC.png" group-title="MYTV",SUPER Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=SMUS
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=SMUS
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER金曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MYTV",SUPER金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=SGOL
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=SGOL
 #EXTINF:-1 tvg-id="FashionBox" tvg-name="FASHIONBOX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FASHIONBOX.png" group-title="MYTV",FashionBox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
-https://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=FBX
+https://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=FBX
 #EXTINF:-1 tvg-id="EVT2" tvg-name="myTV SUPER 直播足球2台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV", 直播足球2台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1
-https://4g.969777.xyz/http%3A%2F%2Fmytvsuper.27481716.xyz%2Fmytvsuper%2FEVT2
+https://g.969777.xyz/http%3A%2F%2Fmytvsuper.27481716.xyz%2Fmytvsuper%2FEVT2
 
 #backup list https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/mytv.m3u
 #EXTINF:-1,tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="MYTV",NOW 70s
@@ -1113,7 +1113,7 @@ http://4g.969777.xyz/https%3A%2F%2Fphp.946985.filegear-sg.me%2Fmytv265.php%3Fid%
 #KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
 http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=TVG
 #EXTINF:-1,tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="MYTV",TRACE Urban
-http://4g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 
 #from https://php.946985.filegear-sg.me/jackTV.m3u
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV.png" group-title="四季TV",民视
