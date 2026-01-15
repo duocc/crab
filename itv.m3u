@@ -1552,7 +1552,7 @@ https://v.929777.xyz/epg/smg/461/
 https://v.929777.xyz/epg/smg/462/
 
 #smart and litv proxy from https://github.com/judy-gotv
-#EXTINF:-1 group-title="海外节目" tvg-id="台视 HD" tvg-name="台视 HD" tvg-logo="https://upload.112114.xyz/logo/台视.png",台视 HD
+#EXTINF:-1 group-title="海外节目" tvg-id="台视" tvg-logo="https://upload.112114.xyz/logo/台视.png",台视 HD
 http://4g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=ttv_taiwan
 #EXTINF:-1 group-title="海外节目" tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTI1.png",中天综合
 http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=ctizhonghe
@@ -1560,9 +1560,9 @@ http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=ctizhonghe
 http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=ctient
 #EXTINF:-1 group-title="海外节目" tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="https://upload.112114.xyz/logo/爱尔达体育2台.png",爱尔达体育2台
 http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=eltasport2_twn
-#EXTINF:-1 group-title="海外节目" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.112114.xyz/logo/HBO.png",HBO HD
+#EXTINF:-1 group-title="海外节目" tvg-id="HBO"  tvg-logo="https://upload.112114.xyz/logo/HBO.png",HBO HD
 http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=hbohd_twn
-#EXTINF:-1 group-title="海外节目" tvg-id="公视 HD" tvg-name="公视 HD" tvg-logo="https://upload.112114.xyz/logo/公视.png",公视 HD
+#EXTINF:-1 group-title="海外节目" tvg-id="公视" tvg-logo="https://upload.112114.xyz/logo/公视.png",公视 HD
 http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=ctv_taiwan
 #overseas from https://github.com/swhtv/1
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO.png" group-title="海外节目",国家地理(US)
