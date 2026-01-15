@@ -533,7 +533,7 @@ https://buhrats.go-iptv.ggff.net/ONEHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10c3f073b366422bb1172644d6329e29:083a46fc38413da1aeccb36f815b31f1
 https://buhrats.go-iptv.ggff.net/PCCHD
-#EXTINF:-1 group-title="StarHub" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",TVB Jade HD
+#EXTINF:-1 group-title="StarHub" tvg-id="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",TVB Jade HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -545,7 +545,7 @@ https://buhrats.go-iptv.ggff.net/TVBJadeHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b84174f4f59a4cd2aec7d9a3e278c79e:34d266985f873db4a6f5f6a98d8b4b50
 https://buhrats.go-iptv.ggff.net/TVBXingHeChannel
-#EXTINF:-1 group-title="StarHub" tvg-id="TVBS Asia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png",无线亚洲卫视HD
+#EXTINF:-1 group-title="StarHub" tvg-id="无线亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png",无线亚洲卫视HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -554,13 +554,13 @@ https://buhrats.go-iptv.ggff.net/TVBSAsia
 ##############
 #  新闻
 ##############
-#EXTINF:-1 group-title="StarHub" tvg-id="BBC.News.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png",BBC World News HD
+#EXTINF:-1 group-title="StarHub" tvg-id="BBC News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png",BBC World News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bfc3a60371f47dfbf91589716bc4976:c4da05d94f2ee2c073cb093ab07d1215
 https://buhrats.go-iptv.ggff.net/BBCWorldNewsHD
-#EXTINF:-1 group-title="StarHub" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png",Bloomberg Originals
+#EXTINF:-1 group-title="StarHub" tvg-id="Bloomberg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png",Bloomberg Originals
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -608,7 +608,7 @@ https://buhrats.go-iptv.ggff.net/Euronews
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f07ee8c54c2346b9a55658ba2253e1bb:2afdbfa34b08414399fb75562313a31e
 https://buhrats.go-iptv.ggff.net/FNCHD
-#EXTINF:-1 group-title="StarHub" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/724_1920x1080_HTV.png",France24
+#EXTINF:-1 group-title="StarHub" tvg-id="France24" tvg-logo="https://poster.starhubgo.com/Linear_channels2/724_1920x1080_HTV.png",France24
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -632,7 +632,7 @@ https://buhrats.go-iptv.ggff.net/SkyNewsHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48276f9de9b84653ba243f74868a2048:e6d2d5b9ccc01d5fb606a084429a8bf7
 https://buhrats.go-iptv.ggff.net/SEAToday
-#EXTINF:-1 group-title="StarHub" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS News HD
+#EXTINF:-1 group-title="StarHub" tvg-id="TVBS News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -641,13 +641,13 @@ https://buhrats.go-iptv.ggff.net/TVBSNews
 ##############
 #  电影
 ##############
-#EXTINF:-1 group-title="StarHub" tvg-id="CCM.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",天映經典頻道
+#EXTINF:-1 group-title="StarHub" tvg-id="天映经典" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",天映經典頻道
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bf777a86b244608948e5d4c272ade19:a7c600a766773809cb56dc1791831247
 https://buhrats.go-iptv.ggff.net/CCM
-#EXTINF:-1 group-title="StarHub" tvg-id="Celestial.Movies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",天映頻道 HD
+#EXTINF:-1 group-title="StarHub" tvg-id="天映" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",天映頻道 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -722,7 +722,7 @@ https://buhrats.go-iptv.ggff.net/CbeebiesHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59cd13f9432a4b17b3cfb141bb018a4f:01fe6416e1149413db3e7a655a6a445c
 https://buhrats.go-iptv.ggff.net/DreamworksHD
-#EXTINF:-1 group-title="StarHub" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png",Nick Jr.
+#EXTINF:-1 group-title="StarHub" tvg-id="Nick Jr." tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png",Nick Jr.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -927,11 +927,11 @@ https://v.929777.xyz/epg/yt/FOX_Live/
 https://v.929777.xyz/epg/yt/CNBC_News/
 #港澳节目 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台HD
-http://4g.969777.xyz/http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/86961/
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台4k
 http://4g.969777.xyz/https://969777.xyz/epg/smg/87088/
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="港澳节目",华丽翡翠台
-http://4g.969777.xyz/http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+http://4g.969777.xyz/https://969777.xyz/epg/smg/128552/
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="港澳节目",TVB星河
 http://4g.969777.xyz/http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="港澳节目",明珠台
