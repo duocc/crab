@@ -1138,7 +1138,7 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CTVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CCOC
-#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPERKIDSCHANNEL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SUPERKIDSCHANNEL.png" group-title="MYTV",SUPER Kids Channel
+#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPERKIDSCHANNEL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SUPERKIDSCHANNEL.png" group-title="MYTV",SUPER Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
@@ -1153,7 +1153,7 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=ZOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CNIKO
-#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="NICKJR." tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR..png" group-title="MYTV",Nick Jr.
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="NICKJR." tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR..png" group-title="MYTV",Nick Jr.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
@@ -1168,7 +1168,7 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CTHR
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="MYTV",天映經典頻道
+#EXTINF:-1 tvg-id="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="MYTV",天映經典頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
@@ -1193,22 +1193,22 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=RKEX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CKIX
-#EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="LOVENATUREHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="MYTV",Love Nature HD
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="LOVENATUREHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="MYTV",Love Nature HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=LNH
-#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="LOVENATURE4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png" group-title="MYTV",Love Nature 4K
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="LOVENATURE4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png" group-title="MYTV",Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=LN4
-#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="GLOBALTREKKER" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBALTREKKER.png" group-title="MYTV",Global Trekker
+#EXTINF:-1 tvg-id="Global Trekker" tvg-name="GLOBALTREKKER" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBALTREKKER.png" group-title="MYTV",Global Trekker
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=SMS
-#EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK综艺娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCK综艺娱乐.png" group-title="MYTV",ROCK綜藝娛樂
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="ROCK综艺娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCK综艺娱乐.png" group-title="MYTV",ROCK綜藝娛樂
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
@@ -1218,12 +1218,12 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CRTE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CAXN
-#EXTINF:-1 tvg-id="Animax-HK" tvg-name="ANIMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMAX.png" group-title="MYTV",Animax
+#EXTINF:-1 tvg-id="Animax" tvg-name="ANIMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMAX.png" group-title="MYTV",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CANI
-#EXTINF:-1 tvg-id="tvN-HK" tvg-name="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="MYTV",tvN
+#EXTINF:-1 tvg-id="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="MYTV",tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
@@ -1248,42 +1248,42 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=FBX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CMEZ
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南澜湄国际卫视.png" group-title="MYTV",雲南瀾湄國際衛視
+#EXTINF:-1 tvg-id="云南国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南澜湄国际卫视.png" group-title="MYTV",雲南瀾湄國際衛視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=YNTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽.png" group-title="MYTV",安徽廣播電視台國際頻道
+#EXTINF:-1 tvg-id="安徽国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽.png" group-title="MYTV",安徽廣播電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=AHTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="MYTV",北京電視台國際頻道
+#EXTINF:-1 tvg-id="北京国际" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="MYTV",北京電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=BJTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西.png" group-title="MYTV",廣西電視台國際頻道
+#EXTINF:-1 tvg-id="广西国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西.png" group-title="MYTV",廣西電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=GXTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="MYTV",福建海峽衛視國際頻道
+#EXTINF:-1 tvg-id="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="MYTV",福建海峽衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=FJTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="MYTV",湖南電視台國際頻道
+#EXTINF:-1 tvg-id="湖南国际" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="MYTV",湖南電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=HNTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏.png" group-title="MYTV",江蘇電視台國際頻道
+#EXTINF:-1 tvg-id="江苏国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏.png" group-title="MYTV",江蘇電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=JSTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="MYTV",廣東廣播電視台大灣區衛視頻道
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="MYTV",廣東廣播電視台大灣區衛視頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
@@ -1333,7 +1333,7 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CC1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CGD
-#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="CGTN(中国环球电视网)英语频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="MYTV",CGTN (中國環球電視網)英語頻道
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="MYTV",CGTN (中國環球電視網)英語頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
@@ -1458,7 +1458,7 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 #EXTINF:-1,tvg-id="Concerto" tvg-name="Concerto" tvg-logo="https://epg.112114.xyz/logo/CONCERTO.png" group-title="MYTV",Concerto
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CONC
-#EXTINF:-1,tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="MYTV",TRACE Urban
+#EXTINF:-1,tvg-id="TRACE Urban"tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="MYTV",TRACE Urban
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 #EXTINF:-1,tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NEWSWORLD.png" group-title="MYTV",NewsWorld
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
