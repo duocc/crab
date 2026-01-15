@@ -1560,10 +1560,10 @@ http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=ctizhonghe
 http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=ctient
 #EXTINF:-1 group-title="海外节目" tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="https://upload.112114.xyz/logo/爱尔达体育2台.png",爱尔达体育2台
 http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=eltasport2_twn
-#EXTINF:-1 group-title="海外节目" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.112114.xyz/logo/HBO.png",HBO_HD
+#EXTINF:-1 group-title="海外节目" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.112114.xyz/logo/HBO.png",HBO HD
 http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=hbohd_twn
-#EXTINF:-1 group-title="海外节目" tvg-id="documentary" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/poster_20210316_230444.jpg",Documentary+
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
+#EXTINF:-1 group-title="海外节目" tvg-id="公视 HD" tvg-name="公视 HD" tvg-logo="https://upload.112114.xyz/logo/公视.png",公视 HD
+http://g.969777.xyz/https://caonima.tzh911.qzz.io/play-smt.php?id=ctv_taiwan
 #overseas from https://github.com/swhtv/1
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO.png" group-title="海外节目",国家地理(US)
 http://4g.969777.xyz/https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
