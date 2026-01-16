@@ -1413,8 +1413,6 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B2%BE%E9%87%87%E5%8F
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0
 #EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="四季TV",AMC電影台
 https://g.969777.xyz/https://4gtv.946985.filegear-sg.me/playlist?channel=amc%E9%9B%BB%E5%BD%B1%E5%8F%B0
-#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="四季TV",Lifetime 娛樂頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Rock Action" tvg-name="Rock Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png"  group-title="四季TV",Rock Action
 https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
 #EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="四季TV",Hits Movie
@@ -1423,8 +1421,6 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
 https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Entertainment
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="四季TV",影迷數位電影台
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0
-#EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="四季TV",amc電影台
-https://4gtv.946985.filegear-sg.me/playlist?channel=amc%E9%9B%BB%E5%BD%B1%E5%8F%B0
 #EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="四季TV",CinemaWorld
 https://4gtv.946985.filegear-sg.me/playlist?channel=CinemaWorld
 #EXTINF:-1 tvg-name="My Cinema Europe" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="四季TV",我的歐洲電影
@@ -1435,6 +1431,8 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E9%9B%BB%
 https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
 #EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="四季TV",達文西頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
+#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="四季TV",Lifetime 娛樂頻道
+https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-name="ELTV生活" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="四季TV",ELTV生活英語台
 https://4gtv.946985.filegear-sg.me/playlist?channel=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032_mobile.png" group-title="四季TV",Nick Jr. 兒童頻道
@@ -1470,7 +1468,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Urban
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="四季TV",車迷TV
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%BB%8A%E8%BF%B7TV
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV2.png" group-title="四季TV",民视第一台
-https://g.969777.xyz/https://epg.969777.xyz/smg/1/
+https://epg.969777.xyz/smg/1/
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV3.png" group-title="四季TV",民視台灣台
 https://epg.969777.xyz/smg/2/
 #EXTINF:-1 tvg-id="民視新闻台" tvg-name="民視新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV1.png" group-title="四季TV",民視新闻台
