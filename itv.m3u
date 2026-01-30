@@ -1496,10 +1496,20 @@ https://4g.969777.xyz/?id=niandainews_twn
 https://4g.969777.xyz/?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f29e89470_TOZ4.png" group-title="海外节目",TVBS HD
 https://4g.969777.xyz/?id=tvbs
-#EXTINF:-1 tvg-id="中天娱乐t" tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png" group-title="海外节目",中天娱乐 CTI Entertaiment
+#EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png" group-title="海外节目",中天娱乐 CTI Entertaiment
 https://4g.969777.xyz/?id=ctient
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合 CTI Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f3e9b6dc0_q9wh.png" group-title="海外节目",中天综合 CTI Metro
 https://4g.969777.xyz/?id=ctizhonghe
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO_HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" group-title="海外节目",HBO_HD
+https://4g.969777.xyz/?id=hbohd_twn
+#EXTINF:-1 tvg-id="HBO HITS" tvg-name="HBO_HITS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" group-title="海外节目",HBO_HITS
+https://4g.969777.xyz/?id=hbohits_twn
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" group-title="海外节目",HBO Signature Taiwan
+https://4g.969777.xyz/?id=hbosignature_twn
+#EXTINF:-1 tvg-id="Hollywood Movies" tvg-name="Hollywood Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" group-title="海外节目",Hollywood Movies
+https://4g.969777.xyz/?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-id="探索频道" tvg-name="探索频道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="海外节目",探索频道
+https://4g.969777.xyz/?id=discoverych_twn
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO.png" group-title="海外节目",国家地理(US)
 http://4g.969777.xyz/https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeoWild" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO1.png" group-title="海外节目",国家地理Wild(US)
