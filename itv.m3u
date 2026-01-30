@@ -292,21 +292,15 @@ https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 #EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="江苏频道", 苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanghai1.png" group-title="上海频道", 上海新闻综合
-https://v.929777.xyz/epg/smg/20/
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanghai2.png" group-title="上海频道", 上海都市
-https://v.929777.xyz/epg/smg/18/
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanghai5.png" group-title="上海频道", 五星体育
-https://4g.969777.xyz/http://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/dycj.png" group-title="上海频道", 第一财经
-https://v.929777.xyz/epg/smg/21/
-#EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/jsrw.png" group-title="上海频道", 新纪实
-https://v.929777.xyz/epg/smg/1600/
+
+
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong9.png" group-title="测试节目",广东珠江
 http://4g.969777.xyz/https://969777.xyz/epg/smg/101594/
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong5.png" group-title="测试节目",广东体育
 http://4g.969777.xyz/https://969777.xyz/epg/smg/97440/
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanghai5.png" group-title="测试节目", 五星体育
+https://4g.969777.xyz/http://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangzhou6.png" group-title="测试节目",广州南国都市
 https://v.929777.xyz/epg/migu/1375684847116288/
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangzhou1.png" group-title="测试节目",广州综合
@@ -346,7 +340,6 @@ https://4g.969777.xyz/https://o11.163189.xyz/stream/live/qj/
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/爱奇艺.png" group-title="测试节目",爱奇艺
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/iqiyi/
 #------ StarHub 分类开始 ------
-
 #EXTINF:-1 group-title="StarHub" tvg-id="ABC Australia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
