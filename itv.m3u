@@ -1479,37 +1479,37 @@ https://v.929777.xyz/epg/smg/462/
 
 #smart and litv proxy from https://github.com/judy-gotv
 #EXTINF:-1 group-title="海外节目" tvg-id="台视" tvg-logo="https://upload.112114.xyz/logo/台视.png",台视 HD
-https://4g.969777.xyz/?id=ttv_taiwan
+https://smt.goiptv.de5.net/smt.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="中视" tvg-name="中视 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e19933ef1_0gtF.png" group-title="海外节目",中视 HD
-https://4g.969777.xyz/?id=zhongshihd_twn
+https://smt.goiptv.de5.net/smt.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="民视" tvg-name="民视 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/61ab10a4ef588_0nFM.png" group-title="海外节目",民视 HD
-https://4g.969777.xyz/?id=ftvhd_taiwan
+https://smt.goiptv.de5.net/smt.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="华视" tvg-name="华视 CTS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4850f9c41f_77SB.png" group-title="海外节目",华视 CTS HD
-https://4g.969777.xyz/?id=ctshd_twn
+https://smt.goiptv.de5.net/smt.php?id=ctshd_twn
 #EXTINF:-1 tvg-id="公视" tvg-name="公视 CTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a90142345_bUxd.jpg" group-title="海外节目",公视 CTV
-https://4g.969777.xyz/?id=ctv18_twn
+https://smt.goiptv.de5.net/smt.php?id=ctv18_twn
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" group-title="海外节目",CINEMAX
-https://4g.969777.xyz/?id=cinemax_twn
+https://smt.goiptv.de5.net/smt.php?id=cinemax_twn
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21080065d41_0hFz.png" group-title="海外节目",年代新闻
-https://4g.969777.xyz/?id=niandainews_twn
+https://smt.goiptv.de5.net/smt.php?id=niandainews_twn
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS 歡樂台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5dbcf02b02fa1_KmYg.png" group-title="海外节目",TVBS 歡樂台
-https://4g.969777.xyz/?id=tvbshuanle_twn
+https://smt.goiptv.de5.net/smt.php?id==tvbshuanle_twn
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f29e89470_TOZ4.png" group-title="海外节目",TVBS HD
-https://4g.969777.xyz/?id=tvbs
+https://smt.goiptv.de5.net/smt.php?id=tvbs
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png" group-title="海外节目",中天娱乐 CTI Entertaiment
-https://4g.969777.xyz/?id=ctient
+https://smt.goiptv.de5.net/smt.php?id=ctient
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合 CTI Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f3e9b6dc0_q9wh.png" group-title="海外节目",中天综合 CTI Metro
-https://4g.969777.xyz/?id=ctizhonghe
+https://smt.goiptv.de5.net/smt.php?id=ctizhonghe
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO_HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" group-title="海外节目",HBO_HD
-https://4g.969777.xyz/?id=hbohd_twn
+https://smt.goiptv.de5.net/smt.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="HBO HITS" tvg-name="HBO_HITS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" group-title="海外节目",HBO_HITS
-https://4g.969777.xyz/?id=hbohits_twn
+https://smt.goiptv.de5.net/smt.php?id=hbohits_twn
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" group-title="海外节目",HBO Signature Taiwan
-https://4g.969777.xyz/?id=hbosignature_twn
+https://smt.goiptv.de5.net/smt.php?id=hbosignature_twn
 #EXTINF:-1 tvg-id="Hollywood Movies" tvg-name="Hollywood Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" group-title="海外节目",Hollywood Movies
-https://4g.969777.xyz/?id=hollywoodmovies_twn
+https://smt.goiptv.de5.net/smt.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="探索频道" tvg-name="探索频道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="海外节目",探索频道
-https://4g.969777.xyz/?id=discoverych_twn
+https://smt.goiptv.de5.net/smt.php?id=discoverych_twn
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO.png" group-title="海外节目",国家地理(US)
 http://g.969777.xyz/https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeoWild" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO1.png" group-title="海外节目",国家地理Wild(US)
