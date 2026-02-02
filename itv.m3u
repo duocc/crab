@@ -320,25 +320,25 @@ https://v.929777.xyz/epg/migu/601/
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanxi_2.png" group-title="测试节目",山西影视
 https://v.929777.xyz/epg/migu/527/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="测试节目",翡翠台4K(多音轨字幕)
-https://g.969777.xyz/https://o11.163189.xyz/stream/tvb/fct4k/
+https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="测试节目",华丽翡翠台(多音轨字幕)
-https://g.969777.xyz/https://o11.163189.xyz/stream/live/hlt/
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="测试节目",华丽翡翠台SG(多音轨字幕)
-https://g.969777.xyz/https://o11.163189.xyz/stream/live/jade/
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="测试节目",明珠台(多音轨字幕)
-https://g.969777.xyz/https://o11.163189.xyz/stream/tvb/mzt/
+https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="测试节目",TVB星河(多音轨字幕)
-https://g.969777.xyz/https://o11.163189.xyz/stream/live/tvbxh/
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="TVB+" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="测试节目",TVB+(多音轨字幕)
-https://g.969777.xyz/https://o11.163189.xyz/stream/tvb/tvbp/
+https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAOD.png" group-title="测试节目",Astro AOD(多音轨字幕)
-https://g.969777.xyz/https://o11.163189.xyz/stream/live/aod/
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAEC.png" group-title="测试节目",Astro AEC(多音轨字幕)
-https://g.969777.xyz/https://o11.163189.xyz/stream/live/aec/
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/ASTROQUANJIA.png" group-title="测试节目",Astro QJ(多音轨字幕)
-https://g.969777.xyz/https://o11.163189.xyz/stream/live/qj/
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/qj/
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/爱奇艺.png" group-title="测试节目",爱奇艺
-https://g.969777.xyz/https://o11.163189.xyz/stream/live/iqiyi/
+https://4g.969777.xyz/https://o11.163189.xyz/stream/live/iqiyi/
 #------ StarHub 分类开始 ------
 #EXTINF:-1 group-title="StarHub" tvg-id="ABC Australia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
