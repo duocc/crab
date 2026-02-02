@@ -296,11 +296,11 @@ https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong9.png" group-title="测试节目",广东珠江
-http://g.969777.xyz/https://969777.xyz/epg/smg/101594/
+http://4g.969777.xyz/https://969777.xyz/epg/smg/101594/
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong5.png" group-title="测试节目",广东体育
-http://g.969777.xyz/https://969777.xyz/epg/smg/97440/
+http://4g.969777.xyz/https://969777.xyz/epg/smg/97440/
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Shanghai5.png" group-title="测试节目", 五星体育
-https://g.969777.xyz/http://cdn3.163189.xyz/163189/wxty
+http://4g.969777.xyz/http://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangzhou6.png" group-title="测试节目",广州南国都市
 https://v.929777.xyz/epg/migu/1375684847116288/
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangzhou1.png" group-title="测试节目",广州综合
