@@ -1481,6 +1481,16 @@ https://smt.goiptv.de5.net/smt.php?id=hbosignature_twn
 https://smt.goiptv.de5.net/smt.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="探索频道" tvg-name="探索频道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="海外节目",探索频道
 https://smt.goiptv.de5.net/smt.php?id=discoverych_twn
+#EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.v1.mk/logo/龙祥时代.png" group-title="海外节目",龙祥时代
+http://4g.969777.xyz/https://tuiliu.goiptv.us.ci/lungxiangtime/lungxiangtime.m3u8
+#EXTINF:-1,tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://epg.v1.mk/logo/纬来电影.png" group-title="海外节目",纬来电影
+http://4g.969777.xyz/https://tuiliu.goiptv.us.ci/videolandmovie/videolandmovie.m3u8
+#EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="海外节目",纬来体育
+http://4g.969777.xyz/https://tuiliu.goiptv.us.ci/videolandsport/videolandsport.m3u8
+#EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="海外节目",纬来日本
+http://4g.969777.xyz/https://tuiliu.goiptv.us.ci/videolandjapan/videolandjapan.m3u8
+#EXTINF:-1,tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="https://epg.v1.mk/logo/东森幼幼台.png" group-title="海外节目",东森幼幼台
+http://4g.969777.xyz/https://tuiliu.goiptv.us.ci/yoyo/yoyo.m3u8
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO.png" group-title="海外节目",国家地理(US)
 http://4g.969777.xyz/https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeoWild" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO1.png" group-title="海外节目",国家地理Wild(US)
