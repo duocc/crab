@@ -980,7 +980,7 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/87944/
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix2.png" group-title="港澳节目",凤凰资讯
 https://4g.969777.xyz/https://969777.xyz/epg/smg/113863/
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix3.png" group-title="港澳节目",凤凰香港
-http://4g.969777.xyz/https://969777.xyz/epg/smg/109468/
+http://4g.969777.xyz/http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="凤凰美洲" tvg-name="凤凰美洲" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix4.png" group-title="港澳节目",凤凰美洲
 http://4g.969777.xyz/https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
 #EXTINF:-1 tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="港澳节目",TVB1
@@ -1495,7 +1495,7 @@ https://smt.goiptv.de5.net/smt.php?id=niandainews_twn
 #EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS 歡樂台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5dbcf02b02fa1_KmYg.png" group-title="海外节目",TVBS 歡樂台
 https://smt.goiptv.de5.net/smt.php?id==tvbshuanle_twn
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f29e89470_TOZ4.png" group-title="海外节目",TVBS HD
-https://smt.goiptv.de5.net/smt.php?id=tvbs
+http://4g.969777.xyz/https://smt.goiptv.de5.net/smt.php?id=tvbs
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png" group-title="海外节目",中天娱乐 CTI Entertaiment
 https://smt.goiptv.de5.net/smt.php?id=ctient
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合 CTI Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f3e9b6dc0_q9wh.png" group-title="海外节目",中天综合 CTI Metro
