@@ -292,9 +292,6 @@ https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 #EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="江苏频道", 苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 
-
-
-
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong9.png" group-title="测试节目",广东珠江
 http://4g.969777.xyz/https://969777.xyz/epg/smg/101594/
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Guangdong5.png" group-title="测试节目",广东体育
@@ -321,19 +318,19 @@ https://v.929777.xyz/epg/migu/601/
 https://v.929777.xyz/epg/migu/527/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="测试节目",翡翠台4K(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="测试节目",华丽翡翠台(多音轨字幕)
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="测试节目",华丽翡翠台(Astro)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="测试节目",华丽翡翠台SG(多音轨字幕)
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="测试节目",华丽翡翠台(新加坡)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="测试节目",明珠台(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="测试节目",TVB星河(多音轨字幕)
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="测试节目",TVB星河(Astro)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="TVB+" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="测试节目",TVB+(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAOD.png" group-title="测试节目",Astro AOD(多音轨字幕)
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAOD.png" group-title="测试节目",Astro AOD
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAEC.png" group-title="测试节目",Astro AEC(多音轨字幕)
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAEC.png" group-title="测试节目",Astro AEC
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/ASTROQUANJIA.png" group-title="测试节目",Astro QJ(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/qj/
@@ -893,31 +890,6 @@ https://g.969777.xyz/https://channel.singteltvgo.com/wp/liveorigincluster.poster
 #KODIPROP:inputstream.adaptive.license_key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
 https://g.969777.xyz/https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 #------ StarHub 分类结束 ------
-#Youtube源
-#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
-https://969777.xyz/epg/yt/PhoenixTV/
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTI2.png" group-title="You•Tube",中天新聞台
-https://v.929777.xyz/epg/yt/CTITVNews/
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTV1.png" group-title="You•Tube",中視新聞
-https://v.929777.xyz/epg/yt/CTVNews/
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV2.png" group-title="You•Tube",台視新聞
-https://v.929777.xyz/epg/yt/TTV_NEWS/
-#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TVBS1.png" group-title="You•Tube",TVBS NEWS
-https://v.929777.xyz/epg/yt/TVBSNews/
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TVBS.png" group-title="You•Tube",TVBS优选
-https://v.929777.xyz/epg/yt/TVBS/
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TVBS1.png" group-title="You•Tube",TVBS新闻台
-https://v.929777.xyz/epg/yt/TVBS55/
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/EBC6.png" group-title="You•Tube",东森新闻台
-https://v.929777.xyz/epg/yt/EBCNews/
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/SET2.png" group-title="You•Tube",三立新闻
-https://v.929777.xyz/epg/yt/SET_news/
-#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/abc.png" group-title="You•Tube",ABC News
-https://v.929777.xyz/epg/yt/ABCNews/
-#EXTINF:-1 tvg-id="Fox Live" tvg-name="Fox Live" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FOX_Live.png" group-title="You•Tube",Fox Live
-https://v.929777.xyz/epg/yt/FOX_Live/
-#EXTINF:-1 tvg-id="CNBC News" tvg-name="CNBC News" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CNBC_News.png" group-title="You•Tube",CNBC News
-https://v.929777.xyz/epg/yt/CNBC_News/
 #港澳节目 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台HD
 http://4g.969777.xyz/https://969777.xyz/epg/smg/86961/
