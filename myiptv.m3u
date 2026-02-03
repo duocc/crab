@@ -113,3 +113,30 @@ https://v.929777.xyz/epg/migu/624878970/
 https://v.929777.xyz/epg/migu/708869532/
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/duocc/TVlogo/main/img/CNDlgs.png" group-title="地方节目",老故事
 https://v.929777.xyz/epg/migu/884121956/
+
+
+#Youtube源
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix2.png" group-title="You•Tube",鳳凰資訊
+https://969777.xyz/epg/yt/PhoenixTV/
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTI2.png" group-title="You•Tube",中天新聞台
+https://v.929777.xyz/epg/yt/CTITVNews/
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTV1.png" group-title="You•Tube",中視新聞
+https://v.929777.xyz/epg/yt/CTVNews/
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TTV2.png" group-title="You•Tube",台視新聞
+https://v.929777.xyz/epg/yt/TTV_NEWS/
+#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TVBS1.png" group-title="You•Tube",TVBS NEWS
+https://v.929777.xyz/epg/yt/TVBSNews/
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TVBS.png" group-title="You•Tube",TVBS优选
+https://v.929777.xyz/epg/yt/TVBS/
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/TVBS1.png" group-title="You•Tube",TVBS新闻台
+https://v.929777.xyz/epg/yt/TVBS55/
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/EBC6.png" group-title="You•Tube",东森新闻台
+https://v.929777.xyz/epg/yt/EBCNews/
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/SET2.png" group-title="You•Tube",三立新闻
+https://v.929777.xyz/epg/yt/SET_news/
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/abc.png" group-title="You•Tube",ABC News
+https://v.929777.xyz/epg/yt/ABCNews/
+#EXTINF:-1 tvg-id="Fox Live" tvg-name="Fox Live" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FOX_Live.png" group-title="You•Tube",Fox Live
+https://v.929777.xyz/epg/yt/FOX_Live/
+#EXTINF:-1 tvg-id="CNBC News" tvg-name="CNBC News" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CNBC_News.png" group-title="You•Tube",CNBC News
+https://v.929777.xyz/epg/yt/CNBC_News/
