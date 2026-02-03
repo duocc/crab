@@ -918,7 +918,7 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/129288/
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="港澳节目",NOW新闻台
 http://4g.969777.xyz/https://969777.xyz/epg/smg/86159
 #EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="港澳节目",ViuTV
-http://4g.969777.xyz/http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+http://4g.969777.xyz/https://969777.xyz/epg/smg/478/
 #EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTVSIX.png" group-title="港澳节目",ViuTVSix
 http://4g.969777.xyz/https://969777.xyz/epg/smg/1125/
 #EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="港澳节目",RTHK31
