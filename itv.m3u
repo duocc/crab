@@ -342,7 +342,7 @@ https://4g.969777.xyz/https://o11.163189.xyz/stream/live/iqiyi/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
-https://g.969777.xyz/https://buhrats.go-iptv.ggff.net/ABCAustralia
+https://buhrats.go-iptv.ggff.net/ABCAustralia
 #EXTINF:-1 group-title="StarHub" tvg-id="BBC Earth" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -882,13 +882,13 @@ https://buhrats.go-iptv.ggff.net/SPOTV2NEW
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db83ed2bdb944c898315705c6e7d945f:351c85a863b7335e93d2f500507ee479
-https://g.969777.xyz/https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5521/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5521/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 #EXTINF:-1 group-title="StarHub" tvg-id="" tvg-logo="https://cdn1.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20501%20-%20eLe.png",e-Le HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
-https://g.969777.xyz/https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 #------ StarHub 分类结束 ------
 #港澳节目 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台HD
@@ -902,7 +902,7 @@ http://4g.969777.xyz/http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="港澳节目",明珠台
 http://4g.969777.xyz/https://969777.xyz/epg/smg/77278/
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="港澳节目",明珠台（字幕）
-https://mytv.cdn.loc.cc/o12.php?id=mzt
+http://4g.969777.xyz/https://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1 tvg-name="HOY 77" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY TV
 http://4g.969777.xyz/https://969777.xyz/epg/smg/382/
 #EXTINF:-1 tvg-name="HOY 78" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY资讯台
@@ -932,7 +932,7 @@ http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/hk/master.m3u8?u=ca
 #EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="港澳节目",PopC
 http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="港澳节目",tvN HK
-https://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
+http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="天映" tvg-name="天映" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="港澳节目",天映频道
 http://4g.969777.xyz/http://cdn10.163189.xyz/163189/typd
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="港澳节目",天映经典
@@ -1496,9 +1496,9 @@ http://4g.969777.xyz/https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeoWild" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/NATGEO1.png" group-title="海外节目",国家地理Wild(US)
 http://4g.969777.xyz/https://fl1.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FashionTV.png" group-title="海外节目",Fashion TV HD
-https://4g.969777.xyz/http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+http://4g.969777.xyz/http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FX Movie" tvg-name="FX Movie" tvg-logo="https://epg.pw/media/images/epg/2024/09/22/20240922022048287312_76.png" group-title="海外节目",FX Movie(US)
 http://4g.969777.xyz/https://fl1.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="AMC US" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC.png" group-title="海外节目",AMC电影台(US)
-https://4g.969777.xyz/https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://4g.969777.xyz/https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #------ SmartTV 分类结束 ------
