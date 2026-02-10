@@ -324,6 +324,8 @@ https://4g.969777.xyz/https://o11.163189.xyz/stream/live/hlt/
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="测试节目",明珠台(多音轨字幕)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-id="天映频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="测试节目",天映频道
+https://4g.969777.xyz/http://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="测试节目",TVB星河(Astro)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="TVB+" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="测试节目",TVB+(多音轨字幕)
@@ -920,7 +922,7 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/86159
 #EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="港澳节目",ViuTV
 http://4g.969777.xyz/https://969777.xyz/epg/smg/478/
 #EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTVSIX.png" group-title="港澳节目",ViuTVSix
-http://4g.969777.xyz/https://969777.xyz/epg/smg/1125/
+http://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
 #EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="港澳节目",RTHK31
 http://4g.969777.xyz/https://969777.xyz/epg/smg/413/
 #EXTINF:-1 tvg-id="rthk32" tvg-name="rthk32" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳节目",RTHK32
@@ -974,9 +976,9 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/111363/
 #EXTINF:-1 tvg-name="澳视体育" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视体育.png" group-title="港澳节目",澳视体育
 http://4g.969777.xyz/https://969777.xyz/epg/smg/117118/
 #EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://epg.v1.mk/logo/澳门综艺.png" group-title="港澳节目",澳门综艺
-http://4g.969777.xyz/http://cdn6.163189.xyz/163189/amzy
+http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8
 #EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.v1.mk/logo/澳门莲花.png" group-title="港澳节目",澳门莲花
-http://4g.969777.xyz/http://cdn6.163189.xyz/163189/amlh
+http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/amlh/stream.m3u8
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港澳节目",TVB星河(国语)
 http://4g.969777.xyz/http://cdn10.163189.xyz/163189/xinghe
 #------ MYTV SUPER分类开始 ------
