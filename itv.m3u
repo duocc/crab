@@ -338,13 +338,18 @@ https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aec/
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/qj/
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/爱奇艺.png" group-title="测试节目",爱奇艺
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="测试节目",纬来电影
+https://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="测试节目",纬来体育
+https://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=videolandsport
+
 #------ StarHub 分类开始 ------
 #EXTINF:-1 group-title="StarHub" tvg-id="ABC Australia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
-https://buhrats.go-iptv.ggff.net/ABCAustralia
+https://ucdn.starhubgo.com/bpk-tv/ABCAustralia/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="BBC Earth" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
