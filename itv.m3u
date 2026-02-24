@@ -1488,6 +1488,8 @@ https://smt.goiptv.de5.net/smt.php?id=hbosignature_twn
 https://smt.goiptv.de5.net/smt.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="探索频道" tvg-name="探索频道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="海外节目",探索频道
 https://smt.goiptv.de5.net/smt.php?id=discoverych_twn
+#EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台湾 Sanli Taiwan" group-title="海外节目",三立台湾 Sanli Taiwan
+http://g.969777.xyz/https://live.catvod.com/live.php?id=sanlitaiwan
 #EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.v1.mk/logo/龙祥时代.png" group-title="海外节目",龙祥时代
 http://4g.969777.xyz/https://tuiliu.goiptv.us.ci/lungxiangtime/lungxiangtime.m3u8
 #EXTINF:-1,tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://epg.v1.mk/logo/纬来电影.png" group-title="海外节目",纬来电影
