@@ -1247,6 +1247,16 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CC1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ee6ed08925f4716c8d0943e7bdb3e5f:6f3c1e31b30ccac36d466f41489ceb27
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=CMN1
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南澜湄国际卫视.png" group-title="MYTV",雲南瀾湄國際衛視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=YNTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽.png" group-title="MYTV",安徽廣播電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=AHTV
 #EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="无线卫星新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星新闻.png" group-title="MYTV",無線衛星新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
