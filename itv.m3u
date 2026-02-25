@@ -349,7 +349,7 @@ https://4g.969777.xyz/http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=videola
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
-https://ucdn.starhubgo.com/bpk-tv/ABCAustralia/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/ABCAustralia/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="BBC Earth" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -951,9 +951,9 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/119353/
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="港澳节目",龙华偶像
 http://4g.969777.xyz/https://969777.xyz/epg/smg/103468/
 #EXTINF:-1 tvg-name="Now爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="港澳节目",NOW爆谷星影台
-http://4g.969777.xyz/https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
+http://4g.969777.xyz/https://goiptv.passwdword.xyz/live/encrypted/MDRjMTZmYzgwOTFiMjUyM2Q1MjJmOGNmZWQzYTk0YWQ6NjA5OTVjODVkNGQ1ODcyYTFlOWRkZDQ3NjU3YzdkZWExYjE0YzUxNGExODg5NzlmZGUwNzczMDM3MGFkZGMzNGEwMGJhZmE4MzZjY2IwNzkyM2YzZDAzYjkwZjAxY2QwNzJhNDVmNDU3YzFhNzRlM2I4ODY5Zjg0NWNmNGVlZDg5Nzc1NWVkNDNhZmE5NDBjZWYyMzRmNjAwN2Q1MjkwZjlhYjVlMTM5YmRkZmE0NDRjYjI1YTgwYTVjYWFhNWFiOGE4N2E0Y2MzNzgxN2IzNWJiNDk0ZjJlYjM1NjY2MjliNmQ1NjdmZWEzM2VlZjE3YmRlODJiYjJjYWJmMDY4ZTA0MThmN2RjZDJmMDU1MWU0NTQwZTEyZTQ2OTE0NDc0YThlY2E4YmI4NjlkNzJjZjY0MzU0YjdiNzQyODkxNGM5ZTNkOWY3NTdkMDU3ZjUwMGU0YzBhZDliNDk0OTQzNjc4YmVkZjk5NzQ0Zjk4N2MwYTMxZTU1OTQxYTMzOTFh?username=tg_9plrv6oy
 #EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爆谷.png" group-title="港澳节目",NOW爆谷台
-http://4g.969777.xyz/https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
+http://4g.969777.xyz/https://goiptv.passwdword.xyz/live/encrypted/NDk0MWJlNWJlOTA5YTE1NDE5MjlhMjJhZWRkYTZhMTM6MmYxZTM0NjNjMTEwN2I5MmQ3ODc3NDdkNzU5YjIwMDY4ODE5ZTc5NTRkN2Q1MWZhOTU3Yjk4ZjcxNjE3ZDZjOGFiZDMzNWYyZTI1YjgwMDNlYTUyNzhkZTM5M2U1Y2QwZGVlZDQ5NTZkMmU4ODQyMzdlOTE5NTg0NjFhOTYyZDQzOWE2Y2Y5MjJmYTg0MWJlYWNiNGFlYjNhMTM0NmJhZWVhYTExYjk3N2M0Y2I4ZjA4MGIzMTBmOWZkMTUwOTBiYjc3MGYwZjNhY2RjNDdmYWUzZjQxZWRjZThhNWM0MTA1YWRjYWU5YmZiM2Q0MmY3MTdmZjhkMTZlMGFkMDI5YWJiNTUxMmRlN2Y1MDA5MGE5ZjRhOWY1NGJiZmRiYzAzNTRhZjViMjM3ODVmZTIyZmQyOTUzMTJhYTJkZThlOTI0ZTFkMWQyMjNiYWE1NzgyYjQ1MjFhN2U5MzU5ZDdiZg?username=tg_9plrv6oy
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix1.png" group-title="港澳节目",凤凰中文
 http://4g.969777.xyz/https://969777.xyz/epg/smg/87944/
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix2.png" group-title="港澳节目",凤凰资讯
