@@ -941,9 +941,11 @@ http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=
 #EXTINF:-1 tvg-id="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="港澳节目",tvN HK
 http://4g.969777.xyz/https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 #EXTINF:-1 tvg-id="天映" tvg-name="天映" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="港澳节目",天映频道
-http://4g.969777.xyz/http://cdn10.163189.xyz/163189/typd
+http://4g.969777.xyz/https://cdn10.163189.xyz/stream/163189/typd/
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="港澳节目",天映经典
-http://4g.969777.xyz/http://cdn10.163189.xyz/163189/ccm
+http://4g.969777.xyz/https://cdn10.163189.xyz/stream/163189/ccm/
+#EXTINF:-1 tvg-name="天映马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="港澳节目",天映频道
+http://4g.969777.xyz/http://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="港澳节目",龙华电影
 http://4g.969777.xyz/https://969777.xyz/epg/smg/116621/
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="港澳节目",龙华洋片
@@ -959,9 +961,7 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/87944/
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix2.png" group-title="港澳节目",凤凰资讯
 https://4g.969777.xyz/https://969777.xyz/epg/smg/113863/
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix3.png" group-title="港澳节目",凤凰香港
-http://4g.969777.xyz/http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-id="凤凰美洲" tvg-name="凤凰美洲" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix4.png" group-title="港澳节目",凤凰美洲
-http://4g.969777.xyz/https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
+http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 #EXTINF:-1 tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="港澳节目",TVB1
 http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
 #EXTINF:-1 tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="港澳节目",TVBJ1
