@@ -387,8 +387,10 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/119353/
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="港澳节目",龙华偶像
 http://4g.969777.xyz/https://969777.xyz/epg/smg/103468/
 #EXTINF:-1 tvg-name="Now爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="港澳节目",NOW爆谷星影台
+#EXTVLCOPT:http-user-agent=goiptv/8.8.8
 http://g.969777.xyz/https://judy.946985.ggff.net/xingyingtai/stream.m3u8
 #EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爆谷.png" group-title="港澳节目",NOW爆谷台
+#EXTVLCOPT:http-user-agent=goiptv/8.8.8
 http://g.969777.xyz/https://judy.946985.ggff.net/baogutai/stream.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix1.png" group-title="港澳节目",凤凰中文
 http://4g.969777.xyz/https://969777.xyz/epg/smg/87944/
