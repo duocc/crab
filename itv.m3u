@@ -852,6 +852,8 @@ http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv082
 http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv101
 #EXTINF:-1 tvg-name="爱尔达娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达娱乐.png" group-title="四季TV",爱尔达娱乐
 http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv070
+#EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="四季TV",達文西頻道
+http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv018
 
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="四季TV",TVBS
 https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
@@ -873,8 +875,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Entertainment
 https://4gtv.946985.filegear-sg.me/playlist?channel=CinemaWorld
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="四季TV",Love Nature
 https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
-#EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="四季TV",達文西頻道
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
+
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="四季TV",Lifetime 娛樂頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-name="ELTV生活" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="四季TV",ELTV生活英語台
