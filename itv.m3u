@@ -844,6 +844,10 @@ https://v.929777.xyz/epg/smg/316/
 https://v.929777.xyz/epg/smg/461/
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AlJazeera.png" group-title="四季TV",半島國際新聞台
 https://v.929777.xyz/epg/smg/462/
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="四季TV",TRACE Sport Stars
+http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv077
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="四季TV",TRACE Urban
+http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv082
 
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="四季TV",TVBS
 https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
@@ -897,10 +901,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%8
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
 #EXTINF:-1 tvg-name="时尚运动X" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/时尚运动X.png" group-title="四季TV",時尚運動X
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
-#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="四季TV",TRACE Sport Stars
-https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Sport%20Stars
-#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="四季TV",TRACE Urban
-https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Urban
+
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="四季TV",車迷TV
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%BB%8A%E8%BF%B7TV
 #------ 4GTV 分类结束 ------
