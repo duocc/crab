@@ -910,55 +910,55 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%BB%8A%E8%BF%B7TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
-https://ucdn.starhubgo.com/bpk-tv/ABCAustralia/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/ABCAustralia/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="BBC Earth" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fad0942337db4c7e910cca2680cbae89:f48adcc739a34ac96a4848ad0bfba6cf
-https://ucdn.starhubgo.com/bpk-tv/BBCEarthHD/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/BBCEarthHD/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=06bbd3e5972746be9307aff0ca171ef1:63d0ed83314277f18961f29fd7e90e03
-https://ucdn.starhubgo.com/bpk-tv/BBCLifestyleHD/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/BBCLifestyleHD/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="Crime +" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime + Investigation HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cc82e4d16944e3680ecd7f798ad934a:efd9b267c84effe30cf80dd8e9f9d499
-https://ucdn.starhubgo.com/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="Discovery" tvg-logo="https://poster.starhubgo.com/Linear_channels2/422_1920x1080_HTV.png",Discovery HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e01c2c642b407197ee4773d19c1b02:fea2e9072ca6f49f297e5123d75cf490
-https://ucdn.starhubgo.com/bpk-tv/DiscoveryCh/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/DiscoveryCh/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="FashionTV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/443_1920x1080_HTV.png",FashionTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b9c09ade79141e39e25f18da05bee00:f805cca7aab475afeb9b55251e0f4302
-https://ucdn.starhubgo.com/bpk-tv/FashionTV/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/FashionTV/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="HBO.Signature.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/437_1920x1080_HTV.png",HGTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1ac1cd0128240e18b68f337fe871b59:372c1435914f835639e2595c0670b0ed
-https://ucdn.starhubgo.com/bpk-tv/HGTV/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/HGTV/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",HISTORY HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aaefa438407c4e39be6944fb82b952df:9fa8872f2a8d4d9395c40802527f84ac
-https://ucdn.starhubgo.com/bpk-tv/HistoryHD/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/HistoryHD/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png",Travelxp HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f73a324d13e14b51ae6576655c2646c2:eb2aeda95806929f93f744a3c1137458
-https://ucdn.starhubgo.com/bpk-tv/TravelxpHD/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/TravelxpHD/output/manifest.mpd
 ##############
 #  娱乐 starhubgo.com 分流
 ##############
@@ -967,7 +967,7 @@ https://ucdn.starhubgo.com/bpk-tv/TravelxpHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
-https://ucdn.starhubgo.com/bpk-tv/AXNHD/output/manifest.mpd
+http://g.969777.xyz/https://ucdn.starhubgo.com/bpk-tv/AXNHD/output/manifest.mpd
 #EXTINF:-1 group-title="StarHub" tvg-id="Animax" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png",Animax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
