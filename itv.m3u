@@ -896,8 +896,20 @@ https://tv.iill.top/4gtv/4gtv-live017
 https://tv.iill.top/4gtv/4gtv-live026
 #EXTINF:-1 tvg-name="MAGELLANTV频道" tvg-logo="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png"  group-title="四季TV",MagellanTV頻道 (麥哲倫頻道)
 https://tv.iill.top/4gtv/4gtv-live123
-#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://epg.iill.top/logo/HITS頻道.png" http-user-agent="okhttp/1.9.89" group-title="四季TV",HITS頻道
+#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://epg.iill.top/logo/HITS頻道.png" group-title="四季TV",HITS頻道
 https://tv.iill.top/4gtv/4gtv-live620
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://epg-1.iill.top/logo/博斯無限台.png" group-title="四季TV", 博斯無限
+http://g.969777.xyz/https://tv.iill.top/FainTV/129
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://epg-1.iill.top/logo/博斯無限二台.png"  group-title="四季TV", 博斯無限
+http://g.969777.xyz/https://tv.iill.top/FainTV/418
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg-1.iill.top/logo/博斯高球台.png"  group-title="四季TV", 博斯高球一
+http://g.969777.xyz/https://tv.iill.top/FainTV/108
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg-1.iill.top/logo/博斯高球二台.png"  group-title="四季TV", 博斯高球二
+http://g.969777.xyz/https://tv.iill.top/FainTV/125
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://epg-1.iill.top/logo/博斯網球台.png"  group-title="四季TV", 博斯網球
+http://g.969777.xyz/https://tv.iill.top/FainTV/53
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg-1.iill.top/logo/博斯魅力台.png" http-user-agent="okhttp/1.9.89" group-title="四季TV", 博斯魅力
+http://g.969777.xyz/https://tv.iill.top/FainTV/135
 #------ 4GTV 分类结束 ------
 #------ StarHub 分类开始 ------
 #EXTINF:-1 group-title="StarHub" tvg-id="ABC Australia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
