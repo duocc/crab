@@ -910,6 +910,14 @@ http://g.969777.xyz/https://tv.iill.top/FainTV/125
 http://g.969777.xyz/https://tv.iill.top/FainTV/53
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg-1.iill.top/logo/博斯魅力台.png" http-user-agent="okhttp/1.9.89" group-title="四季TV", 博斯魅力
 http://g.969777.xyz/https://tv.iill.top/FainTV/135
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png"  group-title="四季TV", 中天亞洲
+http://g.969777.xyz/https://tv.iill.top/FainTV/121
+#EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://epg.iill.top/logo/中天綜合台.png"  group-title="四季TV",中天綜合
+http://g.969777.xyz/https://hls.iill.top/api/Cti-K/index.m3u8
+#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://epg.iill.top/logo/中天娛樂台.png"  group-title="四季TV",中天娛樂
+http://g.969777.xyz/https://hls.iill.top/api/Cti-E/index.m3u8
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" group-title="四季TV",中天新聞
+https://tv.iill.top/4gtv/4gtv-4gtv009
 #------ 4GTV 分类结束 ------
 #------ StarHub 分类开始 ------
 #EXTINF:-1 group-title="StarHub" tvg-id="ABC Australia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
