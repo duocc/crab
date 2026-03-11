@@ -815,11 +815,11 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 #------ MYTV SUPER分类结束 ------
 #------ 4GTV 分类开始 ------
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/FTV.png" group-title="四季TV",民视HD
-http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv155
+https://tv.iill.top/4gtv/4gtv-4gtv002
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="四季TV",中视HD
-http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv040
+https://tv.iill.top/4gtv/4gtv-4gtv040
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CTS.png" group-title="四季TV",华视HD
-http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv041
+https://tv.iill.top/4gtv/4gtv-4gtv041
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://upload.112114.xyz/logo/台视.png" group-title="四季TV",台视TTV HD
 http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv066
 #EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="四季TV",AMC電影台
@@ -860,6 +860,8 @@ https://tv.iill.top/4gtv/4gtv-4gtv018
 http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv014
 #EXTINF:-1 tvg-name="ELTV生活" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="四季TV",ELTV生活英語台
 http://g.969777.xyz/https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang20
+#EXTINF:-1 tvg-id="FashionTV" tvg-logo="https://epg.iill.top/logo/FashionTV.png" http-user-agent="okhttp/1.9.89" group-title="四季TV" ,FashionTV時尚頻道
+https://tv.iill.top/4gtv/4gtv-live085
 
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="四季TV",TVBS
 https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
@@ -878,7 +880,7 @@ https://tv.iill.top/4gtv/4gtv-live080
 #EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="四季TV",CinemaWorld
 https://4gtv.946985.filegear-sg.me/playlist?channel=CinemaWorld
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="四季TV",Love Nature
-https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
+https://tv.iill.top/4gtv/4gtv-live208
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="四季TV",Lifetime 娛樂頻道
 https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032_mobile.png" group-title="四季TV",Nick Jr. 兒童頻道
