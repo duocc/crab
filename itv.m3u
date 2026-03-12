@@ -395,6 +395,16 @@ http://4g.969777.xyz/https://cdn10.163189.xyz/stream/163189/viu6/
 http://4g.969777.xyz/https://969777.xyz/epg/smg/413/
 #EXTINF:-1 tvg-id="rthk32" tvg-name="rthk32" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="港澳节目",RTHK32
 http://4g.969777.xyz/https://969777.xyz/epg/smg/414/
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.iill.top/logo/RTHK31.png" group-title="港澳节目",RTHK 31(官方)
+http://g.969777.xyz/https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.iill.top/logo/RTHK32.png" group-title="港澳节目",RTHK 32(官方)
+http://g.969777.xyz/https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://epg.iill.top/logo/RTHK33.png" group-title="港澳节目",RTHK 33(官方)
+http://g.969777.xyz/https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://epg.iill.top/logo/RTHK34.png" group-title="港澳节目",RTHK 34(官方)
+http://g.969777.xyz/https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://epg.iill.top/logo/RTHK35.png" group-title="港澳节目",RTHK 35(官方)
+http://g.969777.xyz/https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="港澳节目",千禧经典台
 http://4g.969777.xyz/https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="港澳节目",天映经典
