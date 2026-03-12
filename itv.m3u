@@ -378,7 +378,8 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/382/
 http://4g.969777.xyz/https://969777.xyz/epg/smg/383/
 #EXTINF:-1 tvg-name="HOY剧集台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY剧集台
 http://4g.969777.xyz/http://cdn.163189.xyz/163189/hoyjj
-
+#EXTINF:-1 tvg-id="HOY體育台" tvg-name="HOY體育台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="港澳节目",HOY 體育台
+http://g.969777.xyz/https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
 #EXTINF:-1 tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="港澳节目",TVB Plus
 http://4g.969777.xyz/https://969777.xyz/epg/smg/592/
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="港澳节目",无线新闻
