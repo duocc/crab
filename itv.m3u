@@ -418,10 +418,10 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/116621/
 http://4g.969777.xyz/https://969777.xyz/epg/smg/119353/
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="港澳节目",龙华偶像
 http://4g.969777.xyz/https://969777.xyz/epg/smg/103468/
-#EXTINF:-1 tvg-name="Now爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="港澳节目",NOW爆谷星影台
+#EXTINF:-1 tvg-name="Now爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" http-user-agent="goiptv/8.8.8"  group-title="港澳节目",NOW爆谷星影台
 #EXTVLCOPT:http-user-agent=goiptv/8.8.8
 https://judy.946985.ggff.net/xingyingtai/stream.m3u8
-#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爆谷.png" group-title="港澳节目",NOW爆谷台
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爆谷.png" http-user-agent="goiptv/8.8.8" group-title="港澳节目",NOW爆谷台
 #EXTVLCOPT:http-user-agent=goiptv/8.8.8
 https://judy.946985.ggff.net/baogutai/stream.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/Phoenix1.png" group-title="港澳节目",凤凰中文
@@ -444,6 +444,8 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/224/
 http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="港澳节目",澳视澳门
 http://4g.969777.xyz/https://969777.xyz/epg/smg/130836/
+#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://epg.iill.top/logo/澳视葡文.png" group-title="港澳节目",澳門葡文
+http://g.969777.xyz/https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="港澳节目",澳视卫星
 http://4g.969777.xyz/https://969777.xyz/epg/smg/111363/
 #EXTINF:-1 tvg-name="澳视体育" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视体育.png" group-title="港澳节目",澳视体育
