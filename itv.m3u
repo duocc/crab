@@ -402,7 +402,7 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/414/
 http://g.969777.xyz/https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.iill.top/logo/RTHK32.png" group-title="港澳节目",RTHK 32(官方)
 http://g.969777.xyz/https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://epg.iill.top/logo/RTHK33.png" group-title="港澳节目",RTHK 33(官方)
+#EXTINF:-1 tvg-id="CCTV-1港澳版" tvg-logo="https://epg.iill.top/logo/RTHK33.png" group-title="港澳节目",RTHK 33(官方)
 http://g.969777.xyz/https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://epg.iill.top/logo/RTHK34.png" group-title="港澳节目",RTHK 34(官方)
 http://g.969777.xyz/https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
@@ -707,7 +707,7 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=PHK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
 http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=POPC
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="MYTV",CCTV1 (港澳版)
+#EXTINF:-1 tvg-id="CCTV-1港澳版" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="MYTV",CCTV1 (港澳版)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
