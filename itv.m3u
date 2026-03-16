@@ -358,6 +358,8 @@ https://4g.969777.xyz/https://hls.iill.top/api/HBO-Hits/index.m3u8
 https://4g.969777.xyz/https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://epg.iill.top/logo/HBO-Signature.png" group-title="测试节目",HBO Signature
 https://4g.969777.xyz/https://hls.iill.top/api/HBO-Signature/index.m3u8
+#EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="测试节目",AMC電影台「Juli」 
+https://4g.969777.xyz/https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 
 #港澳节目 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳节目",翡翠台HD
@@ -378,7 +380,8 @@ http://4g.969777.xyz/https://969777.xyz/epg/smg/382/
 http://4g.969777.xyz/https://969777.xyz/epg/smg/383/
 #EXTINF:-1 tvg-name="HOY剧集台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="港澳节目",HOY剧集台
 http://4g.969777.xyz/http://cdn.163189.xyz/163189/hoyjj
-
+#EXTINF:-1 tvg-id="HOY體育台" tvg-name="HOY體育台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="港澳节目",HOY 體育台
+http://4g.969777.xyz/https://cdn11.163189.xyz/163189/ceadd90e759a6f19
 #EXTINF:-1 tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="港澳节目",TVB Plus
 http://4g.969777.xyz/https://969777.xyz/epg/smg/592/
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="港澳节目",无线新闻
