@@ -345,11 +345,11 @@ https://4g.969777.xyz/https://o11.163189.xyz/stream/live/qj/
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/爱奇艺.png" group-title="测试节目",爱奇艺
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="测试节目",BBC Earth
-https://4g.969777.xyz/https://hls.iill.top/api/BBC-Earth/index.m3u8
+https://g.969777.xyz/https://hls.iill.top/api/BBC-Earth/index.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="测试节目",BBC Lifestyle
-https://4g.969777.xyz/https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+https://g.969777.xyz/https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="测试节目",Discovery
-https://4g.969777.xyz/https://hls.iill.top/api/Discovery/index.m3u8
+https://g.969777.xyz/https://hls.iill.top/api/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://epg.iill.top/logo/HBO.png" group-title="测试节目",HBO
 https://g.969777.xyz/https://hls.iill.top/api/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO Hits" tvg-logo="https://epg.iill.top/logo/HBO-Hits.png" group-title="测试节目",HBO Hits
