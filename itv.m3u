@@ -691,17 +691,17 @@ http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=AHTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
-https://php.946985.filegear-sg.me/mytv265.php?id=GBTV
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=GBTV
 #EXTINF:-1 tvg-id="廣西國際" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西.png" group-title="MYTV",廣西國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
-https://php.946985.filegear-sg.me/mytv265.php?id=GXTV
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=GXTV
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="MYTV",福建海峽衛視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
-https://php.946985.filegear-sg.me/mytv265.php?id=FJTV
+http://g.969777.xyz/https://php.946985.filegear-sg.me/mytv265.php?id=FJTV
 #EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="无线卫星新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星新闻.png" group-title="MYTV",無線衛星新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
