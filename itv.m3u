@@ -948,7 +948,294 @@ https://tv.iill.top/api/Sky-Sports-Mix/index.m3u8
 https://tv.iill.top/api/Sky-Sports-Racing/index.m3u8
 #EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="新马节目",Fight Sports
 http://g.969777.xyz/https://hls.iill.top/api/Fight-Sports/index.m3u8
-#------ 新马节目 分类结束 ------
+#------ ASTRO 开始 ------
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://get.perfecttv.net/logo/aod.png" group-title="新马节目" tvg-chno="4247" tvg-shift="0",AOD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=286aef4e8d85db66e05fe4a5c799e410:176e2938bce795d1c85559a2440477f7
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd?channel=aod
+
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://get.perfecttv.net/logo/aec2.png" group-title="新马节目" tvg-chno="4248" tvg-shift="0",AEC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aec
+
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC FHD" tvg-logo="https://get.perfecttv.net/logo/aecfhd.png" group-title="新马节目" tvg-chno="4249" tvg-shift="0",AEC FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aec
+
+#EXTINF:-1 tvg-id="seti" tvg-name="SETi" tvg-logo="https://get.perfecttv.net/logo/set.png" group-title="新马节目" tvg-chno="4250" tvg-shift="0",SETI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d267de2a8184683bd8de9ff6a761b2a:ff83fafbef57e24fc626a9f589ca1da9
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Seti&kid=9d267de2-a818-4683-bd8d-e9ff6a761b2a
+
+#EXTINF:-1 tvg-id="huaheedai" tvg-name="Hua Hee Dai" tvg-logo="https://get.perfecttv.net/logo/huaheedai2.png" group-title="新马节目" tvg-chno="4251" tvg-shift="0",Hua Hee Dai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=huaheedai
+
+#EXTINF:-1 tvg-id="iqiyi" tvg-name="iQIYI" tvg-logo="https://get.perfecttv.net/logo/iqiyi.png" group-title="新马节目" tvg-chno="4252" tvg-shift="0",iQIYI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=iqiyi
+
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ (A)" tvg-logo="https://get.perfecttv.net/logo/qj.png" group-title="新马节目" tvg-chno="4253" tvg-shift="0",QJ (A)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest.type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qj
+
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ FHD" tvg-logo="https://get.perfecttv.net/logo/qjfhd.png" group-title="新马节目" tvg-chno="4254" tvg-shift="0",QJ FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest.type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qj
+
+#EXTINF:-1 tvg-id="TVBJADE" tvg-name="TVB Jade" tvg-logo="https://get.perfecttv.net/logo/tvbjade.png" group-title="新马节目" tvg-chno="4255" tvg-shift="0",TVB Jade
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbjade
+
+#EXTINF:-1 tvg-id="TVBSASIA" tvg-name="TVBS Asia HD" tvg-logo="https://get.perfecttv.net/logo/tvbs.png" group-title="新马节目" tvg-chno="4256" tvg-shift="0",TVBS Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbsasia
+
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He HD" tvg-logo="https://get.perfecttv.net/logo/tvbxinghe.png" group-title="新马节目" tvg-chno="4257" tvg-shift="0",TVB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbxinghe
+
+#EXTINF:-1 tvg-id="TVBEnter" tvg-name="TVB Entertainment News" tvg-logo="https://get.perfecttv.net/logo/tvbentertainmentnews.png" group-title="新马节目" tvg-chno="4258" tvg-shift="0",TVB Entertainment News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbentertainment
+
+#EXTINF:-1 tvg-id="TVBCLASSIC" tvg-name="TVB Classic HD" tvg-logo="https://get.perfecttv.net/logo/tvbclassic.png" group-title="新马节目" tvg-chno="4259" tvg-shift="0",TVB Classic
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvbclassic
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4 HD" tvg-logo="https://get.perfecttv.net/logo/cctv4.png" group-title="新马节目" tvg-chno="4260" tvg-shift="0",CCTV4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd?channel=cctv4
+
+#EXTINF:-1 tvg-id="CITIASIA" tvg-logo="https://get.perfecttv.net/logo/ctiasia.png" group-title="新马节目" tvg-chno="4261" tvg-shift="0",Cti Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd?channel=ctiasia
+
+#EXTINF:-1 tvg-id="Celestial Classic Movies" tvg-name="CCM" tvg-logo="https://get.perfecttv.net/logo/ccm.png" group-title="新马节目" tvg-chno="4281" tvg-shift="0",CCM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ccm
+
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="CELESTIAL HD" tvg-logo="https://get.perfecttv.net/logo/celestialmovies.png" group-title="新马节目" tvg-chno="4282" tvg-shift="0",Celestial Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=celestial
+
+#EXTINF:-1 tvg-id="4283" tvg-name="HiYah" tvg-logo="https://get.perfecttv.net/logo/hiyah.png" group-title="新马节目" tvg-chno="4283" tvg-shift="0",Hi-Yah
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="duniasinemahd" tvg-name="Dunia Sinema" tvg-logo="https://get.perfecttv.net/logo/duniasenima.png" group-title="新马节目" tvg-chno="4284" tvg-shift="0",Dunia Sinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
+#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
+https://get.perfecttv.net/myunifi.mpd?channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
+
+#EXTINF:-1 tvg-id="SIAR" tvg-name="SIAR" tvg-logo="https://get.perfecttv.net/logo/siar.png" group-title="新马节目" tvg-chno="4285" tvg-shift="0",Siar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+https://get.perfecttv.net/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
+
+#EXTINF:-1 tvg-id="degup" tvg-name="Degup" tvg-logo="https://get.perfecttv.net/logo/degup.png" group-title="新马节目" tvg-chno="4286" tvg-shift="0",Degup
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
+https://get.perfecttv.net/myunifi.mpd?channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
+
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://get.perfecttv.net/logo/boo.png" group-title="新马节目" tvg-chno="4287" tvg-shift="0",BOO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=boo
+
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" group-title="新马节目" tvg-chno="4288" tvg-shift="0",HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
+
+#EXTINF:-1 tvg-id="hbohits" tvg-name="HBO Hits" tvg-logo="https://get.perfecttv.net/logo/hbohits.png" group-title="新马节目" tvg-chno="4289" tvg-shift="0",HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf
+
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-logo="https://get.perfecttv.net/logo/hbofamily.png" group-title="新马节目" tvg-chno="4290" tvg-shift="0",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b
+
+#EXTINF:-1 tvg-id="4291" tvg-name="144 HBO Signature" tvg-logo="https://get.perfecttv.net/logo/hbosingnature.png" group-title="新马节目" tvg-chno="4291" tvg-shift="0",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:Referer=https://www.indihometv.com
+#EXTVLCOPT:Origin=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX HD" tvg-logo="https://get.perfecttv.net/logo/cinemax.png" group-title="新马节目" tvg-chno="4292" tvg-shift="0",CINEMAX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
+
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="Showtime" tvg-logo="https://i.ibb.co/j9mLZCqL/1772801477017.png" group-title="新马节目" tvg-chno="4293" tvg-shift="0",Showtime
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="Showcase Movies" tvg-logo="https://get.perfecttv.net/logo/showcase.png" group-title="新马节目" tvg-chno="4294" tvg-shift="0",Showcase Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=showcase
+
+#EXTINF:-1 tvg-id="rockaction" tvg-name="Rock Action" tvg-logo="https://get.perfecttv.net/logo/rockaction.png" group-title="新马节目" tvg-chno="4295" tvg-shift="0",Rock Action
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c64cf911505e42c8aa17869ae51206ba:2f3f5f1c609c1120216d4d72377d1ac2
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RockAction&kid=c64cf911-505e-42c8-aa17-869ae51206ba
+
+#EXTINF:-1 tvg-id="ROCKXSTREAM" tvg-name="RockXstream" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png" group-title="新马节目" tvg-chno="4296" tvg-shift="0",Rock Xstream
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GALAXY" tvg-name="148 Galaxy" tvg-logo="https://get.perfecttv.net/logo/galaxy.png" group-title="新马节目" tvg-chno="4297" tvg-shift="0",Galaxy
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=galaxy
+
+#EXTINF:-1 tvg-id="4298" tvg-name="CINEMAWORLD" tvg-logo="https://get.perfecttv.net/logo/cinemaworld.png" group-title="新马节目" tvg-chno="4298" tvg-shift="0",CINEMAWORLD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmulcbcuxlu9vk1ru2bcdqsht40u5.tvnows.workers.dev/DZs4r1B0VwR3T6Y1ynv47HyBqrYqaxcapZxFtSmxLXZrgsRROh
+https://cubmumpd0z2m13s4pkvv1bchljxzivaz.tvnows.workers.dev/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 tvg-id="HITS Movies" tvg-name="HITS Movies" tvg-logo="https://get.perfecttv.net/logo/hitsmovies.png" group-title="新马节目" tvg-chno="4299" tvg-shift="0",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hitsmovies
+
+#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://get.perfecttv.net/logo/imc.png" group-title="新马节目" tvg-chno="4300" tvg-shift="0",IMC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd?channel=imc
+
+#EXTINF:-1 tvg-id="4301" tvg-name="159 Studio Universal" tvg-logo="https://get.perfecttv.net/logo/studiouniversal.png" group-title="新马节目" tvg-chno="4301" tvg-shift="0",Studio Universal
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=studiouniversal
+
+#EXTINF:-1 tvg-id="4302" tvg-name="159 Originals" tvg-logo="https://get.perfecttv.net/logo/originals.png" group-title="新马节目" tvg-chno="4302" tvg-shift="0",Originals
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=originals
+
+#EXTINF:-1 tvg-id="4303" tvg-name="160 Cineedge" tvg-logo="https://get.perfecttv.net/logo/cineedge.png" group-title="新马节目" tvg-chno="4303" tvg-shift="0",Cineedge
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cineedge
+
+#EXTINF:-1 tvg-id="4304" tvg-name="161 Superrix" tvg-logo="https://get.perfecttv.net/logo/superrix.png" group-title="新马节目" tvg-chno="4304" tvg-shift="0",Superrix
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=superrix
+
+#EXTINF:-1 tvg-id="4305" tvg-name="162 Uniques" tvg-logo="https://get.perfecttv.net/logo/uniques.png" group-title="新马节目" tvg-chno="4305" tvg-shift="0",Uniques
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=uniques
+
+#EXTINF:-1 tvg-id="4306" tvg-name="162 Buddy Star" tvg-logo="https://get.perfecttv.net/logo/buddystar.png" group-title="新马节目" tvg-chno="4306" tvg-shift="0",Buddy Star
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
+https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=buddystar
+
+#EXTINF:-1 tvg-id="4307" tvg-name="Movies Now" tvg-logo="https://get.perfecttv.net/logo/moviesnow.png" group-title="新马节目" tvg-chno="4307" tvg-shift="0",Movies Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moviesnow
+
+#EXTINF:-1 tvg-id="4308" tvg-name="MNX HD" tvg-logo="https://get.perfecttv.net/logo/mnx.png" group-title="新马节目" tvg-chno="4308" tvg-shift="0",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnxhd
+
+#EXTINF:-1 tvg-id="4309" tvg-name="MX Plus" tvg-logo="https://get.perfecttv.net/logo/mnplus.png" group-title="新马节目" tvg-chno="4309" tvg-shift="0",MX Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=mnplus
+
+#EXTINF:-1 tvg-id="4310" tvg-name="Sony Pix" tvg-logo="https://get.perfecttv.net/logo/sonypix.png" group-title="新马节目" tvg-chno="4310" tvg-shift="0",Sony Pix
+http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2688.ts?channel=pix
+
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery HD" tvg-logo="https://get.perfecttv.net/logo/discovery.png" group-title="新马节目" tvg-chno="4326" tvg-shift="0",Discovery HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryhd
+
+#EXTINF:-1 tvg-id="discoveryasia" tvg-name="Discovery Asia" tvg-logo="https://get.perfecttv.net/logo/discoveryasia.png" group-title="新马节目" tvg-chno="4327" tvg-shift="0",Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryasia
+
+#EXTINF:-1 tvg-id="globaltrekker" tvg-name="Global Trekker" tvg-logo="https://get.perfecttv.net/logo/globaltrekker.png" group-title="新马节目" tvg-chno="4328" tvg-shift="0",Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=globaltrekker
+
+#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" tvg-logo="https://get.perfecttv.net/logo/bbcearth.png" group-title="新马节目" tvg-chno="4329" tvg-shift="0",BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd?channel=bbcearth
+
+#EXTINF:-1 tvg-id="512.unifi" tvg-name="BBC Lifestyle" tvg-logo="https://get.perfecttv.net/logo/bbclifestyle.png" group-title="新马节目" tvg-chno="4330" tvg-shift="0",BBC Lifestyle
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbclifestyle
 
 
 
