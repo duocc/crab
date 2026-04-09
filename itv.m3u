@@ -834,13 +834,9 @@ http://g.969777.xyz/https://hls.iill.top/api/Cti-E/index.m3u8
 https://tv.iill.top/4gtv/4gtv-4gtv009
 #------ 4GTV 分类结束 ------
 #------ 新马节目 分类开始 ------
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="新马节目",翡翠台4K「推流」
-https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="新马节目",明珠台「推流」
-https://4g.969777.xyz/https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="新马节目",华丽翡翠台(新加坡)「推流」
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="新马节目",华丽翡翠台(新加坡)
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-name="天映頻道(新加坡)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="新马节目",天映新加坡
+#EXTINF:-1 tvg-name="天映頻道(新加坡)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="新马节目",天映頻道(新加坡)
 http://4g.969777.xyz/https://cdn10.163189.xyz/stream/163189/typd/
 #EXTINF:-1 tvg-name="CH5" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CH5.png" group-title="新马节目",CH5 (新加坡)
 http://4g.969777.xyz/http://cdn6.163189.xyz/163189/ch5
@@ -848,8 +844,8 @@ http://4g.969777.xyz/http://cdn6.163189.xyz/163189/ch5
 http://4g.969777.xyz/http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 tvg-name="CHU" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/CHU.png" group-title="新马节目",CHU (新加坡)
 http://4g.969777.xyz/http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/八度空间.png" group-title="新马节目",八度空间HD「Astro」
-http://4g.969777.xyz/http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/八度空间.png" group-title="新马节目",八度空间「Astro」
+http://4g.969777.xyz/https://969777.xyz/epg/smg/114815/
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/华丽翡翠台.png" group-title="新马节目",「Astro」华丽翡翠台
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-id="天映頻道(馬來西亞)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="新马节目",「Astro」天映频道
@@ -863,7 +859,7 @@ https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/AstroAEC.png" group-title="新马节目",「Astro」AEC
 https://4g.969777.xyz/https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/ASTROQUANJIA.png" group-title="新马节目",「Astro」QJ
-https://smt2.1678520.xyz/smt3.2.1.php?id=Quanjia
+http://4g.969777.xyz/https://969777.xyz/epg/smg/580/
 #EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://epg.iill.top/logo/欢喜台.png" group-title="新马节目",「Astro」欢喜台
 https://g.969777.xyz/https://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://gcore.jsdelivr.net/gh/duocc/TVlogo/img/爱奇艺.png" group-title="新马节目",「Astro」爱奇艺
